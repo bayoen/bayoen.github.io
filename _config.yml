@@ -4,3 +4,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 home_url: https://bayoen.github.io
+star_url: https://bayoen.github.io/bayoen-star

@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to installation page
 
-_yay_
+_installationinstallationinstallationinstallation_
 
 [back](./)

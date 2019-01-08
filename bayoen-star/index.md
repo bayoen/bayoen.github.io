@@ -6,4 +6,4 @@ layout: default
 
 _yay_
 
-[back](bayoen-star/installation.html)
+[back](/installation.html)

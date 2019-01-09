@@ -12,7 +12,7 @@ _Main project is on progress... Until when we are ready, please have patience an
 [bayoen](https://github.com/bayoen/bayoen-exe) is a new project for Puyo Puyo Tetris add-on which analyzing game results.
 
 <p align="center">
-. <br/><br/>
-. <br/><br/>
+.<br/><br/>
+.<br/><br/>
 .
 </p>

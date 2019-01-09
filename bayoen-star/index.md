@@ -9,8 +9,8 @@ layout: default
 </p>
 
 <p align="center">
-. <br/><br/>
-. <br/><br/>
+.<br/><br/>
+.<br/><br/>
 .
 </p>
 
@@ -19,8 +19,8 @@ layout: default
 **'bayoen-star'** is counting star tool for **Puyo Puyo Tetris**. bayoen-star is sub-project of 'bayoen'
 
 <p align="center">
-. <br/><br/>
-. <br/><br/>
+.<br/><br/>
+.<br/><br/>
 .
 </p>
 
@@ -29,8 +29,8 @@ layout: default
 </p>
 
 <p align="center">
-. <br/><br/>
-. <br/><br/>
+.<br/><br/>
+.<br/><br/>
 .
 </p>
 
@@ -57,8 +57,8 @@ layout: default
 _개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 영리행위도 하지않는 팬메이드 입니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우 프로젝트를 폐쇄할 수 있습니다._
 
 <p align="center">
-. <br/><br/>
-. <br/><br/>
+.<br/><br/>
+.<br/><br/>
 .
 </p>
 
@@ -83,8 +83,8 @@ bayoen-star uses memory hooking. But it never affact any game balance! bayoen-st
 _Environment for dev. and testing is Windows 10 (.Net Framework 4.5). This project has no any commercial, it's just fan-made. All secondary copyrights be belong to SEGA! If SEGA order us to close this project, we shall do so._
 
 <p align="center">
-. <br/><br/>
-. <br/><br/>
+.<br/><br/>
+.<br/><br/>
 .
 </p>
 
@@ -109,7 +109,7 @@ _Environment for dev. and testing is Windows 10 (.Net Framework 4.5). This proje
 _개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 영리행위도 하지않는 팬메이드 입니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우 프로젝트를 폐쇄할 수 있습니다._
 
 <p align="center">
-. <br/><br/>
-. <br/><br/>
+.<br/><br/>
+.<br/><br/>
 .
 </p>

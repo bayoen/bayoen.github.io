@@ -5,7 +5,7 @@ layout: default
 # bayoen-star
 
 <p align="center">   
-   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="50%" hspace="10"/>
+   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="25%" hspace="10"/>
 </p>
 
 bayoen~

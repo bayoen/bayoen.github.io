@@ -15,8 +15,8 @@ layout: default
 </p>
 
 <p align="center">
-   <img src="/bayoen-star-example-goal-total-none.png" width="48%" alt="bayoen-star-example"/> <img src="/bayoen-star-example-ingame.png" width="48%" alt="bayoen-star-example-ingame"/> <br/>
-   <img src="/bayoen-star-example-chroma.png" width="48%" alt="bayoen-star-example-chroma"/> <img src="/bayoen-star-example-goal-first-blue" width="48%" alt="bayoen-star-example-goal-first-blue"/>
+   <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="48%" alt="bayoen-star-example"/> <img src="/bayoen-star/bayoen-star-example-ingame.png" width="48%" alt="bayoen-star-example-ingame"/> <br/>
+   <img src="/bayoen-star/bayoen-star-example-chroma.png" width="48%" alt="bayoen-star-example-chroma"/> <img src="/bayoen-star/bayoen-star-example-goal-first-blue" width="48%" alt="bayoen-star-example-goal-first-blue"/>
 </p>
 
 <!-- ![bayoen-star-example](/bayoen-star-example-goal-total-none.png#center)

@@ -16,7 +16,9 @@ bayoen~
 
 <a name="Korean"> </a>
 # 한국어
-
+<a href="{{ page.url }}#Korean" class="btn" style="color: black">한국어</a>
+<a href="{{ page.url }}#Korean" class="btn" style="color: black">한국어</a>
+<a href="{{ page.url }}#Korean" class="btn" style="color: black">한국어</a>
 
 
 <a name="English"> </a>

@@ -18,7 +18,7 @@ _Main project is on progress... Until when we are ready, please have patience an
 </p>
 
 <p align="center">
-   <a href="https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with"><img src="/bayoen-star/dailycarbuncle-carby-standing-award-stand.png" width="30%" alt="bayoen~"/></a>
+   <a href="https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with"><img src="/dailycarbuncle-carby-standing-award-stand.png" width="30%" alt="bayoen~"/></a>
 </p>
 
 <p align="center">

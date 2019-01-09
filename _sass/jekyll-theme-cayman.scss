@@ -61,7 +61,7 @@ a {
   }
 }
 
-.btn {
+.btn, .in-btn {
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
@@ -102,6 +102,16 @@ a {
       margin-top: 1rem;
       margin-left: 0;
     }
+  }
+}
+
+.in-btn {
+  border-color: rgba(15, 120, 120, 0.7);
+  &:hover {
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    background-color: rgba(15, 120, 120, 0.7);
+    border-color: rgba(0, 0, 0);
   }
 }
 

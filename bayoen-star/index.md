@@ -42,7 +42,7 @@ layout: default
     <a href="/bayoen-star/instruction.html" class="in-btn">기능/사용법</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">방송세팅</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">신고/건의</a>
-    <a href="https://github.com/bayoen/bayoen-star-exe/acknowledgement" class="in-btn">감사링</a>
+    <a href="/acknowledgement.html" class="in-btn">감사링</a>
 </p>
 
 **바요엔-스타**는 뿌요뿌요 테트리스의 에드온 프로그램입니다.
@@ -64,7 +64,7 @@ _개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 �
     <a href="/bayoen-star/instruction.html" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">Streaming</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">Issue/Idea</a>
-    <a href="https://github.com/bayoen/bayoen-star-exe/acknowledgement" class="in-btn">Ack.</a>
+    <a href="/acknowledgement.html" class="in-btn">Ack.</a>
 </p>
 
 **bayoen-star** is add-on of Puyo Puyo Tetris.
@@ -85,5 +85,5 @@ _Environment for dev. and testing is Windows 10 (.Net Framework 4.5). This proje
     <a href="/bayoen-star/instruction.html" class="in-btn">機能/使用法</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">放送用</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">申告/建議</a>
-    <a href="https://github.com/bayoen/bayoen-star-exe/acknowledgement" class="in-btn">謝詞</a>
+    <a href="/acknowledgement.html" class="in-btn">謝詞</a>
 </p>

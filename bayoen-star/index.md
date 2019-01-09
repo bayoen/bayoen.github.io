@@ -17,7 +17,7 @@ bayoen~
 <a name="Korean"> </a>
 # 한국어
 <p align="center">       
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases/latest" class="in-btn">다운로드</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">다운로드</a>
     <a href="/bayoen-star/instruction.html" class="in-btn">사용법</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">방송세팅</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">신고/건의</a>
@@ -29,7 +29,7 @@ bayoen~
 <a name="English"> </a>
 # English
 <p align="center">       
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases/latest" class="in-btn">Download</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">Download</a>
     <a href="/bayoen-star/instruction.html" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">Streaming</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">Issue/Idea</a>
@@ -43,7 +43,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <a name="Japanese"> </a>
 # 日本語
 <p align="center">       
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases/latest" class="in-btn">ダウンロード</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">ダウンロード</a>
     <a href="/bayoen-star/instruction.html" class="in-btn">使用法</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">放送用</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">申告/建議</a>

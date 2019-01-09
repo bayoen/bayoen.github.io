@@ -8,20 +8,20 @@ layout: default
    <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="15%" hspace="10" alt="bayoen~"/>
 </p>
 
+<p align="center">   
+. <br/><br/>
+. <br/><br/>
 .
-
-.
-
-.
+</p>
 
 ![bayoen-star-example](/bayoen-star-example.png#center)
 'bayoen-star' is counting star tool for Puyo Puyo Tetris and is sub-project of 'bayoen'
 
+<p align="center">   
+. <br/><br/>
+. <br/><br/>
 .
-
-.
-
-.
+</p>
 
 <a name="Korean"> </a>
 # 한국어

@@ -24,6 +24,14 @@ layout: default
 .
 </p>
 
+[![bayoen-star-example](/bayoen-star/dailycarbuncle-carby-standing-award-stand.png#center)](https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with)
+
+<p align="center">   
+. <br/><br/>
+. <br/><br/>
+.
+</p>
+
 <a name="Korean"> </a>
 # 한국어
 <p align="center">       

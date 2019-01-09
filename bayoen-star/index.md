@@ -34,6 +34,7 @@ layout: default
 .
 </p>
 
+<br/><br/>
 <a name="Korean"> </a>
 # 한국어
 <p align="center">       
@@ -55,6 +56,7 @@ layout: default
 _개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 영리행위도 하지않는 팬메이드 입니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우 프로젝트를 폐쇄할 수 있습니다._
 
 
+<br/><br/>
 <a name="English"> </a>
 # English
 <p align="center">       
@@ -75,6 +77,7 @@ bayoen-star uses memory hooking. But it never affact any game balance! bayoen-st
 
 _Environment for dev. and testing is Windows 10 (.Net Framework 4.5). This project has no any commercial, it's just fan-made. All secondary copyrights be belong to SEGA! If SEGA order us to close this project, we shall do so._
 
+<br/><br/>
 <a name="Japanese"> </a>
 # 日本語
 <p align="center">       

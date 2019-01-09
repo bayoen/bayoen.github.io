@@ -5,12 +5,12 @@ layout: default
 # bayoen-star
 
 <p align="center">   
-   <img src="/dailycarbuncle_kirbuncle.png" width="50%" hspace="10"/>
+   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="50%" hspace="10"/>
 </p>
 
 bayoen~
 
-'bayoen-star' is 
+'bayoen-star' is -
 
 ![bayoen-star-example](/bayoen-star-example.png#center)
 

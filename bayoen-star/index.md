@@ -19,11 +19,18 @@ layout: bayoen-star
    <img src="/bayoen-star/bayoen-star-example-chroma.png" width="48%" alt="bayoen-star-example-chroma"/> <img src="/bayoen-star/bayoen-star-example-goal-first-blue.png" width="48%" alt="bayoen-star-example-goal-first-blue"/>
 </p> -->
 
-![bayoen-star-example](/bayoen-star-example-goal-total-none.png#center)
+<!-- ![bayoen-star-example](/bayoen-star-example-goal-total-none.png#center)
 
 ![bayoen-star-example-goal-first-blue](/bayoen-star-example-goal-first-blue.png#center)
 
-![bayoen-star-example-ingame](bayoen-star-example-ingame.png#center)
+![bayoen-star-example-ingame](bayoen-star-example-ingame.png#center) -->
+
+<p align="center">
+    <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/> <br/>    
+    <img src="/bayoen-star/bayoen-star-example-chroma.png" width="70%" alt="bayoen-star-example-chroma"/> <br/>
+    <img src="/bayoen-star/bayoen-star-example-goal-first-blue.png" width="70%" alt="bayoen-star-example-goal-first-blue"/> <br/>
+    <img src="/bayoen-star/bayoen-star-example-ingame.png" width="70%" alt="bayoen-star-example-ingame"/>
+</p>
 
 **'bayoen-star'** is counting star tool for **Puyo Puyo Tetris**. bayoen-star is sub-project of 'bayoen'
 

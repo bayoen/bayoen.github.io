@@ -25,7 +25,7 @@ layout: default
 </p>
 
 <p align="center">   
-   <a href="https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with"><img src="/bayoen-star/dailycarbuncle-carby-standing-award-stand.png" width="15%" hspace="10" alt="bayoen~"/></a>
+   <a href="https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with"><img src="/bayoen-star/dailycarbuncle-carby-standing-award-stand.png" width="25%" hspace="10" alt="bayoen~"/></a>
 </p>
 
 <p align="center">   
@@ -41,13 +41,14 @@ layout: default
     <a href="/bayoen-star/instruction.html" class="in-btn">기능/사용법</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">방송세팅</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">신고/건의</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/acknowledgement" class="in-btn">감사링</a>
 </p>
 
 **바요엔-스타**는 뿌요뿌요 테트리스의 에드온 프로그램입니다. 1:1 경기(1P/2P 기준)에서 승점을 세어줍니다. 친구와 친선전을 할 때 써보세요! 간단한 사용법과 유용한 기능들이 있습니다. 자세한 내용은 위쪽 메뉴를 눌러보세요
 
 바요엔-스타는 뿌요뿌요 테트리스 내부정보를 조작하지 않습니다. 게임 벨런스에는 1도 영향을 주지 않습니다!
 
-_바요엔-스타는 메모리 후킹을 사용합니다. 개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 행태로든 영리행위를 하지 않습니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우 프로젝트를 폐쇄할 수 있습니다._
+_바요엔-스타는 메모리 후킹을 사용합니다. 개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 영리행위도 하지않는 팬메이드 입니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우 프로젝트를 폐쇄할 수 있습니다._
 
 
 <a name="English"> </a>
@@ -57,6 +58,7 @@ _바요엔-스타는 메모리 후킹을 사용합니다. 개발 및 테스트 �
     <a href="/bayoen-star/instruction.html" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">Streaming</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">Issue/Idea</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/acknowledgement" class="in-btn">Ack.</a>
 </p>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -71,4 +73,5 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
     <a href="/bayoen-star/instruction.html" class="in-btn">機能/使用法</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">放送用</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">申告/建議</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/acknowledgement" class="in-btn">謝詞</a>
 </p>

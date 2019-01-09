@@ -5,14 +5,23 @@ layout: default
 # bayoen-star
 
 <p align="center">   
-   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="15%" hspace="10"/>
+   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="15%" hspace="10" alt="bayoen~"/>
 </p>
 
-bayoen~
+.
 
-'bayoen-star' is sub-project of
+.
+
+.
 
 ![bayoen-star-example](/bayoen-star-example.png#center)
+'bayoen-star' is counting star tool for Puyo Puyo Tetris and is sub-project of 'bayoen'
+
+.
+
+.
+
+.
 
 <a name="Korean"> </a>
 # 한국어

@@ -119,9 +119,8 @@ a {
   &:hover {
     color: rgba(0, 0, 0, 0.8);
     text-decoration: none;
-    background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
-    background-color: rgba(15, 120, 120, 0.4);
-    border-color: rgba(15, 120, 120, 0.4);
+    background-color: rgba(21, 165, 165, 0.8);
+    //border-color: rgba(15, 120, 120, 0.4);
   }
 
   + .in-btn {

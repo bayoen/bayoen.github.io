@@ -13,3 +13,19 @@ img[src*='#center'] {
     display: block;
     margin: auto;
 }
+img[src*='#regular'] {
+    max-width: 400px;
+}
+img[src*='#rleft'] {
+    float: left;
+    max-width: 400px;
+}
+img[src*='#rright'] {
+    float: right;
+    max-width: 400px;
+}
+img[src*='#rcenter'] {
+    max-width: 400px;
+    display: block;
+    margin: auto;
+}

@@ -16,7 +16,7 @@ layout: default
 
 ![bayoen-star-example](/bayoen-star-example.png#center)
 
-'bayoen-star' is counting star tool for Puyo Puyo Tetris and is sub-project of 'bayoen'
+**'bayoen-star'** is counting star tool for **Puyo Puyo Tetris**. bayoen-star is sub-project of 'bayoen'
 
 <p align="center">   
 . <br/><br/>

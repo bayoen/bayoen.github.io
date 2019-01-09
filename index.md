@@ -4,7 +4,7 @@ layout: default
 
 # bayoen
 
-![bayoen~](/bayoen-en.png#center)
+![bayoen~](/bayoen-en.png#center)\
 
 _Main project is on progress... Until when we are ready, please have patience and try [bayoen-star](/bayoen-star) instead :D_
 

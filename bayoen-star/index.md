@@ -16,10 +16,9 @@ bayoen~
 
 <a name="Korean"> </a>
 # 한국어
-<p align="center">   
-    <a href="{{ page.url }}#Korean" class="in-btn">한국어</a>
+<p align="center">       
     <a href="https://github.com/bayoen/bayoen-star-exe/releases/latest" class="in-btn">다운로드</a>
-    <a href="{{ page.url }}#Korean" class="in-btn">한국어</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">신고/건의</a>
 </p>
 
 

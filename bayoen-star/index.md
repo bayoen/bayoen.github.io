@@ -38,10 +38,10 @@ layout: default
 <a name="Korean"> </a>
 # 한국어
 <p align="center">
-    <!-- <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">다운로드</a> -->
-    <a href="/bayoen-star/download.html" class="in-btn">다운로드</a>
+    <!-- <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">내려받기</a> -->
+    <a href="/bayoen-star/download.html" class="in-btn">내려받기</a>
     <a href="/bayoen-star/instruction.html" class="in-btn">기능/사용법</a>
-    <a href="/bayoen-star/streaming.html" class="in-btn">방송세팅</a>
+    <a href="/bayoen-star/streaming.html" class="in-btn">방송설정</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">신고/건의</a>
     <a href="/acknowledgement.html" class="in-btn">감사링</a>
 </p>
@@ -93,7 +93,7 @@ _Environment for dev. and testing is Windows 10 (.Net Framework 4.5). This proje
 <p align="center">
     <a href="/bayoen-star/download.html" class="in-btn">ダウンロード</a>
     <a href="/bayoen-star/instruction.html" class="in-btn">機能/使用法</a>
-    <a href="/bayoen-star/streaming.html" class="in-btn">放送用</a>
+    <a href="/bayoen-star/streaming.html" class="in-btn">放送設定</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">申告/建議</a>
     <a href="/acknowledgement.html" class="in-btn">謝詞</a>
 </p>

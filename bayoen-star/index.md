@@ -4,7 +4,7 @@ layout: bayoen-star
 
 # bayoen-star
 
-<!-- <p align="center">
+<p align="center">
    <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
 </p>
 
@@ -12,7 +12,7 @@ layout: bayoen-star
 .<br/><br/>
 .<br/><br/>
 .
-</p> -->
+</p>
 
 <!-- <p align="center">
    <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="48%" alt="bayoen-star-example"/> <img src="/bayoen-star/bayoen-star-example-ingame.png" width="48%" alt="bayoen-star-example-ingame"/> <br/>
@@ -76,7 +76,7 @@ _개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 �
     <a href="/bayoen-star/instruction.html" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">Streaming</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">Issue/Idea</a>
-    <a href="/acknowledgement.html" class="in-btn">Ack.</a>
+    <a href="/bayoen-star/acknowledgement.html" class="in-btn">Ack.</a>
 </p>
 
 **bayoen-star** is add-on of Puyo Puyo Tetris.

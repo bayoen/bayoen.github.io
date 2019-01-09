@@ -25,7 +25,7 @@ layout: default
 </p>
 
 <p align="center">   
-   <img src="/bayoen-star/dailycarbuncle-carby-standing-award-stand.png" href="https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with" width="15%" hspace="10" alt="bayoen~"/>
+   <a href="https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with"><img src="/bayoen-star/dailycarbuncle-carby-standing-award-stand.png" width="15%" hspace="10" alt="bayoen~"/></a>
 </p>
 
 <p align="center">   

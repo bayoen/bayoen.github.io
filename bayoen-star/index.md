@@ -4,11 +4,13 @@ layout: default
 
 # bayoen-star
 
-![dailycarbuncle_kirbuncle](/dailycarbuncle_kirbuncle.png#center)
+<p align="center">   
+   <img src="/dailycarbuncle_kirbuncle.png" width="50%" hspace="10"/>
+</p>
 
 bayoen~
 
-
+'bayoen-star' is 
 
 ![bayoen-star-example](/bayoen-star-example.png#center)
 

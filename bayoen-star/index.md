@@ -4,7 +4,7 @@ layout: default
 
 # bayoen-star
 
-![bayoen-star-example](/bayoen-star-example.png)
+![bayoen-star-example](/bayoen-star-example.png#right)
 
 <!-- <a name="Korean"> </a>
 # 한국어

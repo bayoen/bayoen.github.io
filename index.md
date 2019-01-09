@@ -4,7 +4,7 @@ layout: default
 
 # bayoen
 
-![bayoen-logo](/bayoen-en.png#center#regular)
+![bayoen-logo](/bayoen-en.png#rcenter)
 
 bayoen~
 

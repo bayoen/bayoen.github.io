@@ -8,4 +8,4 @@ layout: default
 
 bayoen~
 
-Main project is on progress... Until when we are ready, please have patience and try bayoen-star instead :D
+Main project is on progress... Until when we are ready, please have patience and try [bayoen-star](/bayoen-star) instead :D

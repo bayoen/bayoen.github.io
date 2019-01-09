@@ -4,9 +4,13 @@ layout: default
 
 # bayoen-star
 
-![bayoen-star-example](/bayoen-star-example.png#center)
+![dailycarbuncle_kirbuncle](/dailycarbuncle_kirbuncle.png#center)
 
 bayoen~
+
+
+
+![bayoen-star-example](/bayoen-star-example.png#center)
 
 
 

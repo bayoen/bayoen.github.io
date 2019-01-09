@@ -4,11 +4,11 @@ layout: default
 
 # bayoen-star
 
-<p align="center">   
+<p align="center">
    <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" hspace="10" alt="bayoen~"/>
 </p>
 
-<p align="center">   
+<p align="center">
 . <br/><br/>
 . <br/><br/>
 .
@@ -18,17 +18,17 @@ layout: default
 
 **'bayoen-star'** is counting star tool for **Puyo Puyo Tetris**. bayoen-star is sub-project of 'bayoen'
 
-<p align="center">   
+<p align="center">
 . <br/><br/>
 . <br/><br/>
 .
 </p>
 
-<p align="center">   
+<p align="center">
    <a href="https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with"><img src="/bayoen-star/dailycarbuncle-carby-standing-award-stand.png" width="30%" hspace="10" alt="bayoen~"/></a>
 </p>
 
-<p align="center">   
+<p align="center">
 . <br/><br/>
 . <br/><br/>
 .
@@ -37,8 +37,9 @@ layout: default
 <br/><br/>
 <a name="Korean"> </a>
 # 한국어
-<p align="center">       
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">다운로드</a>
+<p align="center">
+    <!-- <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">다운로드</a> -->
+    <a href="/bayoen-star/download.html" class="in-btn">다운로드</a>
     <a href="/bayoen-star/instruction.html" class="in-btn">기능/사용법</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">방송세팅</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">신고/건의</a>
@@ -55,7 +56,7 @@ layout: default
 
 _개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 영리행위도 하지않는 팬메이드 입니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우 프로젝트를 폐쇄할 수 있습니다._
 
-<p align="center">   
+<p align="center">
 . <br/><br/>
 . <br/><br/>
 .
@@ -63,8 +64,8 @@ _개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 �
 
 <a name="English"> </a>
 # English
-<p align="center">       
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">Download</a>
+<p align="center">
+    <a href="/bayoen-star/download.html" class="in-btn">Download</a>
     <a href="/bayoen-star/instruction.html" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">Streaming</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">Issue/Idea</a>
@@ -81,7 +82,7 @@ bayoen-star uses memory hooking. But it never affact any game balance! bayoen-st
 
 _Environment for dev. and testing is Windows 10 (.Net Framework 4.5). This project has no any commercial, it's just fan-made. All secondary copyrights be belong to SEGA! If SEGA order us to close this project, we shall do so._
 
-<p align="center">   
+<p align="center">
 . <br/><br/>
 . <br/><br/>
 .
@@ -89,15 +90,15 @@ _Environment for dev. and testing is Windows 10 (.Net Framework 4.5). This proje
 
 <a name="Japanese"> </a>
 # 日本語
-<p align="center">       
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">ダウンロード</a>
+<p align="center">
+    <a href="/bayoen-star/download.html" class="in-btn">ダウンロード</a>
     <a href="/bayoen-star/instruction.html" class="in-btn">機能/使用法</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">放送用</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">申告/建議</a>
     <a href="/acknowledgement.html" class="in-btn">謝詞</a>
 </p>
 
-<p align="center">   
+<p align="center">
 . <br/><br/>
 . <br/><br/>
 .

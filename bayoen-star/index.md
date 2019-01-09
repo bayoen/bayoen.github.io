@@ -4,7 +4,7 @@ layout: bayoen-star
 
 # bayoen-star
 
-<p align="center">
+<!-- <p align="center">
    <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
 </p>
 
@@ -12,7 +12,7 @@ layout: bayoen-star
 .<br/><br/>
 .<br/><br/>
 .
-</p>
+</p> -->
 
 <p align="center">
    <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="48%" alt="bayoen-star-example"/> <img src="/bayoen-star/bayoen-star-example-ingame.png" width="48%" alt="bayoen-star-example-ingame"/> <br/>
@@ -24,15 +24,6 @@ layout: bayoen-star
 
 **'bayoen-star'** is counting star tool for **Puyo Puyo Tetris**. bayoen-star is sub-project of 'bayoen'
 
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-<p align="center">
-   <a href="https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with"><img src="/bayoen-star/dailycarbuncle-carby-standing-award-stand.png" width="30%" alt="bayoen~"/></a>
-</p>
 
 <p align="center">
 .<br/><br/>

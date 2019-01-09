@@ -39,11 +39,11 @@ layout: default
 # 한국어
 <p align="center">
     <!-- <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">내려받기</a> -->
-    <a href="/bayoen-star/download.html" class="in-btn">내려받기</a>
+    <a href="/bayoen-star/download.html" class="in-btn">다운로드</a>
     <a href="/bayoen-star/instruction.html" class="in-btn">기능/사용법</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">방송설정</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">신고/건의</a>
-    <a href="/acknowledgement.html" class="in-btn">감사링</a>
+    <a href="/acknowledgement.html" class="in-btn">감사의 글</a>
 </p>
 
 **바요엔-스타**는 뿌요뿌요 테트리스의 에드온 프로그램입니다.

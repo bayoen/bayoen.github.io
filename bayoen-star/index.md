@@ -5,7 +5,7 @@ layout: default
 # bayoen-star
 
 <p align="center">
-   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" hspace="10" alt="bayoen~"/>
+   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ layout: default
 </p>
 
 <p align="center">
-   <a href="https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with"><img src="/bayoen-star/dailycarbuncle-carby-standing-award-stand.png" width="30%" hspace="10" alt="bayoen~"/></a>
+   <a href="https://dailycarbuncle.tumblr.com/post/181031642801/hello-please-draw-carby-standing-award-stand-with"><img src="/bayoen-star/dailycarbuncle-carby-standing-award-stand.png" width="30%" alt="bayoen~"/></a>
 </p>
 
 <p align="center">

@@ -5,14 +5,12 @@ layout: default
 # bayoen-star
 
 <p align="center">   
-   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="25%" hspace="10"/>
+   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="15%" hspace="10"/>
 </p>
 
 bayoen~
 
-'bayoen-star' is -
-
-<a href="{{ site.star_url }}" class="btn" style="color: black">bayoen-star⭐</a>
+'bayoen-star' is sub project of
 
 ![bayoen-star-example](/bayoen-star-example.png#center)
 
@@ -32,4 +30,4 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <a name="Japanese"> </a>
 # 日本語
 
-[Link to another page](./another-page.html). -->
+. -->

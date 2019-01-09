@@ -12,7 +12,7 @@ bayoen~
 
 'bayoen-star' is -
 
-<a href="{{ site.star_url }}" class="btn">bayoen-star⭐</a>
+<a href="{{ site.star_url }}" class="btn" style="color: black">bayoen-star⭐</a>
 
 ![bayoen-star-example](/bayoen-star-example.png#center)
 

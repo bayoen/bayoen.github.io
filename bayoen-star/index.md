@@ -38,12 +38,14 @@ layout: default
 # 한국어
 <p align="center">       
     <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">다운로드</a>
-    <a href="/bayoen-star/instruction.html" class="in-btn">사용법</a>
+    <a href="/bayoen-star/instruction.html" class="in-btn">기능/사용법</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">방송세팅</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">신고/건의</a>
 </p>
 
+**바요엔-스타**는 뿌요뿌요 테트리스의 에드온 프로그램입니다. 1:1 경기(1P/2P 기준)에서 승점을 세어줍니다.
 
+_뿌요뿌요 테트리스 내부의 정보를 조작하지 않고, 전적분석을 위해 읽기만 합니다. 개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 행태로든 영리행위를 하지 않습니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우 프로젝트를 폐쇄할 수 있습니다._
 
 
 <a name="English"> </a>
@@ -64,7 +66,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 # 日本語
 <p align="center">       
     <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">ダウンロード</a>
-    <a href="/bayoen-star/instruction.html" class="in-btn">使用法</a>
+    <a href="/bayoen-star/instruction.html" class="in-btn">機能/使用法</a>
     <a href="/bayoen-star/streaming.html" class="in-btn">放送用</a>
     <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">申告/建議</a>
 </p>

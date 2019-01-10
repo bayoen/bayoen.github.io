@@ -39,7 +39,7 @@ Streaming Streaming Streaming Streaming
 <a name="English"> </a>
 # Streaming (English)
 <p align="center">
-    <a href="/bayoen-star/#English" class="in-btn">Home</a>
+    <a href="/bayoen-star/#English" class="in-btn">Introduction</a>
     <a href="/bayoen-star/download.html#English" class="in-btn">Download</a>
     <a href="/bayoen-star/instruction.html#English" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html#English" class="in-btn">Streaming</a>

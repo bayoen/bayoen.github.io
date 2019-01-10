@@ -45,7 +45,6 @@ layout: bayoen-star
 <a name="Korean"> </a>
 # 소개 (한국어)
 <p align="center">
-    <!-- <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">내려받기</a> -->
     <a href="/bayoen-star/download.html#Korean" class="in-btn">다운로드</a>
     <a href="/bayoen-star/instruction.html#Korean" class="in-btn">기능/사용법</a>
     <a href="/bayoen-star/streaming.html#Korean" class="in-btn">방송설정</a>

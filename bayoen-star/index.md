@@ -69,7 +69,7 @@ _개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. �
 <a name="English"> </a>
 # Introduction (English)
 <p align="center">
-    <a href="/bayoen-star/#English" class="in-btn">Introduction</a>
+    <a href="/bayoen-star/#English" class="in-btn">Intro.</a>
     <a href="/bayoen-star/download.html#English" class="in-btn">Download</a>
     <a href="/bayoen-star/instruction.html#English" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html#English" class="in-btn">Streaming</a>

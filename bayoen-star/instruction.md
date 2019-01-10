@@ -39,7 +39,7 @@ Instruction Instruction Instruction Instruction
 <a name="English"> </a>
 # Instruction (English)
 <p align="center">
-    <a href="/bayoen-star/#English" class="in-btn">Introduction</a>
+    <a href="/bayoen-star/#English" class="in-btn">Intro.</a>
     <a href="/bayoen-star/download.html#English" class="in-btn">Download</a>
     <a href="/bayoen-star/instruction.html#English" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html#English" class="in-btn">Streaming</a>

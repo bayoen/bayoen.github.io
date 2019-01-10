@@ -36,7 +36,7 @@ layout: bayoen-star
 .
 </p>
 
-<br/><br/>
+<br/>
 <a name="Korean"> </a>
 # 방송설정 (한국어)
 <p align="center">

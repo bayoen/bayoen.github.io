@@ -10,7 +10,7 @@ layout: bayoen-star
 .
 </p>
 
-<br/><br/>
+<br/>
 <a name="Korean"> </a>
 # 감사의 글 (한국어)
 <p align="center">

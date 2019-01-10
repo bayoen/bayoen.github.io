@@ -37,7 +37,7 @@ layout: bayoen-star
 .
 </p>
 
-<br/><br/>
+<br/>
 <a name="Korean"> </a>
 # 소개 (한국어)
 <p align="center">

@@ -12,7 +12,7 @@ How to download **bayoen-star**
 .
 </p>
 
-<br/><br/>
+<br/>
 <a name="Korean"> </a>
 # 다운로드 (한국어)
 <p align="center">

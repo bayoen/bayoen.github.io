@@ -23,7 +23,7 @@ layout: bayoen-star
 
 <p align="center">
     <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/><br/>
-    <!-- <img src="/bayoen-star/bayoen-star-example-chroma.png" width="70%" alt="bayoen-star-example-chroma"/> <br/> -->
+    <img src="/bayoen-star/bayoen-star-example-chroma.png" width="70%" alt="bayoen-star-example-chroma"/><br/>
     <img src="/bayoen-star/bayoen-star-example-goal-first-blue.png" width="70%" alt="bayoen-star-example-goal-first-blue"/><br/>
     <img src="/bayoen-star/bayoen-star-example-ingame.png" width="70%" alt="bayoen-star-example-ingame"/>
 </p>

@@ -4,13 +4,21 @@ layout: bayoen-star-en
 
 # bayoen-star
 
-<!-- ![bayoen-star-example](/bayoen-star-example-goal-total-none.png#center)
+<p align="center">
+    <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/>
+    <br/><img src="/bayoen-star/bayoen-star-example-ingame.png" width="70%" alt="bayoen-star-example-ingame"/>
+</p>
 
-![bayoen-star-example-goal-first-blue](/bayoen-star-example-goal-first-blue.png#center)
+**'bayoen-star'** is counting star tool for **Puyo Puyo Tetris**. bayoen-star is sub-project of ['bayoen']({{ site.home_url }}).
+It counts game scores in 1:1 match.
+Try this in Free Play!
+It's easy to use and has useful functionals like **'First to #.'**
+For details, check out above menus.
 
-![bayoen-star-example-ingame](bayoen-star-example-ingame.png#center) -->
+bayoen-star uses memory hooking. But it never affact any game balance!
+bayoen-star do not modify memories inside of Puyo Puyo Tetris.
 
-**'bayoen-star'** is counting star tool for **Puyo Puyo Tetris**. bayoen-star is sub-project of ['bayoen']({{ site.home_url }})
+_Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This project has no any commercial, it's just fan-made. All secondary copyrights be belong to SEGA! If SEGA order us to close this project, we sadly shall do so._
 
 <p align="center">
 .<br/><br/>

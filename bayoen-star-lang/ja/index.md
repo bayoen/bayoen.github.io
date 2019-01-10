@@ -2,15 +2,23 @@
 layout: bayoen-star-ja
 ---
 
-# bayoen-star
+# ばよえ~ん-スタ
 
-<!-- ![bayoen-star-example](/bayoen-star-example-goal-total-none.png#center)
+<p align="center">
+    <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/>
+    <br/><img src="/bayoen-star/bayoen-star-example-ingame.png" width="70%" alt="bayoen-star-example-ingame"/>
+</p>
 
-![bayoen-star-example-goal-first-blue](/bayoen-star-example-goal-first-blue.png#center)
+**ばよえ~ん-スタ**は**ぷよぷよテトリス**のアドオンプログラムです。 ばよえ~ん-スタは['ばよえ~ん']({{ site.home_url }})の細部プロジェクトです
+1:1競技で勝ち点を数えます。
+友達と親善試合をする時に使ってみましょう!
+使いやすいばかりでなく, **七番四勝,五番三勝**みたいな有用な機能がいろいろあります。
+もっと詳しい内容は上の方のメニューでご覧ください。
 
-![bayoen-star-example-ingame](bayoen-star-example-ingame.png#center) -->
+ばよえ~ん-スタはメモリ読み込みを使用するが, ゲームバランスには全く影響しません!
+ばよえ~ん-スタはぷよぷよテトリスの内部情報を操作しません。
 
-**'bayoen-star'** is counting star tool for **Puyo Puyo Tetris**. bayoen-star is sub-project of ['bayoen']({{ site.home_url }})
+_開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 このプロジェクトはいかなる営利行為も行わないファンメイドです。 全ての2次著作権はSEGAにあります!  SEGAの要請があった場合,プロジェクトを閉鎖することができます。。。_
 
 <p align="center">
 .<br/><br/>

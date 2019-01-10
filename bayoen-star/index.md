@@ -58,7 +58,7 @@ layout: bayoen-star
 바요엔-스타는 메모리 읽기를 사용하지만, 게임 밸런스에는 1도 영향을 주지 않습니다!
 바요엔-스타는 뿌요뿌요 테트리스 내부정보를 조작하지 않습니다.
 
-_개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 영리행위도 하지않는 팬메이드 입니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우 프로젝트를 폐쇄할 수 있습니다._
+_개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 영리행위도 하지않는 팬메이드 입니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우, 슬프지만 프로젝트를 폐쇄할 수도 있습니다._
 
 <p align="center">
 .<br/><br/>
@@ -86,7 +86,7 @@ For details, check out above menus.
 bayoen-star uses memory hooking. But it never affact any game balance!
 bayoen-star do not modify memories inside of Puyo Puyo Tetris.
 
-_Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This project has no any commercial, it's just fan-made. All secondary copyrights be belong to SEGA! If SEGA order us to close this project, we shall do so._
+_Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This project has no any commercial, it's just fan-made. All secondary copyrights be belong to SEGA! If SEGA order us to close this project, we sadly shall do so._
 
 <p align="center">
 .<br/><br/>
@@ -114,7 +114,7 @@ _Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This p
 ばよえ~ん-スタはメモリ読み込みを使用するが, ゲームバランスには全く影響しません!
 ばよえ~ん-スタはぷよぷよテトリスの内部情報を操作しません。
 
-_開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 このプロジェクトはいかなる営利行為も行わないファンメイドです。 全ての2次著作権はSEGAにあります!  SEGAの要請があった場合,プロジェクトを閉鎖することができます。_
+_開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 このプロジェクトはいかなる営利行為も行わないファンメイドです。 全ての2次著作権はSEGAにあります!  SEGAの要請があった場合,プロジェクトを閉鎖することができます。。。_
 
 <p align="center">
 .<br/><br/>

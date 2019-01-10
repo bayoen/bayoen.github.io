@@ -43,9 +43,9 @@ layout: bayoen-star
 
 <br/><br/>
 <a name="Korean"> </a>
-# 한국어
+# 소개 (한국어)
 <p align="center">
-    <a href="/bayoen-star/#Korean" class="in-btn">홈</a>
+    <a href="/bayoen-star/#Korean" class="in-btn">소개</a>
     <a href="/bayoen-star/download.html#Korean" class="in-btn">다운로드</a>
     <a href="/bayoen-star/instruction.html#Korean" class="in-btn">기능/사용법</a>
     <a href="/bayoen-star/streaming.html#Korean" class="in-btn">방송설정</a>
@@ -71,9 +71,9 @@ _개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. �
 </p>
 
 <a name="English"> </a>
-# English
+# Introduction (English)
 <p align="center">
-    <a href="/bayoen-star/#English" class="in-btn">Home</a>
+    <a href="/bayoen-star/#English" class="in-btn">Introduction</a>
     <a href="/bayoen-star/download.html#English" class="in-btn">Download</a>
     <a href="/bayoen-star/instruction.html#English" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html#English" class="in-btn">Streaming</a>
@@ -99,9 +99,9 @@ _Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This p
 </p>
 
 <a name="Japanese"> </a>
-# 日本語 
+# 紹介 (日本語)
 <p align="center">
-    <a href="/bayoen-star/#Japanese" class="in-btn">初め</a>
+    <a href="/bayoen-star/#Japanese" class="in-btn">紹介</a>
     <a href="/bayoen-star/download.html#Japanese" class="in-btn">ダウンロード</a>
     <a href="/bayoen-star/instruction.html#Japanese" class="in-btn">機能/使用法</a>
     <a href="/bayoen-star/streaming.html#Japanese" class="in-btn">放送設定</a>

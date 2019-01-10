@@ -43,7 +43,7 @@ layout: bayoen-star
 
 <br/><br/>
 <a name="Korean"> </a>
-# 한국어
+# 소개 (한국어)
 <p align="center">
     <!-- <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">내려받기</a> -->
     <a href="/bayoen-star/download.html#Korean" class="in-btn">다운로드</a>
@@ -70,7 +70,7 @@ _개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 �
 </p>
 
 <a name="English"> </a>
-# English
+# Introduction (English)
 <p align="center">
     <a href="/bayoen-star/download.html#English" class="in-btn">Download</a>
     <a href="/bayoen-star/instruction.html#English" class="in-btn">Instruction</a>
@@ -96,7 +96,7 @@ _Environment for dev. and testing is Windows 10 (.Net Framework 4.5). This proje
 </p>
 
 <a name="Japanese"> </a>
-# 日本語
+# 紹介 (日本語)
 <p align="center">
     <a href="/bayoen-star/download.html#Japanese" class="in-btn">ダウンロード</a>
     <a href="/bayoen-star/instruction.html#Japanese" class="in-btn">機能/使用法</a>

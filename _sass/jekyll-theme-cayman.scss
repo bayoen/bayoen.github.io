@@ -204,6 +204,14 @@ a {
   }
 }
 
+.navigator {
+  color: $header-heading-color;
+  text-align: center;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
 .main-content {
   word-wrap: break-word;
 

@@ -2,7 +2,7 @@
 layout: bayoen-star-ko
 ---
 
-# 감사의 말
+# 감사의 글
 
 <br/>
 <a name="Korean"> </a>

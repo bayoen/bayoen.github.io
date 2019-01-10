@@ -4,12 +4,6 @@ layout: bayoen-star-lang
 
 # bayoen-star
 
-<!-- ![bayoen-star-example](/bayoen-star-example-goal-total-none.png#center)
-
-![bayoen-star-example-goal-first-blue](/bayoen-star-example-goal-first-blue.png#center)
-
-![bayoen-star-example-ingame](bayoen-star-example-ingame.png#center) -->
-
 **'bayoen-star'** is counting star tool for **Puyo Puyo Tetris**. bayoen-star is sub-project of ['bayoen']({{ site.home_url }})
 
 <p align="center">

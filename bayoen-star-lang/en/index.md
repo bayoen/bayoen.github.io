@@ -1,5 +1,5 @@
 ---
-layout: bayoen-star-lang
+layout: bayoen-star-en
 ---
 
 # bayoen-star

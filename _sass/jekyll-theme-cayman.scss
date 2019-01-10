@@ -157,15 +157,15 @@ a {
   background-image: linear-gradient(90deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 2rem 4rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 1rem 2rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
   }
 }
 

@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: bayoen-star
 ---
 
-## Welcome to installation page
+# Acknowledgement
 
 _installationinstallationinstallationinstallation_
 

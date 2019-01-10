@@ -155,6 +155,7 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: linear-gradient(90deg, $header-bg-color-secondary, $header-bg-color);
+  opacity: 0.9;
 
   @include large {
     padding: 2rem 4rem 0.1rem;
@@ -208,8 +209,9 @@ a {
   color: $header-heading-color;
   background-color: $header-bg-color;
   background-image: linear-gradient(90deg, $header-bg-color-secondary, $header-bg-color);  
-  text-align: center;  
+  text-align: center;
   top: 0;
+  opacity: 0.9;
 
   @include large {
     position: -webkit-sticky; /* Safari */

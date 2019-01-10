@@ -6,6 +6,11 @@ layout: bayoen-star
 
 download download download download
 
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
 
 <br/><br/>
 <a name="Korean"> </a>
@@ -17,26 +22,6 @@ download download download download
 download download download download
 
 download download download download
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
 
 <p align="center">
 .<br/><br/>
@@ -60,27 +45,6 @@ download download download download
 .
 </p>
 
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-
 <a name="Japanese"> </a>
 # 日本語
 
@@ -90,26 +54,6 @@ download download download download
 download download download download
 
 download download download download
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
 
 <p align="center">
 .<br/><br/>

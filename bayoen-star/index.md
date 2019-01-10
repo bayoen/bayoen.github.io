@@ -4,16 +4,6 @@ layout: bayoen-star
 
 # bayoen-star
 
-<p align="center">
-   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
-</p>
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
 <!-- <p align="center">
    <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="48%" alt="bayoen-star-example"/> <img src="/bayoen-star/bayoen-star-example-ingame.png" width="48%" alt="bayoen-star-example-ingame"/> <br/>
    <img src="/bayoen-star/bayoen-star-example-chroma.png" width="48%" alt="bayoen-star-example-chroma"/> <img src="/bayoen-star/bayoen-star-example-goal-first-blue.png" width="48%" alt="bayoen-star-example-goal-first-blue"/>
@@ -119,6 +109,16 @@ _Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This p
 ばよえ~ん-スタはぷよぷよテトリスの内部情報を操作しません。
 
 _開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 このプロジェクトはいかなる営利行為も行わないファンメイドです。 全ての2次著作権はSEGAにあります!  SEGAの要請があった場合,プロジェクトを閉鎖することができます。_
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<p align="center">
+   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
+</p>
 
 <p align="center">
 .<br/><br/>

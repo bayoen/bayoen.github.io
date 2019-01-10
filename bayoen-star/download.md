@@ -4,7 +4,7 @@ layout: bayoen-star
 
 # Download
 
-download download download download
+How to download **bayoen-star**
 
 <p align="center">
 .<br/><br/>

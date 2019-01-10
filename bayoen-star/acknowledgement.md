@@ -190,3 +190,13 @@ contact: the.semirain@gmail.com
 .<br/><br/>
 .
 </p>
+
+<p align="center">
+   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
+</p>
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>

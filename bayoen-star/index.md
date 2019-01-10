@@ -56,8 +56,8 @@ layout: bayoen-star
 **바요엔-스타**는 뿌요뿌요 테트리스의 애드온 프로그램입니다.
 1:1 경기에서 승점을 세어줍니다.
 친구와 친선전을 할 때 써보세요!
-사용하기 쉽고 N선승 같은 유용한 기능들이 많이 있답니다.
-자세한 내용은 위쪽 메뉴를 눌러보세요
+사용하기 쉽고 **N선승** 같은 유용한 기능들이 많이 있답니다.
+자세한 내용은 위쪽 메뉴에서 살펴보세요.
 
 바요엔-스타는 메모리 읽기를 사용하지만, 게임 밸런스에는 1도 영향을 주지 않습니다! 바요엔-스타는 뿌요뿌요 테트리스 내부정보를 조작하지 않습니다.
 
@@ -82,8 +82,8 @@ _개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 �
 **bayoen-star** is add-on of Puyo Puyo Tetris.
 It counts game scores in 1:1 match.
 Try this in Free Play!
-It's easy to use and has useful functionals like 'First to #.'
-For details, check out above menus
+It's easy to use and has useful functionals like **'First to #.'**
+For details, check out above menus.
 
 bayoen-star uses memory hooking. But it never affact any game balance! bayoen-star do not modify memories inside of Puyo Puyo Tetris.
 
@@ -105,15 +105,15 @@ _Environment for dev. and testing is Windows 10 (.Net Framework 4.5). This proje
     <a href="/bayoen-star/acknowledgement.html" class="in-btn">謝詞</a>
 </p>
 
-**바요엔-스타**는 뿌요뿌요 테트리스의 애드온 프로그램입니다.
-1:1 경기에서 승점을 세어줍니다.
-친구와 친선전을 할 때 써보세요!
-사용하기 쉽고 N선승 같은 유용한 기능들이 많이 있답니다.
-자세한 내용은 위쪽 메뉴를 눌러보세요
+**ばよえ~ん-スタ**はぷよぷよテトリスのアドオンプログラムです。
+1:1競技で勝ち点を数えます。
+友達と親善試合をする時に使ってみましょう!
+使いやすいばかりでなく, **七番四勝,五番三勝**みたいな有用な機能がいろいろあります。
+もっと詳しい内容は上の方のメニューでご覧ください。
 
-바요엔-스타는 메모리 읽기를 사용하지만, 게임 밸런스에는 1도 영향을 주지 않습니다! 바요엔-스타는 뿌요뿌요 테트리스 내부정보를 조작하지 않습니다.
+ばよえ~ん-スタはメモリ読み込みを使用するが, ゲームバランスには全く影響しません! ばよえ~ん-スタはぷよぷよテトリスの内部情報を操作しません。
 
-_개발 및 테스트 환경은 Windows 10 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 영리행위도 하지않는 팬메이드 입니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우 프로젝트를 폐쇄할 수 있습니다._
+_開発及びテスト環境はWindows 10 (.Net Framework 4.5)です。 このプロジェクトはいかなる営利行為も行わないファンメイドです。 全ての2次著作権はSEGAにあります!  SEGAの要請があった場合,プロジェクトを閉鎖することができます。_
 
 <p align="center">
 .<br/><br/>

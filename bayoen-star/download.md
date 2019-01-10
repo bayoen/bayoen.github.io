@@ -16,6 +16,7 @@ download download download download
 <a name="Korean"> </a>
 # 다운로드 (한국어)
 <p align="center">
+    <a href="/bayoen-star/#Korean" class="in-btn">소개</a>
     <a href="/bayoen-star/download.html#Korean" class="in-btn">다운로드</a>
     <a href="/bayoen-star/instruction.html#Korean" class="in-btn">기능/사용법</a>
     <a href="/bayoen-star/streaming.html#Korean" class="in-btn">방송설정</a>
@@ -38,6 +39,7 @@ download download download download
 <a name="English"> </a>
 # Download (English)
 <p align="center">
+    <a href="/bayoen-star/#English" class="in-btn">Home</a>
     <a href="/bayoen-star/download.html#English" class="in-btn">Download</a>
     <a href="/bayoen-star/instruction.html#English" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html#English" class="in-btn">Streaming</a>
@@ -60,6 +62,7 @@ download download download download
 <a name="Japanese"> </a>
 # ダウンロード (日本語)
 <p align="center">
+    <a href="/bayoen-star/#Japanese" class="in-btn">初め</a>
     <a href="/bayoen-star/download.html#Japanese" class="in-btn">ダウンロード</a>
     <a href="/bayoen-star/instruction.html#Japanese" class="in-btn">機能/使用法</a>
     <a href="/bayoen-star/streaming.html#Japanese" class="in-btn">放送設定</a>

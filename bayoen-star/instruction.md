@@ -4,7 +4,7 @@ layout: bayoen-star
 
 # Instruction
 
-download download download download
+Instruction Instruction Instruction Instruction 
 
 <p align="center">
 .<br/><br/>
@@ -14,7 +14,7 @@ download download download download
 
 <br/><br/>
 <a name="Korean"> </a>
-# 다운로드 (한국어)
+# 기능/사용법 (한국어)
 <p align="center">
     <a href="/bayoen-star/#Korean" class="in-btn">소개</a>
     <a href="/bayoen-star/download.html#Korean" class="in-btn">다운로드</a>
@@ -24,11 +24,11 @@ download download download download
     <a href="/bayoen-star/acknowledgement.html#Korean" class="in-btn">감사의 글</a>
 </p>
 
-download download download download
+Instruction Instruction Instruction Instruction 
 
-download download download download
+Instruction Instruction Instruction Instruction 
 
-download download download download
+Instruction Instruction Instruction Instruction 
 
 <p align="center">
 .<br/><br/>
@@ -37,7 +37,7 @@ download download download download
 </p>
 
 <a name="English"> </a>
-# Download (English)
+# Instruction (English)
 <p align="center">
     <a href="/bayoen-star/#English" class="in-btn">Home</a>
     <a href="/bayoen-star/download.html#English" class="in-btn">Download</a>
@@ -47,11 +47,11 @@ download download download download
     <a href="/bayoen-star/bayoen-star/acknowledgement.html#English" class="in-btn">Ack.</a>
 </p>
 
-download download download download
+Instruction Instruction Instruction Instruction 
 
-download download download download
+Instruction Instruction Instruction Instruction 
 
-download download download download
+Instruction Instruction Instruction Instruction 
 
 <p align="center">
 .<br/><br/>
@@ -60,7 +60,7 @@ download download download download
 </p>
 
 <a name="Japanese"> </a>
-# ダウンロード (日本語)
+# 機能/使用法 (日本語)
 <p align="center">
     <a href="/bayoen-star/#Japanese" class="in-btn">初め</a>
     <a href="/bayoen-star/download.html#Japanese" class="in-btn">ダウンロード</a>
@@ -70,11 +70,11 @@ download download download download
     <a href="/bayoen-star/acknowledgement.html#Japanese" class="in-btn">謝詞</a>
 </p>
 
-download download download download
+Instruction Instruction Instruction Instruction 
 
-download download download download
+Instruction Instruction Instruction Instruction 
 
-download download download download
+Instruction Instruction Instruction Instruction 
 
 <p align="center">
 .<br/><br/>

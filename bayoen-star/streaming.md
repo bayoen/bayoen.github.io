@@ -26,8 +26,8 @@ layout: bayoen-star
     <img src="/bayoen-star/bayoen-star-example-chroma.png" width="70%" alt="bayoen-star-example-chroma"/><br/>
     <img src="/bayoen-star/bayoen-star-example-goal-first-blue.png" width="70%" alt="bayoen-star-example-goal-first-blue"/><br/>
     <!-- <img src="/bayoen-star/bayoen-star-example-ingame.png" width="70%" alt="bayoen-star-example-ingame"/> -->
-    <br/>**'bayoen-star'** is counting star tool for **Puyo Puyo Tetris**. bayoen-star is sub-project of ['bayoen']({{ site.home_url }})
 </p>
+**'bayoen-star'** also supports several tools for streamming with Puyo Puyo Tetris.
 
 
 <p align="center">

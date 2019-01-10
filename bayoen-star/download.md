@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bayoen-star
 ---
 
 ## Welcome to download page

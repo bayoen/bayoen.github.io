@@ -44,7 +44,7 @@ layout: bayoen-star
     <a href="/bayoen-star/download.html#Korean" class="in-btn">다운로드</a>
     <a href="/bayoen-star/instruction.html#Korean" class="in-btn">기능/사용법</a>
     <a href="/bayoen-star/streaming.html#Korean" class="in-btn">방송설정</a>
-    <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">신고/건의</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">신고/건의 <img src="/GitHub-Mark-Light-32px.png" width="18px" style="vertical-align:middle; padding-bottom: 2px" alt="GitHub"/></a>
     <a href="/bayoen-star/acknowledgement.html#Korean" class="in-btn">감사의 글</a>
 </p>
 
@@ -67,7 +67,7 @@ Streaming Streaming Streaming Streaming
     <a href="/bayoen-star/download.html#English" class="in-btn">Download</a>
     <a href="/bayoen-star/instruction.html#English" class="in-btn">Instruction</a>
     <a href="/bayoen-star/streaming.html#English" class="in-btn">Streaming</a>
-    <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">Issue/Idea</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">Issue/Idea <img src="/GitHub-Mark-Light-32px.png" width="18px" style="vertical-align:middle; padding-bottom: 2px" alt="GitHub"/></a>
     <a href="/bayoen-star/bayoen-star/acknowledgement.html#English" class="in-btn">Ack.</a>
 </p>
 
@@ -90,7 +90,7 @@ Streaming Streaming Streaming Streaming
     <a href="/bayoen-star/download.html#Japanese" class="in-btn">ダウンロード</a>
     <a href="/bayoen-star/instruction.html#Japanese" class="in-btn">機能/使用法</a>
     <a href="/bayoen-star/streaming.html#Japanese" class="in-btn">放送設定</a>
-    <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">申告/建議</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/issues" class="in-btn">申告/建議 <img src="/GitHub-Mark-Light-32px.png" width="18px" style="vertical-align:middle; padding-bottom: 2px" alt="GitHub"/></a>
     <a href="/bayoen-star/acknowledgement.html#Japanese" class="in-btn">謝詞</a>
 </p>
 

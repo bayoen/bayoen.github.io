@@ -8,4 +8,4 @@ layout: bayoen-star-lang
 
 **'bayoen-star'** is counting star tool for **Puyo Puyo Tetris** as sub-project of ['bayoen']({{ site.home_url }})
 
-**ばよえ~ん-スタ**は**ぷよぷよテトリス**のスターカウンタープログラムです。 ばよえ~ん-スタは['ばよえ~ん']({{ site.home_url }})の細部プロジェクトです
+**ばよえ~ん-スタ**は**ぷよぷよテトリス**のスターカウンタープログラムです。 ['ばよえ~ん']({{ site.home_url }})の細部プロジェクトです

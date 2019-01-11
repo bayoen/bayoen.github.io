@@ -76,8 +76,19 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
+    <br/><span>바요엔-스타를 게임 화면 위의 띄워서 편하게 볼 수도 있어요</span>
+</p>
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
-    <br/><span>인터넷 방송을 하시나요? 그럼 크로마키도 써보세요!</span>
+    <br/><span>게임방송을 하시나요? 그럼 크로마키도 써보세요!</span>
     <br/><span>여러가지 송출프로그램에 맞는 여러 크로마키가 있어요</span>
 </p>
 

@@ -29,7 +29,7 @@ layout: bayoen-star-ko
 **바요엔-스타**는 1:1 경기에서 승점을 세어줍니다.
 친구와 친선전을 할 때 써보세요!
 사용하기 쉽고 **N선승** 같은 유용한 기능들이 많이 있답니다.
-자세한 내용은 위쪽 메뉴에서 살펴보세요.
+자세한 내용은 **기능/사용법**에서 살펴보세요.
 
 <p align="center">
 .<br/><br/>
@@ -93,7 +93,7 @@ _개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. �
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
     <br/><span>게임방송을 하시나요? 그럼 크로마키도 써보세요!</span>
-    <br/><span>여러가지 송출프로그램에 맞는 여러 크로마키가 있어요</span>
+    <br/><span>송출프로그램에 맞는 다양한 크로마키가 있어요</span>
 </p>
 
 <p align="center">

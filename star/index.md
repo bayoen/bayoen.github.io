@@ -30,7 +30,7 @@ Please select **'English'** above!
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" width="70%" shadow-box alt="bayoen-star-example-ingame"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" width="70%" class="shadow-box" alt="bayoen-star-example-ingame"/>
 </p>
 
 <p align="center">

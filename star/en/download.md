@@ -32,7 +32,7 @@ You can download **bayoen-star** from following links:
     </p>
 2. Unzip **bayoen-star-####.zip** to proper path.
 3. Run **bayoen-star.exe** from unzipped path. It's done!
-4. For more details, see **Instruction**!
+4. For more details, see **[Instruction](https://bayoen.github.io/star/en/instruction.html)**!
 
 <p align="center">
 .<br/><br/>

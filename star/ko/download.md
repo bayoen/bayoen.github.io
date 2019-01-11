@@ -32,7 +32,7 @@ layout: bayoen-star-ko
     </p>
 2. 압축파일 **bayoen-star-####.zip**을 적당한 경로에 압축해제합니다.
 3. 압축해제한 폴더에서 **bayoen-star.exe**를 실행합니다. 끝입니다!
-4. 자세한 내용은 **기능/사용법**을 확인해 주세요!
+4. 자세한 내용은 **[기능/사용법](https://bayoen.github.io/star/ko/instruction.html)**을 확인해 주세요!
 
 <p align="center">
 .<br/><br/>

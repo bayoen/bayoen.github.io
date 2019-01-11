@@ -38,12 +38,12 @@ For details, check out **Instruction**.
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total-none"/>
     <br/><span>Total-20-stars match 'Left side won with 12:8!'</span>
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="shadow-box" alt="bayoen-star-example-mode-2-fit"/>
     <br/><span>First-to-10-games match 'Right side won with getting first 10 crowns!'</span>
     <br/><span><strong>Crown</strong> is a game score from full-star score</span>
 </p>
@@ -55,9 +55,9 @@ For details, check out **Instruction**.
 </p>
 
 <p align="center">
-    <span>점수판에 나오는 심볼은 세가지 입니다</span>
-    <br/><span>...직관적이지 않나요? 그럼 이걸 읽어보세요!</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-example-goal-first"/>
+    <span>There are three symbols in a score board</span>
+    <br/><span>...isn't it intuitive? then read this!</span>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-en.png" class="box" alt="bayoen-star-and-crown"/>
 </p>
 
 <p align="center">
@@ -81,8 +81,8 @@ _Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This p
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
-    <br/><span>바요엔-스타를 게임 화면 위의 띄워서 편하게 볼 수도 있어요</span>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
+    <br/><span>You can overlay <strong>bayoen-star</strong> inside game window for convenience</span>
 </p>
 
 <p align="center">
@@ -92,9 +92,9 @@ _Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This p
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
-    <br/><span>게임방송을 하시나요? 그럼 크로마키도 써보세요!</span>
-    <br/><span>송출프로그램에 맞는 다양한 크로마키가 있어요</span>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-mode-2-green"/>
+    <br/><span>Are you game streamer? then try chroma keys!</span>
+    <br/><span>We present several chroma keys for various streamming apps.</span>
 </p>
 
 <p align="center">

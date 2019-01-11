@@ -38,12 +38,12 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total-none"/>
     <br/><span>총 20별 경기 '12:8로 왼쪽이 이겼습니다!'</span>
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="shadow-box" alt="bayoen-star-example-mode-2-fit"/>
     <br/><span>게임 10선승 경기 '오른쪽이 먼저 왕관 10개를 얻어서 이겼습니다!'</span>
     <br/><span><strong>왕관</strong>은 별을 꽉 채우면 얻는 게임스코어입니다</span>
 </p>
@@ -57,7 +57,7 @@ layout: bayoen-star-ko
 <p align="center">
     <span>점수판에 나오는 심볼은 세가지 입니다</span>
     <br/><span>...직관적이지 않나요? 그럼 이걸 읽어보세요!</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-example-goal-first"/>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
 </p>
 
 <p align="center">
@@ -80,8 +80,8 @@ _개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. �
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
-    <br/><span>바요엔-스타를 게임 화면 위의 띄워서 편하게 볼 수도 있어요</span>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
+    <br/><span><strong>바요엔-스타</strong>를 게임 화면 위의 띄워서 편하게 볼 수도 있어요</span>
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ _개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. �
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-mode-2-green"/>
     <br/><span>게임방송을 하시나요? 그럼 크로마키도 써보세요!</span>
     <br/><span>송출프로그램에 맞는 다양한 크로마키가 있어요</span>
 </p>

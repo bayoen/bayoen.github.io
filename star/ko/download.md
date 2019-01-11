@@ -26,12 +26,10 @@ layout: bayoen-star-ko
 ## 설치/실행법
 
 1. 다운로드 링크에서 **Assets** 바로 아래에 있는 바요엔-스타 **bayoen-star-####.zip**을 내려받습니다. (**###**은 버전숫자 입니다)
-
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-release-assets.png" class="shadow-box" alt="bayoen-star-release-assets"/>
     <br/><span>이 다운로드 링크를 누르시면 됩니다!</span>
 </p>
-
 2. 압축파일 **bayoen-star-####.zip**을 적당한 경로에 압축해제합니다.
 3. 압축해제한 폴더에서 **bayoen-star.exe**를 실행합니다. 끝입니다!
 4. 자세한 내용은 **기능/사용법**을 확인해 주세요!

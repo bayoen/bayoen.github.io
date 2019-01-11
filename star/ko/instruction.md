@@ -5,11 +5,16 @@ layout: bayoen-star-ko
 # 기능/사용법
 
 <p align="center">
-    <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/><br/>
-    <img src="/bayoen-star/bayoen-star-example-chroma.png" width="70%" alt="bayoen-star-example-chroma"/><br/>
-    <img src="/bayoen-star/bayoen-star-example-goal-first-blue.png" width="70%" alt="bayoen-star-example-goal-first-blue"/><br/>
-    <img src="/bayoen-star/bayoen-star-example-ingame.png" width="70%" alt="bayoen-star-example-ingame"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>
+    <br/><span>바요엔-스타 초기화면</span>
 </p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>
+    <br/><span>바요엔-스타 초기화면</span>
+</p>
+
+
 
 <p align="center">
 .<br/><br/>

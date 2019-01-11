@@ -13,7 +13,7 @@ layout: bayoen-star-ja
     <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">3. ソスコード*</a>
 </p>
 
-1. 最新バージョン: **ばよえ〜ん・スター**の最新バージョンを受けることができます。 機能追加/バグ修正のために常に最新バージョンを維持してください!
+1. 最新バージョン: **ばよえ〜ん・スター**の最新バージョンを受けることができます。 機能追加/バグ修正のために常に最新バージョンを維持してください! (最新バージョン: <span><img src="https://img.shields.io/github/release/bayoen/bayoen-star-exe.svg?style=flat-square" style="vertical-align: middle;" alt="GitHub: Release"></span>)
 2. リリーズ: **ばよえ〜ん・スター**のすべてのバージョンのリストです。 ご希望のバージョンをお受け取りください!
 3. ソスコード: **ばよえ〜ん・スター**はオープンソースです。 プログラムのソースコードがご必要になりましたら,お受け取りください。 そして改善点があったらGitHub commitもお願いします!
 

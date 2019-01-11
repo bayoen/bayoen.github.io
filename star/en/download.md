@@ -13,7 +13,7 @@ You can download **bayoen-star** from following links:
     <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">3. Source Code*</a>
 </p>
 
-1. Latest: You can get the latest version of **bayoen-star**. For adding new stuff and debugging, please use the latest always as possible!
+1. Latest: You can get the latest version of **bayoen-star**. For adding new stuff and debugging, please use the latest always as possible! (Latest: <span><img src="https://img.shields.io/github/release/bayoen/bayoen-star-exe.svg?style=flat-square" style="vertical-align: middle;" alt="GitHub: Release"></span>)
 2. Releases: It's a list of all **bayoen-star** releases. Take any version you want!
 3. Source Code: **bayoen-star** is open-sourced project. If you need the code, feel free to download it and please commit any contributions!
 

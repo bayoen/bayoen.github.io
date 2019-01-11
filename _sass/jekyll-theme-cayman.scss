@@ -231,10 +231,44 @@ a {
   }
 }
 
-.language-selector {
+.language-header {
   position: absolute;
   top: 10px;
-  right: 10px;
+  right: 15px;
+}
+
+.language-selector {
+  display: inline-block;
+  margin: 0.2rem 0.2rem 0.2rem 0rem;
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: rgba(15, 120, 120, 0.4);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+
+  &:hover {
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    background-color: rgba(21, 165, 165, 0.8);
+    border-color: rgba(15, 120, 120, 0.4);
+  }
+
+  + .language-selector {
+    margin-left: 0.5rem;
+  }
+
+  @include large {
+    visibility: visible;
+  }
+
+  @include medium {
+    visibility: visible;
+  }
+
+  @include small {
+    visibility: hidden;
+  }
 }
 
 .main-content {

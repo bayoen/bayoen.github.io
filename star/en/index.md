@@ -57,7 +57,7 @@ For details, check out **[Instruction]({{ site.lang_url }}/en/instruction.html)*
 
 <p align="center">
     <span>There are three symbols in a score board</span>
-    <br/><span>...isn't it intuitive? then read this!</span>
+    <br/><span>...isn't it intuitive? then see followings!</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-en.png" class="box" alt="bayoen-star-and-crown"/>
 </p>
 

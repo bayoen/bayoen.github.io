@@ -5,8 +5,8 @@ layout: bayoen-star-ko
 # 바요엔-스타
 
 <p align="center">
-    <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/>
-    <br/><img src="/bayoen-star/bayoen-star-example-ingame.png" width="70%" alt="bayoen-star-example-ingame"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame.png" width="70%" alt="bayoen-star-example-ingame"/>
 </p>
 
 **바요엔-스타**는 1:1 경기에서 승점을 세어줍니다.
@@ -28,7 +28,7 @@ _개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. �
 </p>
 
 <p align="center">
-   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
+   <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
 </p>
 
 <p align="center">

@@ -7,7 +7,7 @@ layout: bayoen-star-lang
 <p align="center">
     <div class="card">
         <img src="{{ site.lang_url }}/res/bayoen-star-example.png" alt="bayoen-star-example"/>
-        <div><a>mainwindow of <strong>bayoen-star<strong></a></div>
+        <div><a>mainwindow of <strong>bayoen-star</strong></a></div>
     </div>
 </p>
 
@@ -32,7 +32,7 @@ layout: bayoen-star-lang
 <p align="center">
     <div class="card">
         <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" width="70%" alt="bayoen-star-example-ingame"/>
-        <div><a>overlay example of <strong>bayoen-star<strong></a></div>        
+        <div><a>overlay example of <strong>bayoen-star</strong></a></div>        
     </div>    
 </p>
 

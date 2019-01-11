@@ -39,13 +39,13 @@ layout: bayoen-star-ja
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total-none"/>
-    <br/><span>총 20별 경기 '12:8로 왼쪽이 이겼습니다!'</span>
+    <br/><span>総20スター競技 '12:8で左側が勝ちました!'</span>
 </p>
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="shadow-box" alt="bayoen-star-example-mode-2-fit"/>
-    <br/><span>게임 10선승 경기 '오른쪽이 먼저 왕관 10개를 얻어서 이겼습니다!'</span>
-    <br/><span><strong>왕관</strong>은 별을 꽉 채우면 얻는 게임스코어입니다</span>
+    <br/><span>ゲーム10勝競技 '右側が先に10クラウンを取って勝ちました!'</span>
+    <br/><span><strong>クラウン</strong>は星を満たせば得られるゲームスコアです</span>
 </p>
 
 <p align="center">
@@ -55,9 +55,9 @@ layout: bayoen-star-ja
 </p>
 
 <p align="center">
-    <span>점수판에 나오는 심볼은 세가지 입니다</span>
-    <br/><span>...직관적이지 않나요? 그럼 이걸 읽어보세요!</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
+    <span>点数版に出るシンボルは三つです</span>
+    <br/><span>...直観的ではありませんか。 それではこれを読んでみてください!</span>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ja.png" class="box" alt="bayoen-star-and-crown-ja"/>
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ layout: bayoen-star-ja
 
 _開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 このプロジェクトはいかなる営利行為も行わないファンメイドです。 全ての2次著作権はSEGAにあります!  SEGAの要請があった場合,プロジェクトを閉鎖することができます。。。_
 
-**ばよえ~ん-スタ**は['ばよえ~ん']({{ site.home_url }})の細部プロジェクトです
+**ばよえ〜ん・スター**は['ばよえ~ん']({{ site.home_url }})の細部プロジェクトです
 
 <p align="center">
 .<br/><br/>
@@ -81,7 +81,7 @@ _開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 こ�
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
-    <br/><span><strong>바요엔-스타</strong>를 게임 화면 위의 띄워서 편하게 볼 수도 있어요</span>
+    <br/><span><strong>ばよえ〜ん・スター</strong>をゲーム画面の上映して気楽に見ることができます</span>
 </p>
 
 <p align="center">
@@ -92,8 +92,8 @@ _開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 こ�
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-mode-2-green"/>
-    <br/><span>게임방송을 하시나요? 그럼 크로마키도 써보세요!</span>
-    <br/><span>송출프로그램에 맞는 다양한 크로마키가 있어요</span>
+    <br/><span>ゲーム放送をしてますか。 では,クロマキも使ってみて!</span>
+    <br/><span>送出しプログラムに合う多様なクロマキがあります</span>
 </p>
 
 <p align="center">

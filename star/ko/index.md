@@ -2,7 +2,7 @@
 layout: bayoen-star-ko
 ---
 
-# 바요엔-스타???
+# 바요엔-스타
 
 <br/>
 <p align="center">

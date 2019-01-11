@@ -32,7 +32,7 @@ layout: bayoen-star-ja
     </p>
 2. 圧縮ファイル**bayoen-star-####.zip**を適当な経路に圧縮解除します。
 3. 圧縮解除したフォルダーから**bayoen-star.exe**を実行します。 終わります!
-4. 詳しくは**[機能/使用法](https://bayoen.github.io/star/ja/instruction.html)**を確認してください。
+4. 詳しくは**[機能/使用法]({{ site.lang_url }}/ja/instruction.html)**を確認してください。
 
 <p align="center">
 .<br/><br/>

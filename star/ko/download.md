@@ -4,7 +4,11 @@ layout: bayoen-star-ko
 
 # 다운로드
 
-How to download **bayoen-star**
+<br/>
+**바요엔-스타**는 여기서 다운로드 하시면 됩니다.
+<p align="center">
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases/tag/0.0.13" class="in-btn">릴리즈</a>
+</p>
 
 <p align="center">
 .<br/><br/>

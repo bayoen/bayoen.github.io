@@ -21,8 +21,8 @@ layout: bayoen-star-ko
 
 ## 설치법
 
-1. 다운로드 링크에서 바요엔-스타 **bayoen-star-####.zip**을 내려받습니다. (**###**은 )
-2. 
+1. 다운로드 링크에서 바요엔-스타 **bayoen-star-####.zip**을 내려받습니다. (**###**은 버전숫자 입니다)
+2. 압축파일 **bayoen-star-####.zip**을 적당한 경로에 압축해제합니다.
 
 <p align="center">
 .<br/><br/>

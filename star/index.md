@@ -18,7 +18,7 @@ layout: bayoen-star-lang
 위의 **'한국어'**를 눌러주세요!
 
 **'bayoen-star'** is counting star tool for **Puyo Puyo Tetris** as sub-project of ['bayoen']({{ site.home_url }}).<br/>
-Please select **'English'** above
+Please select **'English'** above!
 
 **ばよえ~ん-スタ**は**ぷよぷよテトリス**のスターカウンタープログラムで, ['ばよえ~ん']({{ site.home_url }})の細部プロジェクトです。<br/>
 上の**'日本語'**を押してください!

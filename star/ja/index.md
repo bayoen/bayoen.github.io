@@ -56,7 +56,7 @@ layout: bayoen-star-ja
 
 <p align="center">
     <span>点数版に出るシンボルは三つです</span>
-    <br/><span>...直観的ではありませんか。 それではこれを読んでみてください!</span>
+    <br/><span>...直観的ではありませんか。 それではこれを見てください!</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ja.png" class="box" alt="bayoen-star-and-crown-ja"/>
 </p>
 

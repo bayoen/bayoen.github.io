@@ -15,12 +15,12 @@ layout: bayoen-star-ko
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total"/>
-    <br/><span>20게임 경기 '12점으로 왼쪽이 이겼습니다!'</span>
+    <br/><span>총 20별 경기 '12점으로 왼쪽이 이겼습니다!'</span>
 </p>
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-none.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
-    <br/><span>10선승 경기 '8대 10으로 오른쪽이 이겼습니다!'</span>
+    <br/><span>별 10선승 경기 '8대 10으로 오른쪽이 이겼습니다!'</span>
 </p>
 
 **바요엔-스타**는 1:1 경기에서 승점을 세어줍니다.

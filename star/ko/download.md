@@ -26,7 +26,7 @@ layout: bayoen-star-ko
 ## 설치/실행법
 
 1. 다운로드 링크에서 **Assets** 바로 아래에 있는 바요엔-스타 **bayoen-star-####.zip**을 내려받습니다.
-(**###**은 버전숫자 입니다)
+<br/>(**###**은 버전숫자 입니다)
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-release-assets.png" class="shadow-box" alt="bayoen-star-release-assets"/>
     <br/><span>이 다운로드 링크를 누르시면 됩니다!</span>

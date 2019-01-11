@@ -54,9 +54,6 @@ layout: bayoen-star-ja
 
 <p align="center">
    <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" class="box" width="30%" alt="bayoen~"/>
-   <br/><span>[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/bayoen/bayoen-exe/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/bayoen/bayoen-star-exe.svg?style=flat-square)](https://github.com/bayoen/bayoen-star-exe/releases/latest)
-![GitHub Releases (by Asset)](https://img.shields.io/github/downloads/bayoen/bayoen-star-exe/latest/bayoen-star-0.0.13.zip.svg?style=flat-square))</span>
 </p>
 
 <p align="center">
@@ -64,3 +61,7 @@ layout: bayoen-star-ja
 .<br/><br/>
 .
 </p>
+
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/bayoen/bayoen-exe/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/bayoen/bayoen-star-exe.svg?style=flat-square)](https://github.com/bayoen/bayoen-star-exe/releases/latest)
+![GitHub Releases (by Asset)](https://img.shields.io/github/downloads/bayoen/bayoen-star-exe/latest/bayoen-star-0.0.13.zip.svg?style=flat-square))

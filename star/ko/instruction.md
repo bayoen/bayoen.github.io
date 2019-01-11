@@ -4,10 +4,13 @@ layout: bayoen-star-ko
 
 # 기능/사용법
 
+**바요엔-스타**는 사용하기 쉬운 프로그램입니다! 버튼 몇 개만 딸깍 누르면 하고 싶은 걸 모두 할 수 있을거에요! (개발자 생각입니다)
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>
-    <br/><span>바요엔-스타 초기화면</span>
+    <br/><span>그림 1. 바요엔-스타 초기화면</span>
 </p>
+
+
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>

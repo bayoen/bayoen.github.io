@@ -53,6 +53,18 @@ layout: bayoen-star-ko
 .
 </p>
 
+<p align="center">
+    <span>점수판에 나오는 심볼은 세가지 입니다</span>
+    <br/><span>...직관적이지 않나요? 그럼 이걸 읽어보세요</span>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
+</p>
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
 바요엔-스타는 메모리 읽기를 사용하지만, 게임 밸런스에는 1도 영향을 주지 않습니다!
 바요엔-스타는 뿌요뿌요 테트리스 내부정보를 조작하지 않습니다.
 

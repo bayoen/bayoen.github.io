@@ -4,10 +4,6 @@ layout: bayoen-star-ko
 
 # 감사의 글
 
-<br/>
-<a name="Korean"> </a>
-# 감사의 글 (한국어)
-
 ## Team bayoen
 - **Mayu Laierlence** (https://github.com/minacle)
 - **SemiRain** (https://github.com/SemiR4in)

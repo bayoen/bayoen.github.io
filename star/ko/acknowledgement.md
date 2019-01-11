@@ -18,7 +18,7 @@ _We do not modify any memories and ruin any balance of the game_
 ## Images and Icons
 - Data mining from Puyo Puyo Tetris
 - **Get your Gu's** (https://dailycarbuncle.tumblr.com/)
-- **icons8** (https://icons8.com/icon/55741/south-korea, https://icons8.com/icon/30630/great-britain, https://icons8.com/icon/30510/japan)
+- **icons8** (https://icons8.com/icon/55741/south-korea, https://icons8.com/icon/30539/usa, https://icons8.com/icon/30630/great-britain, https://icons8.com/icon/30510/japan)
 
 ## Fonts
 _Fonts we used are not embedded into the client and we complied with the font usage policy and license_

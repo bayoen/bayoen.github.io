@@ -7,7 +7,7 @@ layout: bayoen-star-ko
 <br/>
 **바요엔-스타**는 여기서 다운로드 하시면 됩니다.
 <p align="center">
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases/latest" class="in-btn">릴리즈</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases/latest" class="in-btn">릴리즈*</a>
 </p>
 
 <p align="center">

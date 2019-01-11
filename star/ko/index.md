@@ -23,6 +23,11 @@ layout: bayoen-star-ko
     <br/><span>게임 10선승 경기 '8대 10으로 오른쪽이 이겼습니다!'</span>
 </p>
 
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
+    <br/><span>인터넷 방송을 하시나요? 그럼 크로마키도 써보세요!</span>
+</p>
+
 **바요엔-스타**는 1:1 경기에서 승점을 세어줍니다.
 친구와 친선전을 할 때 써보세요!
 사용하기 쉽고 **N선승** 같은 유용한 기능들이 많이 있답니다.

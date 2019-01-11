@@ -13,7 +13,7 @@ layout: bayoen-star-ko
 
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="shadow-box" alt="bayoen-star-instuction-main-ko"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main-ko"/>
     <br/><span>그림 2. 바요엔-스타 화면설명</span>
 </p>
 

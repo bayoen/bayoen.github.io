@@ -6,9 +6,11 @@ layout: bayoen-star-lang
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
+    <a>counting stars</a>
 </p>
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total"/>
+    <a>a match with 20 games</a>
 </p>
 
 <p align="center">
@@ -34,6 +36,7 @@ Please select **'English'** above!
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" width="70%" class="shadow-box" alt="bayoen-star-example-ingame"/>
+    <a>overlay in game</a>
 </p>
 
 <p align="center">

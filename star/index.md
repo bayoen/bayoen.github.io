@@ -7,6 +7,9 @@ layout: bayoen-star-lang
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
 </p>
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total"/>
+</p>
 
 <p align="center">
 .<br/><br/>

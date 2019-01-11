@@ -16,7 +16,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
-    <br/><span>바요엔-스타가 별을 세고 있습니다</span>
+    <br/><span><strong>바요엔-스타</strong>가 별을 세고 있습니다</span>
     <br/><span>한 세트를 이길 때 마다 별이 올라갑니다</span>
 </p>
 

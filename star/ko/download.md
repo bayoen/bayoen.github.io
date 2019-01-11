@@ -13,9 +13,9 @@ layout: bayoen-star-ko
     <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">3. 소스코드*</a>
 </p>
 
-1. 최신버전: 
-2. 릴리즈: 
-3. 소스코드: 
+1. 최신버전: **바요엔-스타**의 최신버전을 받을 수 있습니다. 기능추가/버그수정을 위해 항상 최신버전을 유지해 주세요!
+2. 릴리즈: **바요엔-스타**의 모든버전목록이 있습니다. 필요한 버전을 받으세요!
+3. 소스코드: **바요엔-스타**는 오픈소스입니다. 프로그램의 소스코드가 필요하시면 받아주세요! 그리고 개선점이 있다면 GitHub commit도 부탁드립니다!
 
 <p align="center">
 .<br/><br/>
@@ -25,10 +25,16 @@ layout: bayoen-star-ko
 
 ## 설치/실행법
 
-1. 다운로드 링크에서 바요엔-스타 **bayoen-star-####.zip**을 내려받습니다. (**###**은 버전숫자 입니다)
+1. 다운로드 링크에서 **Assets** 바로 아래에 있는 바요엔-스타 **bayoen-star-####.zip**을 내려받습니다. (**###**은 버전숫자 입니다)
 2. 압축파일 **bayoen-star-####.zip**을 적당한 경로에 압축해제합니다.
 3. 압축해제한 폴더에서 **bayoen-star.exe**를 실행합니다.
 4. 자세한 내용은 **기능/사용법**을 확인해 주세요!
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>

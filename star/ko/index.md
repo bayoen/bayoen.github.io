@@ -9,6 +9,12 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
     <br/><span>바요엔-스타가 별을 세고 있습니다</span>
 </p>

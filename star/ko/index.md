@@ -8,6 +8,10 @@ layout: bayoen-star-ko
     <img src="{{ site.lang_url }}/res/bayoen-ko.png" class="box" alt="bayoen-ko"/>
 </p>
 
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
+    <br/><span>별세는 모습</span>
+</p>
 
 **바요엔-스타**는 1:1 경기에서 승점을 세어줍니다.
 친구와 친선전을 할 때 써보세요!
@@ -20,11 +24,6 @@ layout: bayoen-star-ko
 _개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. 이 프로젝트는 어떠한 영리행위도 하지않는 팬메이드 입니다. 모든 2차 저작권은 SEGA에 있습니다! SEGA의 요청이 있을 경우, 슬프지만 프로젝트를 폐쇄할 수도 있습니다._
 
 **바요엔-스타**는 **['바요엔']({{ site.home_url }})**의 미니프로젝트입니다.
-
-<p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
-    <br/><span>별세는 모습</span>
-</p>
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total"/>

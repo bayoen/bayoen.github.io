@@ -8,9 +8,9 @@ layout: bayoen-star-ko
 <br/>
 **바요엔-스타**는 아래 링크에서 다운로드하시면 됩니다.
 <p align="center">
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases/latest" class="in-btn">최신버전 *</a>
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases" class="in-btn">릴리즈*</a>
-    <a href="https://github.com/bayoen/bayoen-star-exe" class="in-btn">소스코드*</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases/latest" target="_blank" class="in-btn">최신버전 *</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases" target="_blank" class="in-btn">릴리즈*</a>
+    <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">소스코드*</a>
 </p>
 
 <p align="center">

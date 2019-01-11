@@ -5,7 +5,7 @@ layout: bayoen-star-lang
 # bayoen-star
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example.png" alt="bayoen-star-example"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Please select **'English'** above!
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" width="70%" alt="bayoen-star-example-ingame"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" width="70%" shadow-box alt="bayoen-star-example-ingame"/>
 </p>
 
 <p align="center">

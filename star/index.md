@@ -5,7 +5,7 @@ layout: bayoen-star-lang
 # bayoen-star
 
 <p align="center">
-    <div class="card">
+    <div class="card" align="center">
         <img src="{{ site.lang_url }}/res/bayoen-star-example.png" alt="bayoen-star-example"/>
         <div><a>mainwindow of <strong>bayoen-star</strong></a></div>
     </div>

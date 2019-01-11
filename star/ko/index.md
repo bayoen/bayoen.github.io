@@ -5,6 +5,15 @@ layout: bayoen-star-ko
 # 바요엔-스타
 
 <p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
+    <br/><span>counting stars</span>
+</p>
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total"/>
+    <br/><span>a match with 20 games</span>
+</p>
+
+<p align="center">
 <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/>
 <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame.png" width="70%" alt="bayoen-star-example-ingame"/>
 </p>

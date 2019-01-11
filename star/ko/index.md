@@ -4,6 +4,7 @@ layout: bayoen-star-ko
 
 # 바요엔-스타
 
+<br/>
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-ko.png" class="box" alt="bayoen-ko"/>
 </p>

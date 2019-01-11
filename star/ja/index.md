@@ -4,6 +4,7 @@ layout: bayoen-star-ja
 
 # ばよえ〜ん・スター
 
+<br/>
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-ja.png" class="box" alt="bayoen-ja"/>
 </p>

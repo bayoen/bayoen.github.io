@@ -4,6 +4,7 @@ layout: bayoen-star-en
 
 # bayoen-star
 
+<br/>
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-en.png" class="box" alt="bayoen-en"/>
 </p>

@@ -44,7 +44,7 @@ layout: bayoen-star-ko
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="shadow-box" alt="bayoen-star-example-goal-first"/>
     <br/><span>게임 10선승 경기 '8대 10으로 오른쪽이 이겼습니다!' 왕관도 셀 수 있답니다?</span>
-    <br/><span><strong>왕관</strong>이 뭐냐구요? 별을 꽉 채우면 받는 게임스코어에요</span>
+    <br/><span><strong>왕관</strong>이 뭐냐구요? 별을 꽉 채우면 얻는 게임스코어에요</span>
 </p>
 
 <p align="center">

@@ -39,6 +39,7 @@ layout: bayoen-star-ko
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>
     <br/><span><strong>바요엔-스타</strong>를 처음 실행하면 이렇게 나옵니다</span>
+    <br/><span>이것 저것 눌러보세요!</span>
 </p>
 
 <p align="center">

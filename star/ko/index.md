@@ -56,7 +56,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <span>점수판에 나오는 심볼은 세가지 입니다</span>
-    <br/><span>...직관적이지 않나요? 그럼 이걸 읽어보세요!</span>
+    <br/><span>...직관적이지 않나요? 그럼 이걸 보세요!</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
 </p>
 

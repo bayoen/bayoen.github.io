@@ -237,6 +237,24 @@ a {
   right: 15px;
 }
 
+.language-footer {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+
+  @include large {
+    visibility: hidden;
+  }
+
+  @include medium {
+    visibility: hidden;
+  }
+
+  @include small {
+    visibility: visible;
+  }
+}
+
 .language-logo {
   vertical-align: middle;
   width: 36px;

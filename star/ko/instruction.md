@@ -6,7 +6,7 @@ layout: bayoen-star-ko
 
 **바요엔-스타**는 사용법을 알려드립니다. 시간이 없으신 분은 '간단하게' 보시고, 더 '자세하게' 내용을 알고싶은 분은 더 아래로 내려주세요!
 
----
+----
 
 ## 목차
 - [간단하게](#Abstract)
@@ -21,7 +21,7 @@ layout: bayoen-star-ko
         - [Mode: 점수판 모드](#Mode)
     - [방송설정](#Streaming)
 
----
+----
 
 <a name="Abstract"> </a>
 <p align="center">
@@ -94,7 +94,7 @@ layout: bayoen-star-ko
 
 본격적으로 **바요엔-스타**를 알아볼까요? 
 
----
+----
 
 ### 목차
 - [메인화면](#Main)
@@ -107,7 +107,7 @@ layout: bayoen-star-ko
     - [Mode: 점수판 모드](#Mode)
 - [방송설정](#Streaming)   
 
----
+----
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main"/>

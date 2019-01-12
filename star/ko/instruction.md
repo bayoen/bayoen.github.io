@@ -6,14 +6,17 @@ layout: bayoen-star-ko
 
 **바요엔-스타**는 사용법을 알려드립니다. 시간이 없으신 분은 '간단하게' 보시고, 더 '자세하게' 내용을 알고싶은 분은 더 아래로 내려주세요!
 
+***
+
 ## 목차
+
 - [간단하게](#Abstract)
 - [자세하게](#Details)  
    1. [기능](#Functions)
       - 
    2. [사용법](#Directions)
 
-----
+***
 
 <a name="Abstract"> </a>
 <p align="center">

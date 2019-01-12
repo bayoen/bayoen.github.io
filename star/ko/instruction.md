@@ -59,6 +59,7 @@ layout: bayoen-star-ko
 <p align="center">
     <span><strong>바요엔-스타</strong>의 점수판에는 이런 것들이 나옵니다!</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown"/>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-menu-mode.png" class="box" alt="bayoen-star-menu-mode"/>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-menu-mode-selected.png" class="box" alt="bayoen-star-menu-mode-selected"/>
     <br/><span>점수판모드를 바꿔서 내가 원하는 점수만 표시할 수 있습니다</span>
 </p>

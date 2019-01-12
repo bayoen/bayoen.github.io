@@ -74,12 +74,6 @@ layout: bayoen-star-ko
     <span><strong>끝!</strong></span>    
 </p>
 
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
 <a name="Details"> </a>
 <a name="Functions"> </a>
 <p align="center">

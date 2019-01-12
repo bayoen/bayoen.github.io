@@ -2,7 +2,7 @@
 layout: bayoen-star-ko
 ---
 
-# 기능/사용법
+# 사용법
 
 **바요엔-스타**는 사용법을 알려드립니다. 시간이 없으신 분은 '간단하게' 보시고, 더 '자세하게' 내용을 알고싶은 분은 더 아래로 내려주세요!
 
@@ -44,9 +44,8 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
-    <br/><span><strong>메뉴</strong>를 눌러서 점수를 초기화하거나, 설정 및 표시모드를 바꿀 수 있습니다!</span>
+    <br/><span><strong>메뉴</strong>를 눌러서 점수를 초기화하거나, 설정 및 점수판모드를 바꿀 수 있습니다!</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-ko.png" class="box" alt="bayoen-star-instuction-menu-selected"/>    
-    <br/><span><strong>메뉴는 대충 이런 기능들이 있습니다</strong></span>
 </p>
 
 <p align="center">
@@ -60,6 +59,7 @@ layout: bayoen-star-ko
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown"/>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-menu-mode-selected.png" class="box" alt="bayoen-star-menu-mode-selected"/>
     <br/><span>점수판모드를 바꿔서 내가 원하는 점수만 표시할 수 있습니다</span>
+    <br/><span>그 밖의 다른 기능들도 살펴보세요!</span>
 </p>
 
 

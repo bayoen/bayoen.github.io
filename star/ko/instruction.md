@@ -31,7 +31,7 @@ layout: bayoen-star-ko
 <p align="center">
     <span><strong>바요엔-스타</strong>의 점수판에는 이런 것들이 나옵니다!</span>    
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
-    <br/><span><strong>표시모드를 바꿔서 내가 원하는 정보만 간추릴 수 있습니다</span>
+    <br/><span>표시모드를 바꿔서 내가 원하는 정보만 간추릴 수 있습니다</span>
 </p>
 
 <p align="center">

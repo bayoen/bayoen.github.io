@@ -38,7 +38,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>
-    <br/><span><strong>메뉴</strong>에는 대충 이렇게 나옵니다!</span>
+    <br/><span><strong>메뉴</strong>를 누르면 대충 이렇게 나옵니다!</span>
 </p>
 
 

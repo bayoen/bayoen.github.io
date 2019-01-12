@@ -19,7 +19,7 @@ layout: bayoen-star-ko
         - [Overlay: 점수판 오버레이](#Overlay)
         - [Settings: 환경설정](#Settings)
         - [Mode: 점수판 모드](#Mode)
-    - [방송설정]        
+    - [방송설정](#Streaming)
 
 ---
 
@@ -33,6 +33,11 @@ layout: bayoen-star-ko
 ## 간단하게
 
 **바요엔-스타**는 정말 사용하기 쉽습니다! 버튼 몇 개만 누르면 하고 싶은 걸 모두 할 수 있을 거에요! (개발자 생각입니다)
+
+1. **바요엔-스타**와 **뿌요뿌요 테트리스**를 켭니다.
+2. **뿌요뿌요 테트리스**에서 별다른 설정 없이 게임을 시작합니다. 
+3. **바요엔-스타**에 점수가 오르는 걸 확인합니다
+4. 끝!
 
 <p align="center">
     <br/><span><strong>바요엔-스타</strong>의 메인화면은 이런 구성입니다</span>
@@ -73,7 +78,7 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
-    <span><strong>끝!</strong></span>    
+    <span><strong>진짜 끝!</strong></span>    
 </p>
 
 <a name="Details"> </a>
@@ -99,7 +104,7 @@ layout: bayoen-star-ko
     - [Overlay: 점수판 오버레이](#Overlay)
     - [Settings: 환경설정](#Settings)
     - [Mode: 점수판 모드](#Mode)
-- [방송설정]        
+- [방송설정](#Streaming)   
 
 ---
 

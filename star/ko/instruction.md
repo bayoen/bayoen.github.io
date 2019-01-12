@@ -12,6 +12,8 @@ layout: bayoen-star-ko
    1. [기능](#Functions)
    2. [사용법](#Directions)
 
+----
+
 <a name="Abstract"> </a>
 <p align="center">
 .<br/><br/>

@@ -40,6 +40,17 @@ layout: bayoen-star-ko
     <br/><span><strong>메뉴</strong>에는 대충 이렇게 나옵니다!</span>
 </p>
 
+
+<a name="Details"> </a>
+<a name="Functions"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## 자세하게
+
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main"/>
     <br/><span><strong>바요엔-스타</strong>는 이렇게 구성돼있습니다!</span>
@@ -54,16 +65,6 @@ layout: bayoen-star-ko
     <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>
     <br/><span><strong>메뉴</strong>는 이렇게 구성돼있습니다!</span>
 </p>
-
-<a name="Details"> </a>
-<a name="Functions"> </a>
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-## 자세하게
 
 
 ### 기능

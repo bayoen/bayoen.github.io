@@ -30,7 +30,7 @@ layout: bayoen-star-ko
 **바요엔-스타**는 1:1 경기에서 승점을 세어줍니다.
 친구와 친선전을 할 때 써보세요!
 사용하기 쉽고 **N선승** 같은 유용한 기능들이 많이 있답니다.
-자세한 내용은 **[기능/사용법]({{ site.lang_url }}/ko/instruction.html)**에서 살펴보세요.
+자세한 내용은 **[사용법]({{ site.lang_url }}/ko/instruction.html)**에서 살펴보세요.
 
 <p align="center">
 .<br/><br/>

@@ -6,17 +6,14 @@ layout: bayoen-star-ko
 
 **바요엔-스타**는 사용법을 알려드립니다. 시간이 없으신 분은 '간단하게' 보시고, 더 '자세하게' 내용을 알고싶은 분은 더 아래로 내려주세요!
 
-***
-
 ## 목차
 
 - [간단하게](#Abstract)
 - [자세하게](#Details)  
    1. [기능](#Functions)
-      - 
+       - 
    2. [사용법](#Directions)
-
-***
+       -
 
 <a name="Abstract"> </a>
 <p align="center">
@@ -27,7 +24,7 @@ layout: bayoen-star-ko
 
 ## 간단하게
 
-**바요엔-스타**는 사용하기 쉬운 프로그램입니다! 버튼 몇 개만 딸깍 누르면 하고 싶은 걸 모두 할 수 있을거에요! (개발자 생각입니다)
+**바요엔-스타**는 정말 사용하기 쉽습니다! 버튼 몇 개만 누르면 하고 싶은 걸 모두 할 수 있을 거에요! (개발자 생각입니다)
 
 <p align="center">
     <span><strong>점수판</strong>엔 대충 이런 게 나옵니다!</span>
@@ -36,12 +33,13 @@ layout: bayoen-star-ko
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>
-    <br/><span><strong>바요엔-스타</strong>를 처음 실행하면 이렇게 나옵니다</span>
+    <br/><span><strong>바요엔-스타</strong>의 초기화면은 이런 구성입니다</span>
 </p>
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>
-    <br/><span><strong>메뉴</strong>를 누르면 대충 이렇게 나옵니다!</span>
+    <br/><span><strong>메뉴</strong>를 눌러서 점수를 초기화하거나 표시모드를 바꿀 수 있습니다!</span>
+    <br/><span><strong>끝!</strong></span>
 </p>
 
 

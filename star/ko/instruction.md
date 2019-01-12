@@ -63,7 +63,7 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
-   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
+   <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" class="box" width="30%" alt="bayoen~"/>
 </p>
 
 <p align="center">

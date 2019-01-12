@@ -10,6 +10,7 @@ layout: bayoen-star-ko
 - [간단하게](#Abstract)
 - [자세하게](#Details)  
    1. [기능](#Functions)
+      - 
    2. [사용법](#Directions)
 
 ----
@@ -30,8 +31,13 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main-ko"/>
-    <br/><span>점수판과 다른 친구들 입니다</span>
+    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main"/>
+    <br/><span><strong>바요엔-스타</strong>는 이렇게 구성돼있습니다!</span>
+</p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>
+    <br/><span><strong>메뉴</strong>는 이렇게 구성돼있습니다!</span>
 </p>
 
 <a name="Details"> </a>

@@ -33,7 +33,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <br/><span><strong>바요엔-스타</strong>의 초기화면은 이런 구성입니다</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-en.png" class="shadow-box" alt="bayoen-star-initial"/>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-en.png" class="box" alt="bayoen-star-initial"/>
 </p>
 
 <p align="center">

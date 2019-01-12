@@ -11,12 +11,8 @@ layout: bayoen-star-ko
 ## 목차
 - [간단하게](#Abstract)
 - [자세하게](#Details)  
-    1. [기능](#Functions)
-        - 외형
-        - 
-   2. [사용법](#Directions)
-        - 
-        - 
+    - 
+    - 
 
 ---
 
@@ -97,18 +93,6 @@ layout: bayoen-star-ko
     <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>
     <br/><span><strong>메뉴</strong>는 이렇게 구성돼있습니다!</span>
 </p>
-
-
-### 기능
-
-<a name="Directions"> </a>
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-### 사용법
 
 <p align="center">
 .<br/><br/>

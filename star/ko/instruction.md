@@ -11,8 +11,15 @@ layout: bayoen-star-ko
 ## 목차
 - [간단하게](#Abstract)
 - [자세하게](#Details)  
-    - 
-    - 
+    - [메인화면](#Main)
+    - [Menu: 메뉴](#Menu)
+        - [Reset: 점수초기화](#Reset)
+        - [Goal: 목표점수설정](#Goal)
+        - [Overlay: 점수판 오버레이](#Overlay)
+        - [Settings: 환경설정](#Settings)
+        - [Mode: 점수판 모드](#Mode)
+    - [방송설정]
+        - 
 
 ---
 
@@ -28,7 +35,7 @@ layout: bayoen-star-ko
 **바요엔-스타**는 정말 사용하기 쉽습니다! 버튼 몇 개만 누르면 하고 싶은 걸 모두 할 수 있을 거에요! (개발자 생각입니다)
 
 <p align="center">
-    <br/><span><strong>바요엔-스타</strong>의 초기화면은 이런 구성입니다</span>
+    <br/><span><strong>바요엔-스타</strong>의 메인화면은 이런 구성입니다</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-initial"/>
     <br/><span>직관적인 구성으로 누구나 쉽게 쓸 수 있습니다 (역시 개발자 생각입니다)</span>
 </p>

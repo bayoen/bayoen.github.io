@@ -12,14 +12,14 @@ layout: bayoen-star-ko
 - [간단하게](#Abstract)
 - [자세하게](#Details)  
     - [메인화면](#Main)
+    - [동작](#Function)
     - [Menu: 메뉴](#Menu)
         - [Reset: 점수초기화](#Reset)
         - [Goal: 목표점수설정](#Goal)
         - [Overlay: 점수판 오버레이](#Overlay)
         - [Settings: 환경설정](#Settings)
         - [Mode: 점수판 모드](#Mode)
-    - [방송설정]
-        - 
+    - [방송설정]        
 
 ---
 
@@ -85,6 +85,23 @@ layout: bayoen-star-ko
 </p>
 
 ## 자세하게
+
+본격적으로 **바요엔-스타**를 알아볼까요? 
+
+---
+
+### 목차
+- [메인화면](#Main)
+- [동작](#Function)
+- [Menu: 메뉴](#Menu)
+    - [Reset: 점수초기화](#Reset)
+    - [Goal: 목표점수설정](#Goal)
+    - [Overlay: 점수판 오버레이](#Overlay)
+    - [Settings: 환경설정](#Settings)
+    - [Mode: 점수판 모드](#Mode)
+- [방송설정]        
+
+---
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main"/>

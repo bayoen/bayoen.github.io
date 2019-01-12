@@ -33,20 +33,18 @@ layout: bayoen-star-ko
 
 <p align="center">
     <span><strong>바요엔-스타</strong>의 점수판에는 이런 것들이 나옵니다!</span>    
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
     <br/><span>표시모드를 바꿔서 내가 원하는 정보만 간추릴 수 있습니다</span>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
 </p>
 
 <p align="center">
     <br/><span><strong>바요엔-스타</strong>의 초기화면은 이런 구성입니다</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>
-    <br/><span><strong>바요엔-스타</strong>의 초기화면은 이런 구성입니다</span>
 </p>
 
 <p align="center">
-    <br/><span><strong>메뉴</strong>를 눌러서 점수를 초기화하거나 표시모드를 바꿀 수 있습니다!</span>
+    <br/><span><strong>메뉴</strong>를 눌러서 점수를 초기화하거나, 설정 및 표시모드를 바꿀 수 있습니다!</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>    
-    <br/><span><strong>설정에서</strong></span>
     <br/><span><strong>끝!</strong></span>
 </p>
 

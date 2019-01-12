@@ -36,6 +36,11 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
+    <br/><span><strong>점수판</strong>에 나오는 심볼은 이겁니다!</span>
+</p>
+
+<p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>
     <br/><span><strong>메뉴</strong>는 이렇게 구성돼있습니다!</span>
 </p>

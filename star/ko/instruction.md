@@ -24,14 +24,12 @@ layout: bayoen-star-ko
 **바요엔-스타**는 사용하기 쉬운 프로그램입니다! 버튼 몇 개만 딸깍 누르면 하고 싶은 걸 모두 할 수 있을거에요! (개발자 생각입니다)
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>
-    <br/><span>그림 1. <strong>바요엔-스타</strong> 초기화면</span>
+    <br/><span><strong>바요엔-스타</strong>를 처음 실행하면 이렇게 나옵니다</span>
 </p>
-
-
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main-ko"/>
-    <br/><span>그림 2. <strong>바요엔-스타</strong> 화면소개</span>
+    <br/><span>점수판과 다른 친구들 입니다</span>
 </p>
 
 <a name="Details"> </a>

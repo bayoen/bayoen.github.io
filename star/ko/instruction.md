@@ -33,13 +33,26 @@ layout: bayoen-star-ko
 
 <p align="center">
     <br/><span><strong>바요엔-스타</strong>의 초기화면은 이런 구성입니다</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-en.png" class="box" alt="bayoen-star-initial"/>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-initial"/>
+    <br/><span>직관적인 구성으로 누구나 쉽게 쓸 수 있습니다 (역시 개발자 생각입니다)</span>
 </p>
 
 <p align="center">
-    <span><strong>바요엔-스타</strong>의 점수판에는 이런 것들이 나옵니다!</span>    
-    <br/><span>표시모드를 바꿔서 내가 원하는 정보만 간추릴 수 있습니다</span>
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<p align="center">
+    <span><strong>바요엔-스타</strong>의 점수판에는 이런 것들이 나옵니다!</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
+    <br/><span>표시모드를 바꿔서 내가 원하는 정보만 간추릴 수 있습니다</span>
+</p>
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
 </p>
 
 <p align="center">
@@ -48,6 +61,11 @@ layout: bayoen-star-ko
     <br/><span><strong>끝!</strong></span>
 </p>
 
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
 
 <a name="Details"> </a>
 <a name="Functions"> </a>

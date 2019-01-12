@@ -32,14 +32,14 @@ layout: bayoen-star-ko
 **바요엔-스타**는 정말 사용하기 쉽습니다! 버튼 몇 개만 누르면 하고 싶은 걸 모두 할 수 있을 거에요! (개발자 생각입니다)
 
 <p align="center">
-    <span><strong>바요엔-스타</strong>의 점수판에는 이런 것들이 나옵니다!</span>    
-    <br/><span>표시모드를 바꿔서 내가 원하는 정보만 간추릴 수 있습니다</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
+    <br/><span><strong>바요엔-스타</strong>의 초기화면은 이런 구성입니다</span>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-en.png" class="shadow-box" alt="bayoen-star-initial"/>
 </p>
 
 <p align="center">
-    <br/><span><strong>바요엔-스타</strong>의 초기화면은 이런 구성입니다</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>
+    <span><strong>바요엔-스타</strong>의 점수판에는 이런 것들이 나옵니다!</span>    
+    <br/><span>표시모드를 바꿔서 내가 원하는 정보만 간추릴 수 있습니다</span>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
 </p>
 
 <p align="center">

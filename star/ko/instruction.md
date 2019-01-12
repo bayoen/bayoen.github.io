@@ -16,13 +16,13 @@ layout: bayoen-star-ko
    1. [기능](#Functions)
    2. [사용법](#Directions)
 
+<a name="Abstract"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>
 .
 </p>
 
-<a name="Abstract"> </a>
 ## 간단하게
 
 **바요엔-스타**는 사용하기 쉬운 프로그램입니다! 버튼 몇 개만 딸깍 누르면 하고 싶은 걸 모두 할 수 있을거에요! (개발자 생각입니다)
@@ -39,12 +39,25 @@ layout: bayoen-star-ko
 </p>
 
 <a name="Details"> </a>
+<a name="Functions"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
 ## 자세하게
 
-<a name="Functions"> </a>
+
 ### 기능
 
 <a name="Directions"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
 ### 사용법
 
 <p align="center">

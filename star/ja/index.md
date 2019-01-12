@@ -104,7 +104,7 @@ _開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 こ�
 </p>
 
 <p align="center">
-   <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
+   <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" class="box" width="30%" alt="bayoen~"/>
 </p>
 
 <p align="center">

@@ -105,7 +105,7 @@ _Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This p
 </p>
 
 <p align="center">
-   <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
+   <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" class="box" width="30%" alt="bayoen~"/>
 </p>
 
 <p align="center">

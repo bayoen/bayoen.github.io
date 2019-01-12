@@ -45,8 +45,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <br/><span><strong>메뉴</strong>를 눌러서 점수를 초기화하거나, 설정 및 표시모드를 바꿀 수 있습니다!</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected.png" class="box" alt="bayoen-star-instuction-menu-selected"/>    
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>    
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-ko.png" class="box" alt="bayoen-star-instuction-menu-selected"/>    
     <br/><span><strong>메뉴는 대충 이런 기능들이 있습니다</strong></span>
 </p>
 

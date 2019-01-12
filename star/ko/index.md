@@ -82,7 +82,7 @@ _개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. �
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
-    <br/><span><strong>바요엔-스타</strong>를 게임 화면 위의 띄워서 편하게 볼 수도 있어요</span>
+    <br/><span><strong>바요엔-스타</strong>를 게임 화면 위에 띄워서 편하게 볼 수도 있어요</span>
 </p>
 
 <p align="center">

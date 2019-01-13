@@ -97,7 +97,7 @@ layout: bayoen-star-ko
 
 ----
 
-### 목차
+### 세부목차
 - [메인화면](#Main)
 - [동작](#Function)
 - [Menu: 메뉴](#Menu)

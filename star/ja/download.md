@@ -8,7 +8,7 @@ layout: bayoen-star-ja
 <br/>
 **ばよえ〜ん・スター**を下のリンクからダウンロードすればいいです。
 <p align="center">
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases/latest" target="_blank" class="in-btn"><strong>1. 最新バージョン*</strong></a>
+        <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star-{{ site.latest_version }}.zip" class="in-glow-btn"><strong>1. 最新バージョン*</strong></a>
     <a href="https://github.com/bayoen/bayoen-star-exe/releases" target="_blank" class="in-btn">2. リリーズ*</a>
     <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">3. ソスコード*</a>
 </p>
@@ -25,11 +25,7 @@ layout: bayoen-star-ja
 
 ## 設置/実行法
 
-1. ダウンロードリンクで**Assets**すぐ下にあるばよえ〜ん・スター**bayoen-star-####.zip**をダウンロードします。<br/>(**###**はバージョン数字です)
-    <p align="center">
-        <img src="{{ site.lang_url }}/res/bayoen-star-release-assets.png" class="shadow-box" alt="bayoen-star-release-assets"/>
-        <br/><span>このダウンロードリンクを押してください。</span>
-    </p>
+1. ダウンロードリンクで**bayoen-star-####.zip**をダウンロードします。
 2. 圧縮ファイル**bayoen-star-####.zip**を適当な経路に圧縮解除します。
 3. 圧縮解除したフォルダーから**bayoen-star.exe**を実行します。 終わります!
 4. 詳しくは**[使用法]({{ site.lang_url }}/ja/instruction.html)**を確認してください。

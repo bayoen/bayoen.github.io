@@ -8,7 +8,7 @@ layout: bayoen-star-en
 <br/>
 You can download **bayoen-star** from following links:
 <p align="center">
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases/latest" target="_blank" class="in-btn"><strong>1. Latest*</strong></a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star-{{ site.latest_version }}.zip" class="in-glow-btn"><strong>1. Latest*</strong></a>
     <a href="https://github.com/bayoen/bayoen-star-exe/releases" target="_blank" class="in-btn">2. Releases*</a>
     <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">3. Source Code*</a>
 </p>
@@ -25,11 +25,7 @@ You can download **bayoen-star** from following links:
 
 ## Install and Run
 
-1. Get **bayoen-star-####.zip** right below **Assets** in download link. (**###** means the version number)
-    <p align="center">
-        <img src="{{ site.lang_url }}/res/bayoen-star-release-assets.png" class="shadow-box" alt="bayoen-star-release-assets"/>
-        <br/><span>Click this download link!</span>
-    </p>
+1. Get **bayoen-star-####.zip** via download link.
 2. Unzip **bayoen-star-####.zip** to proper path.
 3. Run **bayoen-star.exe** from unzipped path. It's done!
 4. For more details, see **[Instruction]({{ site.lang_url }}/en/instruction.html)**!

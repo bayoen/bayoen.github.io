@@ -31,6 +31,12 @@ layout: bayoen-star-ko
 4. 끝!
 
 <p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<p align="center">
     <br/><span><strong>바요엔-스타</strong>의 메인화면은 이런 구성입니다</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-initial"/>
     <br/><span>직관적인 구성으로 누구나 쉽게 쓸 수 있습니다 (역시 개발자 생각입니다)</span>

@@ -167,7 +167,7 @@ layout: bayoen-star-ko
 
 #### 점수판 심볼
 
-점수판에 나오는 세가지 심볼들입니다
+점수판에 나오는 세가지 심볼들입니다. **뿌요뿌요 테트리스**에서 추출한 그래픽이라 이쁩니다!
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>

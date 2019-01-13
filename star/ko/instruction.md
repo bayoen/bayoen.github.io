@@ -53,8 +53,9 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
-    <br/><span><strong>메뉴</strong>를 눌러서 점수를 초기화하거나, 설정 및 점수판모드를 바꿀 수 있습니다!</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-ko.png" class="box" alt="bayoen-star-instuction-menu-selected"/>    
+    <br/><span><strong>메뉴</strong>를 눌러서 점수를 초기화하거나, 목표점수를 설정하거나, 환경설정 및 점수판모드를 바꿀 수 있습니다!</span>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-ko.png" class="box" alt="bayoen-star-instuction-menu-selected"/>
+        <br/><span>친선전이나 대회로 <strong>N선승<strong>을 하고 싶으시면 목표점수설정을 꼭 해보세요!</span>
 </p>
 
 <p align="center">

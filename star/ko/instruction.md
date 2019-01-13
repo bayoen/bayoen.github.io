@@ -111,14 +111,14 @@ layout: bayoen-star-ko
 ----
 
 ### 세부목차
-- [메인화면 'bayoen-star'](#Main)
+- [메인화면](#Main)
     - [화면구성](#MainWindow)
     - [점수판 심볼](#Symbol)    
 - [Menu: 메뉴](#Menu)
     - [Reset: 점수초기화](#Reset)
     - [Goal: 목표점수설정](#Goal)
-    - [Overlay: 점수판 오버레이 'bayoen-star-overlay'](#Overlay)
-    - [Settings: 환경설정 'bayoen-star-settings'](#Settings)
+    - [Overlay: 점수판 오버레이](#Overlay)
+    - [Settings: 환경설정](#Settings)
     - [Mode: 점수판 모드](#Mode)
 - [동작](#Function)
 - [단축키](#Hotkey)
@@ -141,10 +141,12 @@ layout: bayoen-star-ko
 
 #### 화면구성
 
+메인화면의 구성입니다
+
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="box" alt="bayoen-star-initial"/>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main"/>
-    <br/><span><strong>바요엔-스타</strong>의 화면구성</span>
+    <br/><span><strong>바요엔-스타</strong>의 메인화면 화면구성</span>
 </p>
 
 1. 점수판: 게임화면을 기준으로 왼쪽은 1P, 오른쪽은 2P의 점수를 표시합니다. 3가지 [심볼](#Symbol)과, 5가지 [모드](#Mode)가 있습니다

@@ -6,7 +6,7 @@ layout: bayoen-star-en
 
 ## Download Link
 <br/>You can download **bayoen-star** from following links:
-<br/><i>*For adding new stuff and debugging, please use the latest always as possible! (Latest: <span><img src="https://img.shields.io/github/release/bayoen/bayoen-star-exe.svg?style=flat-square" style="vertical-align: middle;" alt="GitHub: Release"></span>)</i>
+<br/><i>*For adding new stuff and debugging, please use the latest always as possible! The latest version is <span><img src="https://img.shields.io/github/release/bayoen/bayoen-star-exe.svg?style=flat-square" style="vertical-align: middle;" alt="GitHub: Release"></span></i>
 
 <p align="center">
     <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star-{{ site.latest_version }}.zip" class="in-glow-btn"><strong>1. Latest</strong></a>

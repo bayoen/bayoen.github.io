@@ -6,7 +6,7 @@ layout: bayoen-star-ja
 
 ## ダウンロードリンク
 <br/>**ばよえ〜ん・スター**を下のリンクからダウンロードすればいいです。
-<br/><i>*機能追加/バグ修正のために常に最新バージョンを維持してください! 最新バージョンは'v{{ site.latest_version }}'です</i>
+<br/><i>*機能追加/バグ修正のために常に最新バージョンを維持してください! 最新バージョンは<strong>'v{{ site.latest_version }}'</strong>です</i>
 
 <p align="center">
         <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star-{{ site.latest_version }}.zip" class="in-glow-btn"><strong>1. 最新バージョン</strong></a>

@@ -114,14 +114,14 @@ a {
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  transition: color 0.2s, background-color 0.2s;
 
   &:hover {
     color: rgba(0, 0, 0, 0.8);
     text-decoration: none;
     color: rgba(255, 255, 255, 1);
     background-color: rgba(21, 165, 165, 0.8);
-    border-color: rgba(15, 120, 120, 0.4);
+
   }
 
   + .in-btn {
@@ -160,15 +160,14 @@ a {
 	-moz-animation: Gradient 15s ease infinite;
   animation: Gradient 15s ease infinite;
   
-  border-color: rgba(15, 15, 15, 0.4);
+  border-color: rgba(15, 120, 120, 0.4);
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  transition: color 0.2s, background-color 0.2s;
 
   &:hover {
     background-color: rgba(21, 165, 165, 0.8);
-    border-color: rgba(15, 120, 120, 0.4);
   }
 
   + .in-btn {

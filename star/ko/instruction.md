@@ -173,6 +173,23 @@ layout: bayoen-star-ko
 .
 </p>
 
+<a name="Reset"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+### Reset: 점수초기화
+
+
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
 <a name="Goal"> </a>
 <p align="center">
 .<br/><br/>

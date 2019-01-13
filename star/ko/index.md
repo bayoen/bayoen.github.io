@@ -105,6 +105,7 @@ _개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. �
 
 <p align="center">
    <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" class="box" width="30%" alt="bayoen~"/>
+    <br/><span>모든 그림은 꾹 누르면 커집니다!</span>
 </p>
 
 <p align="center">

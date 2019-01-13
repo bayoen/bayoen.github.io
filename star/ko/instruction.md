@@ -82,13 +82,7 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-<p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-10.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-10.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
     <br/><span>이렇게 즐겁게 할 수 있답니다!</span>
 </p>
 

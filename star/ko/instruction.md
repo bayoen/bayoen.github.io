@@ -11,13 +11,13 @@ layout: bayoen-star-ko
 ## 목차
 - [간단하게](#Abstract)
 - [자세하게](#Details)  
-    - [메인화면](#Main)
+    - [메인화면 'bayoen-star'](#Main)
     - [동작](#Function)
     - [Menu: 메뉴](#Menu)
         - [Reset: 점수초기화](#Reset)
         - [Goal: 목표점수설정](#Goal)
-        - [Overlay: 점수판 오버레이](#Overlay)
-        - [Settings: 환경설정](#Settings)
+        - [Overlay: 점수판 오버레이 'bayoen-star-overlay'](#Overlay)
+        - [Settings: 환경설정 'bayoen-star-settings'](#Settings)
         - [Mode: 점수판 모드](#Mode)
     - [단축키](#Hotkey)
     - [방송설정](#Streaming)
@@ -121,13 +121,13 @@ layout: bayoen-star-ko
 ----
 
 ### 세부목차
-- [메인화면](#Main)
+- [메인화면 'bayoen-star'](#Main)
 - [동작](#Function)
 - [Menu: 메뉴](#Menu)
     - [Reset: 점수초기화](#Reset)
     - [Goal: 목표점수설정](#Goal)
-    - [Overlay: 점수판 오버레이](#Overlay)
-    - [Settings: 환경설정](#Settings)
+    - [Overlay: 점수판 오버레이 'bayoen-star-overlay'](#Overlay)
+    - [Settings: 환경설정 'bayoen-star-settings'](#Settings)
     - [Mode: 점수판 모드](#Mode)
 - [단축키](#Hotkey)
 - [방송설정](#Streaming)   
@@ -158,7 +158,8 @@ layout: bayoen-star-ko
     - Offline: **뿌요뿌요 테트리스**가 꺼졌습니다. 카운터를 시작하려면 **뿌요뿌요 테트리스**를 켜서 게임을 시작해주세요.
     - Ready: **뿌요뿌요 테트리스**가 켜져서 **바요엔-스타**가 대기중입니다. 카운터를 시작하려면 게임을 시작해주세요.
     - Working: 카운터가 켜졌습니다. 별이나 게임 스코어를 얻으면 점수판에 반영됩니다.
-3. [메뉴](#Menu): **바요엔-스타**를 조작할 수 있는
+3. [메뉴](#Menu): **바요엔-스타**를 조작할 수 있는 메뉴입니다. 자세한 내용은 아래의 메뉴 설명을 봐주세요!
+4. [목표점수](#Goal): 친선전, 대회 같이 여러 게임동안 점수를 집계하고 승/패를 알려줍니다. 메뉴에서 설정하고 해제할 수 있습니다.
 
 #### 점수판 심볼
 

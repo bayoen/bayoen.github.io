@@ -114,13 +114,13 @@ layout: bayoen-star-ko
 - [메인화면](#Main)
     - [화면구성](#MainWindow)
     - [점수판 심볼](#Symbol)    
+- [동작](#Function)
 - [Menu: 메뉴](#Menu)
     - [Reset: 점수초기화](#Reset)
     - [Goal: 목표점수설정](#Goal)
     - [Overlay: 점수판 오버레이](#Overlay)
     - [Settings: 환경설정](#Settings)
     - [Mode: 점수판 모드](#Mode)
-- [동작](#Function)
 - [단축키](#Hotkey)
 - [방송설정](#Streaming)
 
@@ -167,10 +167,18 @@ layout: bayoen-star-ko
 
 #### 점수판 심볼
 
+점수판에 나오는 세가지 심볼들입니다
+
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
-    <br/><span><strong>점수판</strong>에 나오는 심볼은 이겁니다!</span>
+    <br/><span><strong>바요엔-스타</strong>의 세가지 심볼</span>
 </p>
+
+- 스타: 별모양으로, 현재 별 스코어입니다. 게임의 별 개수와 같습니다.
+- 스타+: 별모양에 더하기가 있고, 누적 별 스코어입니다.
+- 크라운: 왕관모양으로, 누적 게임스코어입니다.
+
+누적점수는 [초기화](#Reset), [환경설정](#Settings)에서 변경할 수 있습니다.
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>

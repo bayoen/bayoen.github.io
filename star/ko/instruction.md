@@ -109,20 +109,135 @@ layout: bayoen-star-ko
 
 ----
 
+<a name="Main"> </a>
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main"/>
-    <br/><span><strong>바요엔-스타</strong>는 이렇게 구성돼있습니다!</span>
+.<br/><br/>
+.<br/><br/>
+.
 </p>
 
-<p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
-    <br/><span><strong>점수판</strong>에 나오는 심볼은 이겁니다!</span>
-</p>
+### 메인화면
+
+
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>
-    <br/><span><strong>메뉴</strong>는 이렇게 구성돼있습니다!</span>
+.<br/><br/>
+.<br/><br/>
+.
 </p>
+
+<a name="Function"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+### 동작
+
+
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Menu"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+### Menu: 메뉴
+
+
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Goal"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+### Goal: 목표점수설정
+
+
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Overlay"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+### Overlay: 점수판 오버레이
+
+
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Settings"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+### Settings: 환경설정
+
+
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Mode"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+### Mode: 점수판 모드
+
+
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Streaming"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## 방송설정
+
+
 
 <p align="center">
 .<br/><br/>

@@ -163,12 +163,12 @@ a {
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
     text-decoration: none;
     background-color: rgba(21, 165, 165, 0.8);
-    border-color: rgba(15, 120, 120, 0.4);
+    border-color: rgba(15, 15, 15, 0.4);
   }
 
   + .in-btn {

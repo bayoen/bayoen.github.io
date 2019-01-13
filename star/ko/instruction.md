@@ -323,7 +323,9 @@ layout: bayoen-star-ko
 
 ## 방송설정
 
-방송 송출용 설정에 대한 내용은 [여기]({{ site.lang_url }}/ko/streaming.html)서 봐주세요
+찾으시는 분들이 많아 따로 항목을 만들었습니다!
+
+방송송출용 설정에 대한 내용은 [여기]({{ site.lang_url }}/ko/streaming.html)서 봐주세요.
 
 <p align="center">
 .<br/><br/>

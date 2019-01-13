@@ -81,6 +81,28 @@ layout: bayoen-star-ko
 </p>
 
 <p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
+    <br/><span>퍼즐리그에서도..</span>
+</p>
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
+    <br/><span>이렇게 즐겁게 할 수 있답니다!</span>
+</p>
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<p align="center">
     <span><strong>진짜 끝!</strong></span>    
 </p>
 

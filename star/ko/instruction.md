@@ -19,6 +19,7 @@ layout: bayoen-star-ko
         - [Overlay: 점수판 오버레이](#Overlay)
         - [Settings: 환경설정](#Settings)
         - [Mode: 점수판 모드](#Mode)
+    - [단축키](#Hotkey)
     - [방송설정](#Streaming)
 
 ----
@@ -249,6 +250,23 @@ layout: bayoen-star-ko
 </p>
 
 ### Mode: 점수판 모드
+
+
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Hotkey"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## 단축키
 
 
 

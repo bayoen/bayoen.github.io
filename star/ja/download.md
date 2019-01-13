@@ -5,17 +5,16 @@ layout: bayoen-star-ja
 # ダウンロード
 
 ## ダウンロードリンク
-<br/>
-**ばよえ〜ん・スター**を下のリンクからダウンロードすればいいです。
+<br/>**ばよえ〜ん・スター**を下のリンクからダウンロードすればいいです。
+<br/><i>機能追加/バグ修正のために常に最新バージョンを維持してください! (最新バージョン: <span><img src="https://img.shields.io/github/release/bayoen/bayoen-star-exe.svg?style=flat-square" style="vertical-align: middle;" alt="GitHub: Release"></span>)</i>
+
 <p align="center">
         <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star-{{ site.latest_version }}.zip" class="in-glow-btn"><strong>1. 最新バージョン*</strong></a>
     <a href="https://github.com/bayoen/bayoen-star-exe/releases" target="_blank" class="in-btn">2. リリーズ*</a>
     <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">3. ソスコード*</a>
 </p>
 
-1. 最新バージョン: **ばよえ〜ん・スター**の最新バージョンを受けることができます。
-
-    <i>機能追加/バグ修正のために常に最新バージョンを維持してください! (最新バージョン: <span><img src="https://img.shields.io/github/release/bayoen/bayoen-star-exe.svg?style=flat-square" style="vertical-align: middle;" alt="GitHub: Release"></span>)</i>
+1. 最新バージョン: **ばよえ〜ん・スター**の最新バージョンを受けることができます。    
 2. リリーズ: **ばよえ〜ん・スター**のすべてのバージョンのリストです。 ご希望のバージョンをお受け取りください!
 3. ソスコード: **ばよえ〜ん・スター**はオープンソースです。 プログラムのソースコードがご必要になりましたら,お受け取りください。 そして改善点があったらGitHub commitもお願いします!
 

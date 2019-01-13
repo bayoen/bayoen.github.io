@@ -13,14 +13,14 @@ layout: bayoen-star-ko
 - [자세하게](#Details)  
     - [메인화면 'bayoen-star'](#Main)
         - [화면구성](#MainWindow)
-        - [점수판 심볼](#Symbol)
-    - [동작](#Function)
+        - [점수판 심볼](#Symbol)    
     - [Menu: 메뉴](#Menu)
         - [Reset: 점수초기화](#Reset)
         - [Goal: 목표점수설정](#Goal)
         - [Overlay: 점수판 오버레이 'bayoen-star-overlay'](#Overlay)
         - [Settings: 환경설정 'bayoen-star-settings'](#Settings)
         - [Mode: 점수판 모드](#Mode)
+    - [동작](#Function)
     - [단축키](#Hotkey)
     - [방송설정](#Streaming)
 
@@ -124,15 +124,18 @@ layout: bayoen-star-ko
 
 ### 세부목차
 - [메인화면 'bayoen-star'](#Main)
-- [동작](#Function)
+    - [화면구성](#MainWindow)
+    - [점수판 심볼](#Symbol)    
 - [Menu: 메뉴](#Menu)
     - [Reset: 점수초기화](#Reset)
     - [Goal: 목표점수설정](#Goal)
     - [Overlay: 점수판 오버레이 'bayoen-star-overlay'](#Overlay)
     - [Settings: 환경설정 'bayoen-star-settings'](#Settings)
     - [Mode: 점수판 모드](#Mode)
+- [동작](#Function)
 - [단축키](#Hotkey)
-- [방송설정](#Streaming)   
+- [방송설정](#Streaming)
+
 
 ----
 

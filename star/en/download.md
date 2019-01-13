@@ -26,6 +26,8 @@ layout: bayoen-star-en
 
 ## Install and Run
 
+Download, unzip and run!
+
 1. Get **bayoen-star-{{ site.latest_version }}.zip** via download link.
 2. Unzip **bayoen-star-{{ site.latest_version }}.zip** to proper path.
 3. Run **bayoen-star.exe** from unzipped path. It's done!

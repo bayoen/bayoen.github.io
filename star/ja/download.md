@@ -26,6 +26,8 @@ layout: bayoen-star-ja
 
 ## 設置/実行法
 
+ダウンロード, 解く, 実行!
+
 1. ダウンロードリンクで**bayoen-star-{{ site.latest_version }}.zip**をダウンロードします。
 2. 圧縮ファイル**bayoen-star-{{ site.latest_version }}.zip**を適当な経路に圧縮解除します。
 3. 圧縮解除したフォルダーから**bayoen-star.exe**を実行します。 終わります!

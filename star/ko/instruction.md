@@ -114,7 +114,7 @@ layout: bayoen-star-ko
 - [메인화면](#Main)
     - [화면구성](#MainWindow)
     - [점수판 심볼](#Symbol)    
-- [동작](#Function)
+- [**바요엔-스타**동작](#Function)
 - [Menu: 메뉴](#Menu)
     - [Reset: 점수초기화](#Reset)
     - [Goal: 목표점수설정](#Goal)

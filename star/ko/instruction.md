@@ -319,7 +319,7 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-overlay-menu.png" class="shadow-box" alt="bayoen-star-overlay-menu"/>
-    <br/><span>총 20별 경기 '12:8로 왼쪽이 이겼습니다!'</span>
+    <br/><span><strong>오버레이</strong> 화면 및 보조메뉴</span>
 </p>
 
 **오버레이**에도 여러기능이 있습니다!

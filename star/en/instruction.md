@@ -111,7 +111,7 @@ Shall we be more specific? We listed all functinoals of **bayoen-star**. Please 
 
 ----
 
-### 세부목차
+### Detail Contents
 - [Mainwindow](#Main)
     - [Conponents](#Components)
     - [Symbol](#Symbol)    
@@ -144,16 +144,16 @@ Shall we be more specific? We listed all functinoals of **bayoen-star**. Please 
 
 ### Mainwindow
 
-Here's instruction of **bayoen-star**'s main window
+Here's a instruction of **bayoen-star**'s main window.
 
-#### 화면구성
+#### Components
 
-메인화면의 구성입니다
+The main window contains this!
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="box" alt="bayoen-star-initial"/>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main"/>
-    <br/><span><strong>바요엔-스타</strong>의 메인화면</span>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-en.png" class="box" alt="bayoen-star-instuction-main"/>
+    <br/><span>Main window of <strong>bayoen-star</strong></span>
 </p>
 
 1. 점수판: 게임화면을 기준으로 왼쪽은 1P, 오른쪽은 2P의 점수를 표시합니다. 3가지 [심볼](#Symbol)과, 5가지 [모드](#Mode)가 있습니다. 모든 점수는 0부터 9999까지 표시할 수 있습니다. 그 이상은... 미안합니다.

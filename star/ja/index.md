@@ -67,7 +67,7 @@ layout: bayoen-star-ja
 .
 </p>
 
-ばよえ~ん-スターはメモリ読み込みを使用shimasu。 ゲームバランスには全く影響しません!
+ばよえ~ん-スターはメモリ読み込みを使用します。 ゲームバランスには全く影響しません!
 ばよえ~ん-スターはぷよぷよテトリスの内部情報を操作しません。
 
 _開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 このプロジェクトはいかなる営利行為も行わないファンメイドです。 全ての2次著作権はSEGAにあります!  SEGAの要請があった場合,プロジェクトを閉鎖することができます。。。_
@@ -82,7 +82,7 @@ _開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 こ�
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
-    <br/><span><strong>ばよえ〜ん・スター</strong>をゲーム画面の上映して気楽に見ることができます</span>
+    <br/><span><strong>ばよえ〜ん・スター</strong>をゲーム画面映して気楽に見ることができます</span>
 </p>
 
 <p align="center">

@@ -160,7 +160,7 @@ layout: bayoen-star-ko
 2. 게임상태: **뿌요뿌요 테트리스**의 상태를 표시해줍니다. 세 종류가 있습니다.
     - **Offline**: **뿌요뿌요 테트리스**가 꺼졌습니다. 카운터를 시작하려면 **뿌요뿌요 테트리스**를 켜서 게임을 시작해주세요.
     - **Ready**: **뿌요뿌요 테트리스**가 켜져서 **바요엔-스타**가 대기중입니다. 카운터를 시작하려면 게임을 시작해주세요.
-    - **Working**: 카운터가 켜졌습니다! 별이나 게임 스코어를 얻으면 점수판에 반영됩니다.
+    - **Working**: 카운터가 켜졌습니다! 아무나 별이나 게임 스코어를 얻으면 점수판에 반영됩니다.
 3. [메뉴](#Menu): **바요엔-스타**를 조작할 수 있는 메뉴입니다. 자세한 내용은 아래의 메뉴 설명을 봐주세요!
 4. [목표점수](#Goal): 친선전, 대회 같이 여러 게임동안 점수를 집계하고 승/패를 알려줍니다. 메뉴에서 설정하고 해제할 수 있습니다. 자세한 내용은 아래의 목표설정 설명을 봐주세요!
 
@@ -188,7 +188,7 @@ layout: bayoen-star-ko
 점수판에 나오는 세가지 심볼들입니다. **뿌요뿌요 테트리스**에서 추출한 그래픽이라 이쁩니다!
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown-ko"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown"/>
     <br/><span><strong>바요엔-스타</strong>의 세 가지 심볼</span>
 </p>
 

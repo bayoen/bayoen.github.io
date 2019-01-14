@@ -287,9 +287,12 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 - 목표점수는 '스타+' 혹은 '크라운'으로 설정할 수 있습니다. 값은 0부터 9999까지 설정할 수 있습니다!
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="box" alt="bayoen-star-example-goal-total-none"/>
+    <span>목표설정이 완료되면 이런 식으로 표시됩니다</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="box" alt="bayoen-star-example-mode-2-fit"/>
-    <br/><span>목표설정이 완료되면 이런 식으로 표시됩니다</span>
+    <br/><span>왕관 10선승 (First, Crown, 10 Scores)</span>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="box" alt="bayoen-star-example-goal-total-none"/>
+    <br/><span>별 20점 다선승 (Total, Star+, 20 Scores)</span>
+    
 </p>
 
 <p align="center">

@@ -67,7 +67,7 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
     <img src="{{ site.lang_url }}/res/bayoen-star-menu-mode-selected.png" class="box" alt="bayoen-star-menu-mode-selected"/>
     <br/><span>You can change scoremoard mode to display types of score you want</span>
     <br/><span>Feel free for checking out other functionals!</span>
-    <br/><span>You should close <strong>bayoen-star</strong> directly in traybar</span>
+    <br/><span>You should close <strong>bayoen-star</strong> directly in tray icon</span>
 </p>
 
 
@@ -79,7 +79,7 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-9.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
-    <br/><span>And also, in puzzle leage....</span>
+    <br/><span>And also, in puzzle league....</span>
 </p>
 
 <p align="center">

@@ -386,7 +386,7 @@ _여기서 소개드린 오버레이는 **송출용 오버레이**가 아닙니�
 
 A. 주요설정
    1. 항상 위에: 체크하면 **바요엔-스타**를 항상 위로 둡니다
-   2. 자동 숨기기*: 체크하면 게임 중이 아닐 때 (**'Working'** 상태) 점수판을 숨깁니다
+   2. 자동 숨기기*: 체크하면 게임 중이 아닐 때 (**'Working'** 상태), 점수판을 숨깁니다
    3. 텍스트 출력*: 체크하면 텍스트 파일로 결과를 출력합니다
    4. 점수판 크기조절*: 체크하면 점수판의 크기를 최대크기로 고정합니다.
    5. 크로마키 설정*: 여러가지 크로마키를 설정할 수 있습니다
@@ -413,7 +413,16 @@ B. 점수 모니터
 
 #### Mode: 점수판 모드 설정
 
+점수판 모드는 가능한 모든 점수판 형태를 지원합니다.
 
+<p align="center">
+    <span><strong>바요엔-스타</strong>의 점수판에는 이런 것들이 나옵니다!</span>    
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-menu-mode-selected.png" class="box" alt="bayoen-star-menu-mode-selected"/>
+    <br/><span>점수판 모드를 바꿔서 내가 원하는 점수만 표시할 수 있습니다</span>
+    <br/><span>그 밖의 다른 기능들도 살펴보세요!</span>
+    <br/><span>끌 때는 작업표시줄에서 종료해주세요~</span>
+</p>
 
 <p align="center">
 .<br/><br/>

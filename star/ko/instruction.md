@@ -106,13 +106,13 @@ layout: bayoen-star-ko
 
 ## 자세하게
 
-이제 본격적으로 알아볼까요? **바요엔-스타** 기능들을 정리했습니다 하나씩 눌러보세요!
+이제 본격적으로 알아볼까요? **바요엔-스타** 기능들을 정리했습니다. 하나씩 눌러보세요!
 
 ----
 
 ### 세부목차
 - [메인화면](#Main)
-    - [화면구성](#MainWindow)
+    - [화면구성](#Components)
     - [점수판 심볼](#Symbol)    
 - [**바요엔-스타** 기능동작](#Function)
 - [Menu: 메뉴](#Menu)
@@ -134,7 +134,7 @@ layout: bayoen-star-ko
 </p>
 
 <a name="Main"> </a>
-<a name="MainWindow"> </a>
+<a name="Components"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>

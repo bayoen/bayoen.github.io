@@ -93,7 +93,7 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
 </p>
 
 <p align="center">
-    <span><strong>THE END!</strong></span>    
+    <span><strong>THE END!</strong></span>
 </p>
 
 <a name="Details"> </a>
@@ -104,25 +104,25 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
 .
 </p>
 
-## 자세하게
+## More Details
 
-이제 본격적으로 알아볼까요? **바요엔-스타** 기능들을 정리했습니다 하나씩 눌러보세요!
+Shall we be more specific? We listed all functinoals of **bayoen-star**. Please check one by one!
 
 ----
 
 ### 세부목차
-- [메인화면](#Main)
-    - [화면구성](#MainWindow)
-    - [점수판 심볼](#Symbol)    
-- [**바요엔-스타** 기능동작](#Function)
-- [Menu: 메뉴](#Menu)
-    - Reset: 점수 초기화
-    - [Goal: 목표점수 설정](#Goal)
-    - [Overlay: 점수판 오버레이](#Overlay)
-    - [Settings: 환경설정](#Settings)
-    - [Mode: 점수판 모드 설정](#Mode)
-- [단축키](#Hotkey)
-- [방송설정](#Streaming)
+- [Mainwindow](#Main)
+    - [Conponents](#Components)
+    - [Symbol](#Symbol)    
+- [**bayoen-star** Functions](#Function)
+- [Menu](#Menu)
+    - Reset
+    - [Goal](#Goal)
+    - [Overlay](#Overlay)
+    - [Settings](#Settings)
+    - [Mode](#Mode)
+- [Hotkey](#Hotkey)
+- [Streaming](#Streaming)
 
 
 ----
@@ -134,7 +134,7 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
 </p>
 
 <a name="Main"> </a>
-<a name="MainWindow"> </a>
+<a name="Components"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>

@@ -30,7 +30,7 @@ layout: bayoen-star-ja
 
 1. ダウンロードリンクで**bayoen-star-{{ site.latest_version }}.zip**をダウンロードします。
 2. 圧縮ファイル**bayoen-star-{{ site.latest_version }}.zip**を適当な経路に圧縮解凍します。
-3. 圧縮解除したフォルダーから**bayoen-star.exe**を実行します。 終わります!
+3. 圧縮解凍したフォルダーから**bayoen-star.exe**を実行します。 終わります!
 4. 詳しくは**[使用法]({{ site.lang_url }}/ja/instruction.html)**を確認してください。
 
 <p align="center">

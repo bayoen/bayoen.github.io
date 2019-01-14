@@ -116,7 +116,7 @@ layout: bayoen-star-ko
     - [점수판 심볼](#Symbol)    
 - [**바요엔-스타** 기능동작](#Function)
 - [Menu: 메뉴](#Menu)
-    - [Reset: 점수 초기화](#Reset)
+    - Reset: 점수 초기화
     - [Goal: 목표점수 설정](#Goal)
     - [Overlay: 점수판 오버레이](#Overlay)
     - [Settings: 환경설정](#Settings)
@@ -152,7 +152,7 @@ layout: bayoen-star-ko
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="box" alt="bayoen-star-initial"/>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-instuction-main"/>
-    <br/><span><strong>바요엔-스타</strong>의 메인화면 화면구성</span>
+    <br/><span><strong>바요엔-스타</strong>의 메인화면</span>
 </p>
 
 1. 점수판: 게임화면을 기준으로 왼쪽은 1P, 오른쪽은 2P의 점수를 표시합니다. 3가지 [심볼](#Symbol)과, 5가지 [모드](#Mode)가 있습니다. 모든 점수는 0부터 9999까지 표시할 수 있습니다. 그 이상은... 미안합니다.
@@ -212,6 +212,8 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 
 - 갱신: **바요엔-스타**는 **뿌요뿌요 테트리스** 게임 플레이 중, 별이 오르는 순간의 점수변동을 계산하여 점수판에 갱신합니다.
 
+- 저장: **바요엔-스타**에서는 게임데이터와 설정을 실시간 저장합니다. **바요엔-스타**가 강제종료 되더라도 일부정보를 복구할 수 있습니다.
+
 - 종료: **바요엔-스타**의 메인 창을 닫으면 시스템 트레이로 최소화 됩니다. **바요엔-스타**를 완전히 종료하려면 시스템 트레이 아이콘을 우클릭해서 종료버튼을 눌러주세요!
 
 - 메모리: (중요) **바요엔-스타**는 컴퓨터 메모리 후킹으로 동작하기 때문에, 두 가지 이슈가 있습니다:
@@ -242,27 +244,18 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 
 ### Menu: 메뉴
 
-<p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-ko.png" class="box" alt="bayoen-star-instuction-menu"/>
-    <br/><span><strong>메뉴</strong>는 이렇게 구성돼있습니다!</span>
-</p>
+**바요엔-스타** 메뉴의 구성입니다
 
 <p align="center">
-.<br/><br/>
-.<br/><br/>
-.
+    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-ko.png" class="box" alt="bayoen-star-instuction-menu-selected"/>
+    <br/><span><strong>바요엔-스타</strong>의 메뉴</span>
 </p>
 
-<a name="Reset"> </a>
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
-### Reset: 점수 초기화
-
-
+1. 점수초기화: '스타+'와 '크라운'을 0으로 초기화 합니다. 점수판도 바로 갱신됩니다.
+2. 목표점수설정: 목표를 정하여 여러 게임동안 점수를 집계하고 승/패를 알려줍니다. 자세한 내용은 [Goal: 목표점수 설정](#Goal)을 봐주세요!
+3. 점수판 오버레이: 
+4. 환경설정: 
+5. 점수판 모드: 
 
 <p align="center">
 .<br/><br/>
@@ -279,7 +272,7 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 
 ### Goal: 목표점수 설정
 
-여러 게임동안 점수를 집계하고 승/패를 알려줍니다. 언제나 사용할 수 있고, 특히 친선전이나 대회에서 유용합니다.
+목표를 정하여 여러 게임동안 점수를 집계하고 승/패를 알려줍니다. 언제나 사용할 수 있고, 특히 친선전이나 대회에서 유용합니다.
 
 현재 지원하는 목표는 두 가지 입니다.
 - FIRST #: #선승 입니다! #점을 먼저 얻으면 이깁니다.

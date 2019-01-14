@@ -61,12 +61,12 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
 </p>
 
 <p align="center">
-    <span><strong>바요엔-스타</strong>의 점수판에는 이런 것들이 나옵니다!</span>    
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown"/>
+    <span><strong>bayoen-star</strong>'s scoreboard show us such things!</span>    
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-en.png" class="box" alt="bayoen-star-and-crown"/>
     <img src="{{ site.lang_url }}/res/bayoen-star-menu-mode-selected.png" class="box" alt="bayoen-star-menu-mode-selected"/>
-    <br/><span>점수판 모드를 바꿔서 내가 원하는 점수만 표시할 수 있습니다</span>
-    <br/><span>그 밖의 다른 기능들도 살펴보세요!</span>
-    <br/><span>끌 때는 작업표시줄에서 종료해주세요~</span>
+    <br/><span>You can change scoremoard mode to display types of score you want</span>
+    <br/><span>Feel free for checking out other functionals!</span>
+    <br/><span>You should close <strong>bayoen-star</strong> directly in traybar</span>
 </p>
 
 
@@ -78,12 +78,12 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-9.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
-    <br/><span>퍼즐리그에서도..</span>
+    <br/><span>And also, in puzzle leage....</span>
 </p>
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-10.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
-    <br/><span>이렇게 즐겁게 할 수 있답니다!</span>
+    <br/><span>you can enjoy whole matches XD</span>
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
 </p>
 
 <p align="center">
-    <span><strong>진짜 끝!</strong></span>    
+    <span><strong>THE END!</strong></span>    
 </p>
 
 <a name="Details"> </a>

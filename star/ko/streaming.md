@@ -2,9 +2,13 @@
 layout: bayoen-star-ko
 ---
 
+# 방송설정
+
+인터넷 방송인을 위한 송출용 세팅을 알려드립니다.
+
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
-    <br/><span><strong>인터넷 방송인을 위한 송충용 설정법!</strong></span>
+    <br/><span><strong>인터넷 방송화면 캡처!</strong></span>
 </p>
 
 <p align="center">
@@ -13,30 +17,41 @@ layout: bayoen-star-ko
 .
 </p>
 
-# 방송설정
-
-인터넷 방송인을 위한 송출용 세팅을 알려드립니다.
 
 ----
 
-### 세부목차
-- [메인화면](#Main)
-    - [화면구성](#Components)
-    - [점수판 심볼](#Symbol)    
-- [**바요엔-스타** 기능동작](#Function)
+## 목차
+- [간단한 설명](#Description)
+- [크로마키 설정](#ChromaKey)
 - [Menu: 메뉴](#Menu)
-    - Reset: 점수 초기화
-    - [Goal: 목표점수 설정](#Goal)
-    - [Overlay: 점수판 오버레이](#Overlay)
-    - [Settings: 환경설정](#Settings)
-    - [Mode: 점수판 모드 설정](#Mode)
-- [단축키](#Hotkey)
-- [방송설정](#Streaming)
-
 
 ----
 
+<a name="Description"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
 
+## 간단한 설명
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="ChromaKey"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## 크로마키 설정
+
+## 커스텀
 
 <p align="center">
     <!-- <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/><br/> -->

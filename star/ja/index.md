@@ -18,7 +18,7 @@ layout: bayoen-star-ja
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
     <br/><span><strong>ばよえ〜ん・スター</strong>が星を数えています</span>
-    <br/><span>1セットに勝つたびに星が上がります</span>
+    <br/><span>1セット勝つたびに星が上がります</span>
 </p>
 
 <p align="center">

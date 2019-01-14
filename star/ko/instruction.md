@@ -416,9 +416,9 @@ B. 점수 모니터
 점수판 모드는 가능한 모든 점수판 형태를 지원합니다.
 
 <p align="center">    
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown"/>
     <img src="{{ site.lang_url }}/res/bayoen-star-menu-mode-selected.png" class="box" alt="bayoen-star-menu-mode-selected"/>
-    <span><strong>바요엔-스타</strong>의 점수판 모드 설정</span>    
+    <br/><span><strong>바요엔-스타</strong>의 점수판 모드 설정</span>    
 </p>
 
 ~~0. **'Star'** 스타: 이 점수는 **뿌요뿌요 테트리스**에서 기본지원 합니다!~~

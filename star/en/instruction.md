@@ -52,6 +52,7 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
     <br/><span>In <strong>Menu</strong>, you can reset all scores; or set goal; or change settings and the mode of scoreboard!</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-en.png" class="box" alt="bayoen-star-instuction-menu-selected"/>
         <br/><span>You'd better set a goal for friendly match or game league like <strong>'First to #15' match</strong></span>
+        <br/><span>Use <strong>Overlay</strong> to float scoreboard over the game window!</span>
 </p>
 
 <p align="center">
@@ -141,9 +142,9 @@ Shall we be more specific? We listed all functinoals of **bayoen-star**. Please 
 .
 </p>
 
-### 메인화면
+### Mainwindow
 
-**바요엔-스타**의 메인화면에 대한 설명입니다.
+Here's instruction of **bayoen-star**'s main window
 
 #### 화면구성
 
@@ -448,7 +449,7 @@ _환경설정 중 '*'가 있는 항목은 방송설정을 위한 것이니, 더 
 
 ## 단축키
 
-단축키는 아직 공사중입니다...
+Hotkey... is still on progress...
 
 <p align="center">
 .<br/><br/>
@@ -465,9 +466,9 @@ _환경설정 중 '*'가 있는 항목은 방송설정을 위한 것이니, 더 
 
 ## 방송설정
 
-찾으시는 분들이 많아 따로 항목을 만들었습니다!
+There were someone seeking this, we split the article!
 
-방송송출용 설정에 대한 내용은 [여기]({{ site.lang_url }}/ko/streaming.html)서 봐주세요.
+방송송출용 설정에 대한 내용은 [Here]({{ site.lang_url }}/en/streaming.html)서 봐주세요.
 
 <p align="center">
 .<br/><br/>

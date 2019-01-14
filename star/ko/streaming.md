@@ -23,7 +23,7 @@ layout: bayoen-star-ko
 ## 목차
 - [간단한 설명](#Description)
 - [크로마키 설정](#ChromaKey)
-- [Menu: 메뉴](#Menu)
+- [커스텀 설정](#Custom)
 
 ----
 
@@ -51,7 +51,20 @@ layout: bayoen-star-ko
 
 ## 크로마키 설정
 
-## 커스텀
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Custom"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## 커스텀 설정
 
 <p align="center">
     <!-- <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/><br/> -->

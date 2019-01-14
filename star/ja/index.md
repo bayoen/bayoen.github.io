@@ -18,7 +18,7 @@ layout: bayoen-star-ja
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
     <br/><span><strong>ばよえ〜ん・スター</strong>が星を数えています</span>
-    <br/><span>一セットに勝つたびに星が上がります</span>
+    <br/><span>1セットに勝つたびに星が上がります</span>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ layout: bayoen-star-ja
 
 **ばよえ〜ん・スター**は1:1競技で勝ち点を数えます。
 友達と親善試合をする時に使ってみましょう!
-使いやすいばかりでなく, **四先勝,三先勝**みたいな有用な機能がいろいろあります。
+使いやすいばかりでなく, **N先勝負**みたいな有用な機能がいろいろあります。
 もっと詳しい内容は上の方の**[使用法]({{ site.lang_url }}/ja/instruction.html)**でご覧ください。
 
 <p align="center">
@@ -67,8 +67,8 @@ layout: bayoen-star-ja
 .
 </p>
 
-ばよえ~ん-スタはメモリ読み込みを使用するが, ゲームバランスには全く影響しません!
-ばよえ~ん-スタはぷよぷよテトリスの内部情報を操作しません。
+ばよえ~ん-スターはメモリ読み込みを使用shimasu。 ゲームバランスには全く影響しません!
+ばよえ~ん-スターはぷよぷよテトリスの内部情報を操作しません。
 
 _開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 このプロジェクトはいかなる営利行為も行わないファンメイドです。 全ての2次著作権はSEGAにあります!  SEGAの要請があった場合,プロジェクトを閉鎖することができます。。。_
 

@@ -337,6 +337,17 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 .
 </p>
 
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
+    <br/><span><strong>오버레이</strong>를 띄운 화면입니다!</span>
+</p>
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
 <a name="Settings"> </a>
 <p align="center">
 .<br/><br/>

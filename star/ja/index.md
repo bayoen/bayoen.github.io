@@ -82,7 +82,7 @@ _開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 こ�
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
-    <br/><span><strong>ばよえ〜ん・スター</strong>をゲーム画面映して気楽に見ることができます</span>
+    <br/><span><strong>ばよえ〜ん・スター</strong>をゲーム画面に映して気楽に見ることができます</span>
 </p>
 
 <p align="center">

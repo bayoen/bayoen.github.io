@@ -38,7 +38,7 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
 
 <p align="center">
     <br/><span>Following is mainwindow of <strong>bayoen-star</strong>:</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-ko.png" class="box" alt="bayoen-star-initial"/>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-en.png" class="box" alt="bayoen-star-initial"/>
     <br/><span>It's so intuitive for everybody (also from developers)</span>
 </p>
 
@@ -49,9 +49,9 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
 </p>
 
 <p align="center">
-    <br/><span><strong>메뉴</strong>를 눌러서 점수를 초기화하거나, 목표점수를 설정하거나, 환경설정 및 점수판모드를 바꿀 수 있습니다!</span>
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-ko.png" class="box" alt="bayoen-star-instuction-menu-selected"/>
-        <br/><span>친선전이나 대회로 <strong>N선승</strong>을 하고 싶으시면 목표점수설정을 꼭 해보세요!</span>
+    <br/><span>In <strong>Menu</strong>, you can reset all scores; or set goal; or change settings and the mode of scoreboard!</span>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-en.png" class="box" alt="bayoen-star-instuction-menu-selected"/>
+        <br/><span>You'd better set a goal for friendly match or game league like <strong>'First to #15' match</strong></span>
 </p>
 
 <p align="center">

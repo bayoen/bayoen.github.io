@@ -93,7 +93,7 @@ _開発及びテスト環境はWindows 10 x64 (.Net Framework 4.5)です。 こ�
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-mode-2-green"/>
-    <br/><span>ゲーム放送をしてますか。 では,<a href="{{ site.lang_url }}/ja/streaming.html">放送設定</a>でクロマキも使ってみて!</span>
+    <br/><span>ゲーム放送をしてますか。 では,<a href="{{ site.lang_url }}/ja/streaming.html">放送設定</a>で<strong>クロマキー</strong>も使ってみて!</span>
     <br/><span>送出しプログラムに合う多様なクロマキがあります</span>
 </p>
 

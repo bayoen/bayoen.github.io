@@ -4,7 +4,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
-    <br/><span><strong>인터넷 방송인을 위한 송충룔 설정법!</strong></span>
+    <br/><span><strong>인터넷 방송인을 위한 송충용 설정법!</strong></span>
 </p>
 
 <p align="center">

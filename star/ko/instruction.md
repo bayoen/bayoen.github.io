@@ -257,12 +257,6 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 4. 환경설정: 
 5. 점수판 모드: 
 
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
 <a name="Goal"> </a>
 <p align="center">
 .<br/><br/>
@@ -270,20 +264,33 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 .
 </p>
 
-### Goal: 목표점수 설정
+#### Goal: 목표점수 설정
 
 목표를 정하여 여러 게임동안 점수를 집계하고 승/패를 알려줍니다. 언제나 사용할 수 있고, 특히 친선전이나 대회에서 유용합니다.
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-ko.png" class="box" alt="bayoen-star-instuction-menu-selected"/>
-    <br/><span><strong>바요엔-스타</strong>의 메뉴</span>
-    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-ko.png" class="box" alt="bayoen-star-instuction-menu-selected"/>
-    <br/><span><strong>바요엔-스타</strong>의 메뉴</span>
+    <img src="{{ site.lang_url }}/res/bayoen-star-menu-goal.png" class="box" alt="bayoen-star-menu-goal"/>
+    <br/><span>목표점수설정 메뉴</span>
 </p>
 
-현재 지원하는 목표는 두 가지 입니다.
-- FIRST #: #선승 입니다! #점을 먼저 얻으면 이깁니다.
-- TOTAL #: #점다선승입니다! 선수들의 점수합이 #점이 됐을때 점수가 높은 사람이 이깁니다.
+1. 'Set' 목표설정: 목표설정화면을 불러옵니다. 설정이 완료되면 점수판 위에 목표가 표시됩니다.
+2. 'Remove' 목표제거: 설정된 목표를 지웁니다. 점수판에서 목표를 숨깁니다
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-menu-goal-set.png" class="box" alt="bayoen-star-menu-goal-set"/>
+    <br/><span>목표설정화면</span>
+</p>
+
+- 현재 지원하는 목표는 두 가지 입니다.
+    - FIRST #: #선승 입니다! #점을 먼저 얻으면 이깁니다.
+    - TOTAL #: #점다선승입니다! 선수들의 점수합이 #점이 됐을때 점수가 높은 사람이 이깁니다.
+- 목표점수는 '스타+' 혹은 '크라운'으로 설정할 수 있습니다. 값은 0부터 9999까지 설정할 수 있습니다!
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="box" alt="bayoen-star-example-goal-total-none"/>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="box" alt="bayoen-star-example-mode-2-fit"/>
+    <br/><span>목표설정이 완료되면 이런 식으로 표시됩니다</span>
+</p>
 
 <p align="center">
 .<br/><br/>
@@ -298,7 +305,7 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 .
 </p>
 
-### Overlay: 점수판 오버레이
+#### Overlay: 점수판 오버레이
 
 
 
@@ -315,7 +322,7 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 .
 </p>
 
-### Settings: 환경설정
+#### Settings: 환경설정
 
 
 
@@ -332,7 +339,7 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 .
 </p>
 
-### Mode: 점수판 모드 설정
+#### Mode: 점수판 모드 설정
 
 
 

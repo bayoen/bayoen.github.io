@@ -292,12 +292,12 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="box" alt="bayoen-star-example-mode-2-fit"/>
-    <br/><span>왕관 10선승 (First, Crown, 10 Scores)</span>
+    <br/><span><strong>왕관 10선승 (First, Crown, 10 Scores)</strong></span>
 </p>
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="box" alt="bayoen-star-example-goal-total-none"/>
-    <br/><span>별 20점 다선승 (Total, Star+, 20 Scores)</span>    
+    <br/><span><strong>별 20점 다선승 (Total, Star+, 20 Scores)</strong></span>    
 </p>
 
 <p align="center">

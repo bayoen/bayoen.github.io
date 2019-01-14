@@ -318,7 +318,7 @@ _***바요엔-스타**의 점수는 가상 점수입니다. 뿌요뿌요 테트�
 **바요엔-스타**의 메인창은 투명하게 할 수 없습니다... 대신, 따로 투명한 **오버레이** 전용창을 띄울 수 있습니다!
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-overlay-menu.png" class="shadow-box" alt="bayoen-star-overlay-menu"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-overlay-menu.png" class="box" alt="bayoen-star-overlay-menu"/>
     <br/><span><strong>오버레이</strong> 화면 및 보조메뉴</span>
 </p>
 

@@ -28,8 +28,8 @@ layout: bayoen-star-ko
 
 다운로드, 압축풀기, 실행!
 
-1. 다운로드 링크를 클릭하여 바요엔-스타 **bayoen-star-{{ site.latest_version }}.zip**을 내려받습니다.
-2. 압축파일 **bayoen-star-{{ site.latest_version }}.zip**을 적당한 경로에 압축해제합니다.
+1. 다운로드 링크를 클릭해서 바요엔-스타 **bayoen-star-{{ site.latest_version }}.zip**을 내려받습니다.
+2. 압축파일 **bayoen-star-{{ site.latest_version }}.zip**을 적당한 경로에 압축을 풀어줍니다.
 3. 압축해제한 폴더에서 **bayoen-star.exe**를 실행합니다. 끝입니다!
 4. 자세한 내용은 **[사용법]({{ site.lang_url }}/ko/instruction.html)**을 확인해 주세요!
 

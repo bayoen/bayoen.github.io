@@ -93,7 +93,7 @@ _개발 및 테스트 환경은 Windows 10 x64 (.Net Framework 4.5) 입니다. �
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-mode-2-green"/>
-    <br/><span>게임방송을 하시나요? 그럼 <a href="{{ site.lang_url }}/ko/streaming.html">방송설정</a>에서 크로마키를 써보세요!</span>
+    <br/><span>게임방송을 하시나요? 그럼 <a href="{{ site.lang_url }}/ko/streaming.html">방송설정</a>에서 <strong>크로마키</strong>를 써보세요!</span>
 </p>
 
 <p align="center">

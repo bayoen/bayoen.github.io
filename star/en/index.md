@@ -94,7 +94,7 @@ _Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This p
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-green.png" class="shadow-box" alt="bayoen-star-example-mode-2-green"/>
-    <br/><span>Are you game streamer? then try chroma keys via <a href="{{ site.lang_url }}/ja/streaming.html">streaming setting</a>!</span>
+    <br/><span>Are you a game streamer? then try <strong>chroma keys</strong> via <a href="{{ site.lang_url }}/ja/streaming.html">streaming setting</a>!</span>
 </p>
 
 <p align="center">

@@ -63,6 +63,21 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
 - Blue: 파란색으로 크로마키를 설정합니다. [XSplit](https://www.xsplit.com/ko)에서 최적의 색상입니다.
 
 <p align="center">
+    <div align="center">
+        <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-chroma.png" class="box" alt="bayoen-star-example-chroma"/>
+        <br/><span><strong>자홍색</strong> 크로마키</span>
+    </div>
+    <div align="center">
+        <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-green.png" class="box" alt="bayoen-star-example-goal-first-green"/>
+        <br/><span><strong>초록색</strong> 크로마키</span>
+    </div>
+    <div align="center">
+        <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-blue.png" class="box" alt="bayoen-star-example-goal-first-blue"/>
+        <br/><span><strong>파란색</strong> 크로마키</span>
+    </div>
+</p>
+
+<!-- <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-chroma.png" class="box" alt="bayoen-star-example-chroma"/>
     <br/><span><strong>자홍색</strong> 크로마키</span>
 </p>
@@ -75,7 +90,7 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-blue.png" class="box" alt="bayoen-star-example-goal-first-blue"/>
     <br/><span><strong>파란색</strong> 크로마키</span>
-</p>
+</p> -->
 
 <a name="ChromaKey2"> </a>
 <p align="center">

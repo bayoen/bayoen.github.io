@@ -68,7 +68,7 @@ OBS와 XSplit은 아래처럼 그대로 따라하시면 됩니다!
     2. Rename the window cature by **'bayoen-star-capture'** or any name you want.
     3. In property of **'bayoen-star-capture'**, select 'Color > Keying > Chroma Key > the same color with the chroma key of **'bayoen-star'**.
     4. And also, set 'Layout > Cropping > Top > **38 points**'.
-    5. It's done! place **'bayoen-star-capture'** wherever you want and it's resizeable!
+    5. It's done! place **'bayoen-star-capture'** wherever you want with your favorite size!
 
 <p align="center">
 .<br/><br/>

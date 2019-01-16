@@ -39,7 +39,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-settings-chromakey-selected.png" class="box" alt="bayoen-star-settings-chromakey-selected"/>
-    <br/><span><strong>크로마키 설정</strong></span>
+    <br/><span><strong>크로마키 설정창</strong></span>
 </p>
 
 - None: 크로마키를 해제합니다
@@ -68,7 +68,7 @@ OBS와 XSplit은 아래처럼 그대로 따라하시면 됩니다!
     2. 'リネームを押して追加されたウインドウキャプチャーの名前を**'ばよえ〜ん・スター・キャプチャー'**や気に入った名前に変えます。
     3. **'ばよえ〜ん・スター・キャプチャー'**の属性で'色 > キーイング > クロマキー > **'ばよえ〜ん・スター'**のクロマキーのような色'で設定します.
     4. そして **'ばよえ〜ん・スター・キャプチャー'**の属性で'レイアウト > クロッピング > トッ > **38 ポイント**'に設定します。
-    5. 終わりました! **'ばよえ〜ん・スター・キャプチャー'**を要なところにおけばいいです!
+    5. 終わりました! **'ばよえ〜ん・スター・キャプチャー'**をご希望の所に,お好みの大きさに置けばいいです!
 
 <p align="center">
 .<br/><br/>

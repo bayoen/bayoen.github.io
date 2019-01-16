@@ -107,7 +107,8 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 <p align="center">
     <img src="{{ site.lang_url }}/res/obs-chromakey-example-1.png" class="box" width="48%" alt="obs-chromakey-example-1"/>
     <img src="{{ site.lang_url }}/res/obs-chromakey-example-2.png" class="box" width="48%" alt="obs-chromakey-example-2"/>
-    <br/><span><strong>OBS</strong> 크로마키 설정 적용</span>
+    <br/><span><strong>OBS</strong> 캡처 및 크로마키 설정 적용</span>
+    <br/><span>오버레이가 아닌 메인 창을 캡처하셔야 합니다!</span>
 </p>
 
 - XSplit 캡처 및 크로마키 설정
@@ -123,7 +124,8 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 <p align="center">
     <img src="{{ site.lang_url }}/res/xsplit-chromakey-example-1.png" class="box" width="48%" alt="xsplit-chromakey-example-1"/>
     <img src="{{ site.lang_url }}/res/xsplit-chromakey-example-2.png" class="box" width="48%" alt="xsplit-chromakey-example-2"/>
-    <br/><span><strong>XSplit</strong> 크로마키 적용</span>
+    <br/><span><strong>XSplit</strong> 캡처 및 크로마키 적용</span>
+    <br/><span>오버레이가 아닌 메인 창을 캡처하셔야 합니다!</span>
 </p>
 
 <p align="center">

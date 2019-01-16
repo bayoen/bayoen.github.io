@@ -68,6 +68,11 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
 </p>
 
 <p align="center">
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-green.png" class="box" alt="bayoen-star-example-goal-first-blue"/>
+    <br/><span><strong>초록색</strong> 크로마키</span>
+</p>
+
+<p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-blue.png" class="box" alt="bayoen-star-example-goal-first-blue"/>
     <br/><span><strong>파란색</strong> 크로마키</span>
 </p>

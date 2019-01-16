@@ -63,21 +63,30 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
 - Blue: 파란색으로 크로마키를 설정합니다. [XSplit](https://www.xsplit.com/ko)에서 최적의 색상입니다.
 
 <p align="center">
-    <span>
-        <div style="display: inline-block">
-            <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-chroma.png" width="31%" class="box" alt="bayoen-star-example-chroma"/>
-            <br/><span><strong>자홍색</strong> 크로마키</span>
-        </div>
-        <div style="display: inline-block">
-            <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-green.png" width="31%" class="box" alt="bayoen-star-example-goal-first-green"/>
-            <br/><span><strong>초록색</strong> 크로마키</span>
-        </div>
-        <div style="display: inline-block">
-            <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-blue.png" width="31%" class="box" alt="bayoen-star-example-goal-first-blue"/>
-            <br/><span><strong>파란색</strong> 크로마키</span>
-        </div>
-    </span>
+    <table style="width:100%">
+        <tr>
+            <th>
+                <p align="center">
+                    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-chroma.png" width="31%" class="box" alt="bayoen-star-example-chroma"/>
+                    <br/><span><strong>자홍색</strong> 크로마키</span>
+                </p>
+            </th>
+            <th>
+                <p align="center">
+                    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-green.png" class="box" alt="bayoen-star-example-goal-first-green"/>
+                    <br/><span><strong>초록색</strong> 크로마키</span>
+                </p>
+            </th>
+                        <th>
+                <p align="center">
+                    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-blue.png" class="box" alt="bayoen-star-example-goal-first-blue"/>
+                    <br/><span><strong>파란색</strong> 크로마키</span>
+                </p>
+            </th>
+        </tr>
+    </table>
 </p>
+
 
 <!-- <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-chroma.png" class="box" alt="bayoen-star-example-chroma"/>

@@ -35,9 +35,11 @@ layout: bayoen-star-ko
 
 ## 크로마키 설정
 
-**바요엔-스타**를 방송용으로 쓸 때, **'오버레이'**가 아니라 **메인창**을 캡쳐해야 합니다. 나는 오버레이로 보고, 시청자들은 캡처된 메인창으로 본다고 생각하시면 됩니다!
+**바요엔-스타**를 방송용으로 쓸 때, **'오버레이'**가 아니라 **메인창**을 캡쳐해야 합니다. '나는 오버레이로 보고, 시청자들은 캡처된 메인창으로 본다'라고 생각하시면 됩니다!
 
 ### 1. **바요엔-스타**에서 크로마키 설정
+
+먼저 **바요엔-스타**에서 크로마키 설정을 합니다.
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-settings-chromakey-selected.png" class="box" alt="bayoen-star-settings-chromakey-selected"/>
@@ -49,21 +51,21 @@ layout: bayoen-star-ko
 - Green: 초록색으로 크로마키를 설정합니다. [Xsplit](https://www.xsplit.com/ko)에서 최적의 색상입니다.
 - Blue: 파란색으로 크로마키를 설정합니다. [Xsplit](https://www.xsplit.com/ko)에서 최적의 색상입니다.
 
-원하는 크로마키 색상으로 설정합니다.
-
 ### 2. 송출프로그램에서 크로마키 설정
 
-크로마키 설정하는 법을 순서대로 알려드립니다.
+송출프로그램에서 크로마키 설정하는 법을 순서대로 알려드립니다.
 
 1. **'bayoen-star' (bayoen-star.exe)** 창을 캡처합니다.
 2. 캡처한 창을 **바요엔-스타**와 같은 색으로 크로마키 설정합니다.
 3. 캡처한 창의 제목표시줄을 잘라줍니다. 30픽셀만 잘라주세요!
 4. 끝났습니다!
 
-OBS와 XSplit은 아래처럼 그대로 따라하시면 됩니다!
+OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 됩니다!
 
 - OBS 캡쳐 및 크로마키 설정
-    1. 'Add Source'
+    1. '소스 목록 > 윈도우 캡쳐 > 윈도우: **'[bayoen-star.exe]: bayoen-star'**
+
+_*OBS 윈도우 캡쳐에서 '윈도우 일치 우선순위'는 '창 제목이 일치해야 합니다'로 해주시는게 좋습니다!_
 
 - Xsplit 캡처 및 크로마키 설정
     1. '소스 추가 > Screen 캡쳐 > 윈도우 캡쳐 **'bayoen-star' (bayoen-star.exe)**'로 메인화면을 송출창에 추가합니다.

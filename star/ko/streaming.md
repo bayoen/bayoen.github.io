@@ -87,7 +87,6 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
     </table>
 </p>
 
-
 <!-- <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-chroma.png" class="box" alt="bayoen-star-example-chroma"/>
     <br/><span><strong>자홍색</strong> 크로마키</span>
@@ -173,6 +172,8 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 </p>
 
 ## 세부 설정
+
+
 
 <p align="center">
 .<br/><br/>

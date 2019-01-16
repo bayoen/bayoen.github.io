@@ -63,12 +63,12 @@ OBS와 XSplit은 아래처럼 그대로 따라하시면 됩니다!
 - OBS 캡쳐 및 크로마키 설정
     1. 'Add Source'
 
-- Xsplit 캡처 및 크로마키 설정
-    1. '소스 추가 > Screen 캡쳐 > 윈도우 캡쳐 **'bayoen-star' (bayoen-star.exe)**'로 메인화면을 송출창에 추가합니다.
-    2. '파일명 변경'을 눌러 추가된 윈도우 캡쳐의 이름을 **'바요엔-스타-캡처'**나 마음에 드는 이름으로 바꿔줍니다.
-    3. **'바요엔-스타-캡처'**의 속성에서 '색 > 키 > 크로마키 > **'바요엔-스타'**의 크로마키와 같은 색'으로 설정합니다.
-    4. 그리고 **'바요엔-스타-캡처'**의 속성에서 '레이아웃 > 사진/삽화의 불필요한 부분 다듬기 > 상단 > **38 포인트**'로 설정합니다.
-    5. 끝났습니다! **'바요엔-스타-캡처'**를 필요한 곳에 두면 됩니다!
+- Xsplit 캡처 및 크로마키 설정 (en)
+    1.  Add the mainwindow to the Xsplit screen via 'Add source > Screen Capture > Window Capture > **'bayoen-star' (bayoen-star.exe)**'.
+    2. Rename the window cature by **'bayoen-star-capture'** or any name you want.
+    3. In property of **'bayoen-star-capture'**, select 'Color > Keying > Chroma Key > the same color with the chroma key of **'bayoen-star'**.
+    4. And also, set 'Layout > Cropping > Top > **38 points**'.
+    5. It's done! place **'bayoen-star-capture'** wherever you want!
 
 <p align="center">
 .<br/><br/>

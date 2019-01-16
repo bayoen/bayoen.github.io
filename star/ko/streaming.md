@@ -21,6 +21,8 @@ layout: bayoen-star-ko
 
 ## 목차
 - [크로마키 설정](#ChromaKey)
+    1. [**바요엔-스타**에서 크로마키 설정](#ChromaKey1)
+    2. [송출프로그램에서 크로마키 설정](#ChromaKey2)
 - [세부 설정](#Detail)
 - [커스텀 설정](#Custom)
 
@@ -37,6 +39,7 @@ layout: bayoen-star-ko
 
 **바요엔-스타**를 방송용으로 쓸 때, **'오버레이'**가 아니라 **메인창**을 캡처해야 합니다. '나는 오버레이로 보고, 시청자들은 캡처된 메인창으로 본다'라고 생각하시면 됩니다!
 
+<a name="ChromaKey1"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>
@@ -57,6 +60,7 @@ layout: bayoen-star-ko
 - Green: 초록색으로 크로마키를 설정합니다. [XSplit](https://www.xsplit.com/ko)에서 최적의 색상입니다.
 - Blue: 파란색으로 크로마키를 설정합니다. [XSplit](https://www.xsplit.com/ko)에서 최적의 색상입니다.
 
+<a name="ChromaKey2"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>
@@ -76,7 +80,7 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 
 - OBS 캡쳐 및 크로마키 설정
     1. 메인화면을 송출창에 추가합니다.<br/>
-        - **'소스 목록 > 윈도우 캡쳐 > 윈도우: '[bayoen-star.exe]: bayoen-star''**
+        - **'소스 목록 > 윈도우 캡쳐 > 윈도우 '[bayoen-star.exe]: bayoen-star''**
     1. **'바요엔-스타-캡처'**나 마음에 드는 이름으로 바꿔줍니다.
     1. **'바요엔-스타-캡처'**에 크로마키를 설정합니다.<br/>
         - **'우클릭 > 필터 > + > 크로마 키 > 키 색상 형식 > '바요엔-스타'의 크로마키와 같은 색'**

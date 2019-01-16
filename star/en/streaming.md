@@ -2,13 +2,13 @@
 layout: bayoen-star-ko
 ---
 
-# 방송설정
+# 放送設定
 
-인터넷 방송인을 위한 **바요엔-스타** 송출설정을 알려드립니다.
+Let's introduce a **bayoen-star** broadcasting setting for streamer.
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
-    <br/><span><strong>인터넷 방송화면 캡처 #1</strong></span>
+    <br/><span><strong>Streaming Capture #1</strong></span>
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@ layout: bayoen-star-ko
 
 ----
 
-## 목차
-- [크로마키 설정](#ChromaKey)
-- [세부 설정](#Detail)
-- [커스텀 설정](#Custom)
+## Content
+- [Chroma Key Setting](#ChromaKey)
+- [Detail Setting](#Detail)
+- [Custom Setting](#Custom)
 
 ----
 

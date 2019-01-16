@@ -8,7 +8,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
-    <br/><span><strong>인터넷 방송화면 캡처 #1</strong></span>
+    <br/><span><strong>ストリーミング・キャプチャー #1</strong></span>
 </p>
 
 <p align="center">

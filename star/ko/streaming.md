@@ -63,7 +63,7 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
 - Blue: 파란색으로 크로마키를 설정합니다. [XSplit](https://www.xsplit.com/ko)에서 최적의 색상입니다.
 
 <p align="center">
-    <table style="width:100%">
+    <table style="width:100%; padding: 0;">
         <tr>
             <th>
                 <p align="center">

@@ -105,8 +105,9 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
     _*OBS 윈도우 캡쳐에서 '윈도우 일치 우선순위'는 '창 제목이 일치해야 합니다'로 해주시는게 좋습니다!_
 
 <p align="center">
-    <br/><img src="{{ site.lang_url }}/res/obs-chromakey-example.png" class="box" alt="obs-chromakey-example"/>
-    <br/><span><strong>OBS</strong> 크로마키</span>
+    <img src="{{ site.lang_url }}/res/obs-chromakey-example-1.png" class="box" alt="obs-chromakey-example-1"/>
+    <br/><img src="{{ site.lang_url }}/res/obs-chromakey-example-2.png" class="box" alt="obs-chromakey-example-2"/>
+    <br/><span><strong>OBS</strong> 크로마키 설정 적용</span>
 </p>
 
 - XSplit 캡처 및 크로마키 설정
@@ -116,12 +117,13 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
     1. **'바요엔-스타-캡처'**에 크로마키를 설정합니다.<br/>
         - **'우클릭 > 속성 > 색 > 키 > 크로마키 > '바요엔-스타'의 크로마키와 같은 색'**
     1. **'바요엔-스타-캡처'**의 제목표시줄을 잘라줍니다.<br/>
-        - **'우클릭 > 속성 > 레이아웃 > 사진/삽화의 불필요한 부분 다듬기 > 상단 > 38 포인트**'
+        - **'우클릭 > 속성 > 레이아웃 > 사진/삽화의 불필요한 부분 다듬기 > 상단 > 39 포인트**'
     1. 끝났습니다! **'바요엔-스타-캡처'**를 원하는 크기로 원하는 곳에 두면 됩니다!
 
 <p align="center">
-    <br/><img src="{{ site.lang_url }}/res/xsplit-chromakey-example.png" class="box" alt="xsplit-chromakey-example"/>
-    <br/><span><strong>XSplit</strong> 크로마키</span>
+    <img src="{{ site.lang_url }}/res/xsplit-chromakey-example-1.png" class="box" alt="xsplit-chromakey-example-1"/>
+    <br/><img src="{{ site.lang_url }}/res/xsplit-chromakey-example-2.png" class="box" alt="xsplit-chromakey-example-2"/>
+    <br/><span><strong>XSplit</strong> 크로마키 적용</span>
 </p>
 
 <p align="center">

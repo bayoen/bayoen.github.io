@@ -105,8 +105,8 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
     _*OBS 윈도우 캡쳐에서 '윈도우 일치 우선순위'는 '창 제목이 일치해야 합니다'로 해주시는게 좋습니다!_
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/obs-chromakey-example-1.png" class="box" alt="obs-chromakey-example-1"/>
-    <br/><img src="{{ site.lang_url }}/res/obs-chromakey-example-2.png" class="box" alt="obs-chromakey-example-2"/>
+    <img src="{{ site.lang_url }}/res/obs-chromakey-example-1.png" class="box" width="48%" alt="obs-chromakey-example-1"/>
+    <br/><img src="{{ site.lang_url }}/res/obs-chromakey-example-2.png" class="box" width="48%" alt="obs-chromakey-example-2"/>
     <br/><span><strong>OBS</strong> 크로마키 설정 적용</span>
 </p>
 
@@ -121,8 +121,8 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
     1. 끝났습니다! **'바요엔-스타-캡처'**를 원하는 크기로 원하는 곳에 두면 됩니다!
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/xsplit-chromakey-example-1.png" class="box" alt="xsplit-chromakey-example-1"/>
-    <br/><img src="{{ site.lang_url }}/res/xsplit-chromakey-example-2.png" class="box" alt="xsplit-chromakey-example-2"/>
+    <img src="{{ site.lang_url }}/res/xsplit-chromakey-example-1.png" class="box" width="48%" alt="xsplit-chromakey-example-1"/>
+    <br/><img src="{{ site.lang_url }}/res/xsplit-chromakey-example-2.png" class="box" width="48%" alt="xsplit-chromakey-example-2"/>
     <br/><span><strong>XSplit</strong> 크로마키 적용</span>
 </p>
 

@@ -30,6 +30,8 @@ layout: bayoen-star-ko
 3. **바요엔-스타**에 점수가 오르는 걸 확인합니다!
 4. 끝!
 
+[**시연영상**](https://www.youtube.com/playlist?list=PLK_vOCD9v3gUABMGU1R_VNhv5_s-LctnE)도 있습니다!
+
 <p align="center">
 .<br/><br/>
 .<br/><br/>

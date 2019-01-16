@@ -39,7 +39,7 @@ layout: bayoen-star-ko
 
 ### 1. **바요엔-스타**에서 크로마키 설정
 
-먼저 **바요엔-스타**에서 크로마키 설정을 합니다. '메뉴(Menu) > 설정(Settings)'에서
+먼저 **바요엔-스타**에서 크로마키 설정을 합니다. '메뉴(Menu) > 설정(Settings)'에서 크로마키(Chroma Key) 설정 하시면 됩니다.
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-settings-chromakey-selected.png" class="box" alt="bayoen-star-settings-chromakey-selected"/>

@@ -86,6 +86,8 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다.<b
 1. **'bayoen-star' (bayoen-star.exe)** 창을 캡처합니다.
 1. 캡처한 창을 **바요엔-스타**와 같은 색의 크로마키로 설정합니다.
 1. 캡처한 창의 제목표시줄을 잘라줍니다. 30픽셀만 잘라주세요!
+
+    _위쪽 영역을 더 자르게 되면 점수판이 잘리게 됩니다. 이 외의 다른 꾸미기는 자유롭게 해주세요!_
 1. 끝났습니다!
 
 OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 됩니다!
@@ -121,8 +123,6 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
     <br/><img src="{{ site.lang_url }}/res/xsplit-chromakey-example.png" class="box" alt="xsplit-chromakey-example"/>
     <br/><span><strong>XSplit</strong> 크로마키</span>
 </p>
-
-_위쪽 영역을 더 자르게 되면 점수판이 잘리게 됩니다. 이 외의 다른 꾸미기는 자유롭게 해주세요!_
 
 <p align="center">
 .<br/><br/>

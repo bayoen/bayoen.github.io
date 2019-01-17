@@ -438,7 +438,7 @@ _여기서 소개드린 오버레이는 **송출용 오버레이**가 아닙니�
     - **바요엔-스타** 경로의 **'export'**에 **UTF-8** 형식으로 출력합니다.
 
     <p align="center">
-        <img src="{{ site.lang_url }}/res/bayoen-star-export-list.png" class="box" alt="bayoen-star-export-list"/>
+        <img src="{{ site.lang_url }}/res/bayoen-star-export-list.png" class="shadow-box" alt="bayoen-star-export-list"/>
         <br/><span>출력파일들의 목록</span>
     </p>
 4. **점수판 크기조절**: 체크하면 점수판의 크기를 최대크기로 고정합니다.

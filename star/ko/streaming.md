@@ -23,8 +23,6 @@ layout: bayoen-star-ko
 - [크로마키 설정](#ChromaKey)
     1. [**바요엔-스타**에서 크로마키 설정](#ChromaKey1)
     2. [송출프로그램에서 크로마키 설정](#ChromaKey2)
-- [세부 설정](#Detail)
-- [커스텀 설정](#Custom)
 
 ----
 
@@ -173,7 +171,7 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 
 ## 세부 설정
 
-
+사용법에서 설명드렸던 내용을 좀 더 자세히
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-settings-streaming-ko.png" class="box" alt="bayoen-star-settings-streaming"/>

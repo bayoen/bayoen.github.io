@@ -9,12 +9,16 @@ layout: bayoen-star-ko
 ----
 
 <div class="toc">
-    <span>text text text</span>
+    <h2>목차</h2>
+    <ul>
+        <li><a href="#Abstract">간단하게</a></li>
+        <li><a href="#Details">자세하게</a></li>
+    </ul>
 </div>
 
-## 목차
+<!-- ## 목차
 - [간단하게](#Abstract)
-- [자세하게](#Details)  
+- [자세하게](#Details)   -->
 
 ----
 

@@ -52,7 +52,7 @@ Download, unzip and run!
 </p>
 
 <p align="center">
-   <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" class="box" width="30%" alt="bayoen~"/>
+   <img src="{{ site.lang_url }}/res/tumblr_inline_pippx0Drpp1rg6qfd_1280.png" class="box" width="30%" alt="bayoen~"/>
 </p>
 
 <p align="center">

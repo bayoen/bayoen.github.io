@@ -589,9 +589,22 @@ a {
 }
 
 div.toc {
-  position: fixed;
-  bottom: 10rem;
-  right: 1rem;
+  @include large {
+    position: fixed;
+    bottom: 10rem;
+    right: 1rem;
+  }
+
+  @include medium {
+    position: fixed;
+    bottom: 10rem;
+    right: 1rem;
+  }
+
+  @include small {
+    position: static;
+  }
+
 }
 
 

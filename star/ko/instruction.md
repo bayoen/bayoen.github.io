@@ -136,7 +136,7 @@ layout: bayoen-star-ko
 <div class="toc-sub">
     <h2>세부목차</h2>
     <ul>
-        <li><a href="#Abstract">메인화면</a>
+        <li><a href="#Main">메인화면</a>
             <ul>
                 <li><a href="#Components">화면구성</a></li>
                 <li><a href="#Symbol">점수판 심볼</a></li>

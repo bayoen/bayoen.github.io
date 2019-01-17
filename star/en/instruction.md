@@ -495,7 +495,7 @@ There were someone seeking this, we split the article!
 </p>
 
 <p align="center">
-   <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" class="box" width="30%" alt="bayoen~"/>
+   <img src="{{ site.lang_url }}/res/tumblr_inline_p9xbg765vf1rg6qfd_1280.png" class="box" width="30%" alt="bayoen~"/>
 </p>
 
 <p align="center">

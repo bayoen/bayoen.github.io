@@ -217,7 +217,7 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 </p>
 
 <p align="center">
-   <img src="{{ site.lang_url }}/res/tumblr_inline_pippx0Drpp1rg6qfd_1280.png" class="box" width="30%" alt="carbuncle-except-hes-a-tetrimino"/>
+   <img src="{{ site.lang_url }}/res/tumblr_inline_pdf1kiycQE1rg6qfd_1280.png" class="box" width="30%" alt="carbuncle-except-hes-a-tetrimino"/>
 </p>
 
 <p align="center">

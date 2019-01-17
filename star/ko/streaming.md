@@ -173,6 +173,8 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 
 ## 세부 설정
 
+
+
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-settings-streaming-ko.png" class="box" alt="bayoen-star-settings-streaming"/>
     <br/><span>인터넷 방송을 위한 <strong>바요엔-스타</strong>의 메뉴</span>

@@ -590,6 +590,8 @@ a {
 
 div.toc {
   border-radius: 0.3rem;
+  border-color: rgba(15, 120, 120, 0.4);
+  border-style: solid;
 
   @include large {
     position: fixed;

@@ -97,6 +97,22 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
     <span><strong>THE END!</strong></span>
 </p>
 
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<p align="center">
+   <img src="{{ site.lang_url }}/res/tumblr_inline_pev40xy80F1rg6qfd_1280.png" class="box" width="30%" alt="bayoen~"/>
+</p>
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
 <a name="Details"> </a>
 <a name="Functions"> </a>
 <p align="center">

@@ -99,6 +99,22 @@ layout: bayoen-star-ko
     <span><strong>진짜 끝!</strong></span>    
 </p>
 
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<p align="center">
+   <img src="{{ site.lang_url }}/res/tumblr_inline_pev40xy80F1rg6qfd_1280.png" class="box" width="30%" alt="bayoen~"/>
+</p>
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
 <a name="Details"> </a>
 <a name="Functions"> </a>
 <p align="center">

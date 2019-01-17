@@ -9,7 +9,7 @@ layout: bayoen-star-ko
 ----
 
 <div class="toc">
-    <a>text text text</a>
+    <span>text text text</span>
 </div>
 
 ## 목차

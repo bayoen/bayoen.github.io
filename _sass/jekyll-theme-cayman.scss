@@ -598,11 +598,9 @@ div.toc {
     left: 2rem;
   }
 
-  @include medium {
-    position: fixed;
-    border-width: 1px;
-    top: 30rem;
-    left: 2rem;
+  @include small {
+    position: static;
+    border-width: 0px;    
   }
 
   @include small {

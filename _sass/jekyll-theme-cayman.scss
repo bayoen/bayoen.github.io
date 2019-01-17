@@ -589,7 +589,7 @@ a {
 }
 
 div.toc {
-  min-width: 15rem;
+  min-width: 10rem;
   padding: 0.5rem 1.0rem 0rem 0.8rem;
   border-radius: 0.3rem;
   border-color: rgba(15, 120, 120, 0.4);
@@ -599,7 +599,7 @@ div.toc {
   @include large {
     position: fixed;
     border-width: 1px;
-    top: 30rem;
+    top: 20rem;
     left: 2rem;
   }
 

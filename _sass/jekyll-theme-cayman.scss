@@ -589,20 +589,25 @@ a {
 }
 
 div.toc {
+  border-radius: 0.3rem;
+
   @include large {
     position: fixed;
-    bottom: 10rem;
-    right: 1rem;
+    border-width: 1px;
+    top: 30rem;
+    left: 2rem;
   }
 
   @include medium {
     position: fixed;
-    bottom: 10rem;
-    right: 1rem;
+    border-width: 1px;
+    top: 30rem;
+    left: 2rem;
   }
 
   @include small {
     position: static;
+    border-width: 0px;    
   }
 
 }

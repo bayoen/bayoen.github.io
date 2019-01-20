@@ -662,16 +662,13 @@ div.toc {
     border-width: 1px;
     top: 18rem;
     left: 2rem;
-    max-width: 20%;
+    max-width: 10%;
   }
 
   @include small {
-    position: fixed;
-    border-style: solid;
-    border-width: 1px;
-    top: 18rem;
-    left: 2rem;
-    max-width: 20%;
+    position: static;
+    border-style: none;   
+    border-width: 0px;
   }
 
   @include tiny {
@@ -703,16 +700,13 @@ div.toc-sub {
     border-width: 1px;
     top: 18rem;
     left: 2rem;
-    max-width: 20%;
+    max-width: 10%;
   }
 
   @include small {
-    position: fixed;
-    border-style: solid;
-    border-width: 1px;
-    top: 18rem;
-    left: 2rem;
-    max-width: 20%;
+    position: static;
+    border-style: none;   
+    border-width: 0px;
   }
 
   @include tiny {

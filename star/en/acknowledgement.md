@@ -28,19 +28,19 @@ _Fonts we used are not embedded into the client and we complied with the font us
 
 ## Special Thanks
 _Alphabetically, people who advised, tested, gave ideas to bayoen_
-- **Aocame** ~ 아오카메 in twitch (https://www.twitch.tv/aocamesan)
-- **Cane** ~ CaneofPacci in twitch (https://www.twitch.tv/caneofpacci)
-- **Blink** ~ Harddrop in twitch (https://www.twitch.tv/harddrop)
-- **Goldenera** ~ 골뎅이 in twitch (https://www.twitch.tv/goldenera90)
-- **Eat_Free!** ~ Eat_Free in twitch (https://www.twitch.tv/eat_free)
-- **ELMAX3** ~ 엑삼 in twitch (https://www.twitch.tv/elmax3)
-- **HaNeul** ~ HaNeul115 in twitch (https://www.twitch.tv/haneul115)
-- **Irdo** ~ 이르도 in twitch (https://www.twitch.tv/eather123)
-- **mat1** ~ mat1jaczyyy in twitch (https://www.twitch.tv/mat1jaczyyy)
-- **Minifuns** ~ 미니빤스 in twitch (https://www.twitch.tv/minifuns0927)
-- **Nesswit** ~ 네쓰윗 in twitch (https://www.twitch.tv/nesswit)
-- **Puyota** ~ 뿌요타 in twitch (http://www.twitch.tv/puyota_kr)
-- **RnNe** ~ 른네 in twitch (https://www.twitch.tv/yce5074)
+- **Aocame** ~ 아오카메 in twitch ([https://www.twitch.tv/aocamesan](https://www.twitch.tv/aocamesan))
+- **Cane** ~ CaneofPacci in twitch ([https://www.twitch.tv/caneofpacci](https://www.twitch.tv/caneofpacci))
+- **Blink** ~ Harddrop in twitch ([https://www.twitch.tv/harddrop](https://www.twitch.tv/harddrop))
+- **Goldenera** ~ 골뎅이 in twitch ([https://www.twitch.tv/goldenera90](https://www.twitch.tv/goldenera90))
+- **Eat_Free!** ~ Eat_Free in twitch ([https://www.twitch.tv/eat_free](https://www.twitch.tv/eat_free))
+- **ELMAX3** ~ 엑삼 in twitch ([https://www.twitch.tv/elmax3](https://www.twitch.tv/elmax3))
+- **HaNeul** ~ HaNeul115 in twitch ([https://www.twitch.tv/haneul115](https://www.twitch.tv/haneul115))
+- **Irdo** ~ 이르도 in twitch ([https://www.twitch.tv/eather123](https://www.twitch.tv/eather123))
+- **mat1** ~ mat1jaczyyy in twitch ([https://www.twitch.tv/mat1jaczyyy](https://www.twitch.tv/mat1jaczyyy))
+- **Minifuns** ~ 미니빤스 in twitch ([https://www.twitch.tv/minifuns0927](https://www.twitch.tv/minifuns0927))
+- **Nesswit** ~ 네쓰윗 in twitch ([https://www.twitch.tv/nesswit](https://www.twitch.tv/nesswit))
+- **Puyota** ~ 뿌요타 in twitch ([http://www.twitch.tv/puyota_kr](http://www.twitch.tv/puyota_kr))
+- **RnNe** ~ 른네 in twitch ([https://www.twitch.tv/yce5074](https://www.twitch.tv/yce5074))
 - **Tikong** ~ 티콩 in Discord (티콩#7583)
 - and Studio.R4iny community
 

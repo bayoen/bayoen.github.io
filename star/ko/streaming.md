@@ -223,6 +223,8 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
         <img src="{{ site.lang_url }}/res/bayoen-star-export-list.png" class="shadow-box" alt="bayoen-star-export-list"/>
         <br/><span>출력파일들의 목록</span>
     </p>
+
+    _더 자세한 내용은 [커스텀 설정](#Custom)을 살펴보세요!_
 1. **점수판 크기조절**: 체크하면 점수판의 크기를 최대크기로 고정합니다. **바요엔-스타**의 점수판이 작아서 **뿌요뿌요 테트리스**의 점수판을 온전히 가리지 못할 때 유용합니다. 
 
     <p align="center">

@@ -22,11 +22,11 @@ layout: bayoen-star-ko
     <ul>
         <li><a href="#ChromaKey">크로마키 설정</a>
             <ul>
-                <li><a href="#ChromaKey1">**바요엔-스타**에서 크로마키 설정</a></li>
-                <li><a href="#ChromaKey2">송출프로그램에서 크로마키 설정</a>
+                <li><a href="#StarChromaKey"><strong>바요엔-스타</strong>에서 크로마키 설정</a></li>
+                <li><a href="#StreamChromaKey">송출프로그램에서 크로마키 설정</a>
                     <ul>
-                        <li><a href="#OBSChroma">OBS 캡처 및 크로마키 설정</a></li>
-                        <li><a href="#XSplitChroma">XSplit 캡처 및 크로마키 설정</a></li>
+                        <li><a href="#OBSChromaKey">OBS 캡처 및 크로마키 설정</a></li>
+                        <li><a href="#XSplitChromaKey">XSplit 캡처 및 크로마키 설정</a></li>
                     </ul>
                 </li>
             </ul>
@@ -46,8 +46,8 @@ layout: bayoen-star-ko
 
 <!-- ## 목차
 - [크로마키 설정](#ChromaKey)
-    1. [**바요엔-스타**에서 크로마키 설정](#ChromaKey1)
-    2. [송출프로그램에서 크로마키 설정](#ChromaKey2) -->
+    1. [**바요엔-스타**에서 크로마키 설정](#StarChromaKey)
+    2. [송출프로그램에서 크로마키 설정](#StreamChromaKey) -->
 
 ----
 
@@ -64,7 +64,7 @@ layout: bayoen-star-ko
 
 _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. 더 디테일한 설정을 하고 싶으시면 다른 설정들도 살펴주세요!_
 
-<a name="ChromaKey1"> </a>
+<a name="StarChromaKey"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>
@@ -125,7 +125,7 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
     <br/><span><strong>파란색</strong> 크로마키</span>
 </p> -->
 
-<a name="ChromaKey2"> </a>
+<a name="StreamChromaKey"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>
@@ -145,7 +145,7 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
 
 OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 됩니다!
 
-<a name="OBSChroma"> </a>
+<a name="OBSChromaKey"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>
@@ -172,7 +172,7 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 </p>
 
 
-<a name="XSplitChroma"> </a>
+<a name="XSplitChromaKey"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>

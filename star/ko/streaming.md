@@ -31,21 +31,16 @@ layout: bayoen-star-ko
                 </li>
             </ul>
         </li>
-        <li><a href="#Detail">기타 세부설정</a>
+        <li><a href="#Detail">기타 세부 설정</a>
             <ul>
-                <li><a></a></li>
+                <li>항상 위에</li>
+                <li>자동 숨기기</li>
+                <li>텍스트 출력</li>
+                <li>점수판 크기 조절</li>
+                <li>크로마 키 설정</li>
             </ul>
         </li>
-        <!-- <li><a href="#Function"><strong>바요엔-스타</strong> 기능동작</a></li>
-        <li><a href="#Menu">Menu: 메뉴</a>
-            <ul>
-                <li>Reset: 점수 초기화</li>
-                <li><a href="#Goal">Goal: 목표점수 설정</a></li>
-                <li><a href="#Overlay">Overlay: 점수판 오버레이</a></li>
-                <li><a href="#Settings">Settings: 환경설정</a></li>
-                <li><a href="#Mode">Mode: 점수판 모드 설정</a></li>
-            </ul>
-        </li> -->
+        <li><a href="#Custon">커스텀 설정</a></li>
     </ul>
 </div>
 
@@ -214,7 +209,7 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 .
 </p>
 
-## 세부 설정
+## 기타 세부 설정
 
 사용법에서 설명드렸던 내용을 좀 더 자세히
 

@@ -378,7 +378,7 @@ a {
   }
 
   @include small {
-    display: inline;
+    display: none;
   }
 
   @include tiny {
@@ -396,7 +396,7 @@ a {
   }
 
   @include small {
-    display: none;
+    display: inline;
   }
 
   @include tiny {
@@ -657,12 +657,9 @@ div.toc {
   }
 
   @include medium {
-    position: fixed;
-    border-style: solid;
-    border-width: 1px;
-    top: 18rem;
-    left: 2rem;
-    max-width: 10%;
+    position: static;
+    border-style: none;   
+    border-width: 0px;
   }
 
   @include small {
@@ -695,12 +692,9 @@ div.toc-sub {
   }
 
   @include medium {
-    position: fixed;
-    border-style: solid;
-    border-width: 1px;
-    top: 18rem;
-    left: 2rem;
-    max-width: 10%;
+    position: static;
+    border-style: none;   
+    border-width: 0px;
   }
 
   @include small {

@@ -31,6 +31,11 @@ layout: bayoen-star-ko
                 </li>
             </ul>
         </li>
+        <li><a href="#Detail">기타 세부설정</a>
+            <ul>
+                <li><a></a></li>
+            </ul>
+        </li>
         <!-- <li><a href="#Function"><strong>바요엔-스타</strong> 기능동작</a></li>
         <li><a href="#Menu">Menu: 메뉴</a>
             <ul>
@@ -223,6 +228,23 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 3. **텍스트 출력**: 체크하면 텍스트 파일로 결과를 출력합니다
 4. **점수판 크기조절**: 체크하면 점수판의 크기를 최대크기로 고정합니다.
 5. **크로마키 설정**: 여러가지 크로마키를 설정할 수 있습니다
+
+1. **항상 위에**: 체크하면 **바요엔-스타**를 항상 위로 둡니다.
+2. **자동 숨기기**: 체크하면 **뿌요뿌요 테트리스**가 꺼져 있을 때 (**'Offline'** 상태), 점수판을 숨깁니다.
+3. **텍스트 출력**: 체크하면 텍스트 파일로 결과를 출력합니다. 데이터가 필요하신 분에게 유용합니다.
+    - **바요엔-스타** 경로의 **'export'**에 **UTF-8** 형식으로 출력합니다.
+
+    <p align="center">
+        <img src="{{ site.lang_url }}/res/bayoen-star-export-list.png" class="shadow-box" alt="bayoen-star-export-list"/>
+        <br/><span>출력파일들의 목록</span>
+    </p>
+4. **점수판 크기조절**: 체크하면 점수판의 크기를 최대크기로 고정합니다.
+
+    <p align="center">
+        <img src="{{ site.lang_url }}/res/bayoen-star-example-setting-fit.gif" class="box" alt="bayoen-star-example-setting-fit"/>
+        <br/><span>점수판 크기조절</span>
+    </p>
+5. **크로마키 설정**: 여러가지 크로마키를 설정할 수 있습니다. 자세한 내용은 [크로마키 설정](#ChromaKey)을 살펴보세요!
 
 <p align="center">
 .<br/><br/>

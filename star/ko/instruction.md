@@ -435,20 +435,9 @@ _여기서 소개드린 오버레이는 **송출용 오버레이**가 아닙니�
 **A. 주요설정**
 1. **항상 위에**: 체크하면 **바요엔-스타**를 항상 위로 둡니다.
 2. **자동 숨기기**: 체크하면 **뿌요뿌요 테트리스**가 꺼져 있을 때 (**'Offline'** 상태), 점수판을 숨깁니다.
-3. **텍스트 출력**: 체크하면 텍스트 파일로 결과를 출력합니다. 데이터가 필요하신 분에게 유용합니다.
-    - **바요엔-스타** 경로의 **'export'**에 **UTF-8** 형식으로 출력합니다.
-
-    <p align="center">
-        <img src="{{ site.lang_url }}/res/bayoen-star-export-list.png" class="shadow-box" alt="bayoen-star-export-list"/>
-        <br/><span>출력파일들의 목록</span>
-    </p>
-4. **점수판 크기조절**: 체크하면 점수판의 크기를 최대크기로 고정합니다.
-
-    <p align="center">
-        <img src="{{ site.lang_url }}/res/bayoen-star-example-setting-fit.gif" class="box" alt="bayoen-star-example-setting-fit"/>
-        <br/><span>점수판 크기조절</span>
-    </p>
-5. **크로마키 설정**: 여러가지 크로마키를 설정할 수 있습니다.
+3. **텍스트 출력**: 체크하면 텍스트 파일로 결과를 출력합니다. 자세한 내용은 [**'방송설정/세부 설정'**]({{ site.lang_url }}/ko/streaming.html#Detail)을 참고해주세요.
+4. **점수판 크기조절**: 체크하면 점수판의 크기를 최대크기로 고정합니다. 자세한 내용은 [**'방송설정/세부 설정'**]({{ site.lang_url }}/ko/streaming.html#Detail)을 참고해주세요.
+5. **크로마키 설정**: 여러가지 크로마키를 설정할 수 있습니다. 자세한 내용은 [**'방송설정/세부 설정'**]({{ site.lang_url }}/ko/streaming.html#Detail)을 참고해주세요.
 
 **B. 점수 모니터**
 - **'Star+', 'Crown'** 점수: **'스타+'**와 **'크라운'**을 수정할 수 있습니다. '스타'는 읽기전용입니다!

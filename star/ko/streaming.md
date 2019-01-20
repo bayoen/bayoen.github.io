@@ -17,16 +17,16 @@ layout: bayoen-star-ko
 .
 </p>
 
-<div class="toc-sub">
-    <h2>세부목차</h2>
+<div class="toc">
+    <h2>목차</h2>
     <ul>
-        <li><a href="#Main">메인화면</a>
+        <li><a href="#ChromaKey">크로마키 설정</a>
             <ul>
-                <li><a href="#Components">화면구성</a></li>
-                <li><a href="#Symbol">점수판 심볼</a></li>
+                <li><a href="#ChromaKey1">**바요엔-스타**에서 크로마키 설정</a></li>
+                <li><a href="#ChromaKey2">송출프로그램에서 크로마키 설정</a></li>
             </ul>
         </li>
-        <li><a href="#Function"><strong>바요엔-스타</strong> 기능동작</a></li>
+        <!-- <li><a href="#Function"><strong>바요엔-스타</strong> 기능동작</a></li>
         <li><a href="#Menu">Menu: 메뉴</a>
             <ul>
                 <li>Reset: 점수 초기화</li>
@@ -35,14 +35,14 @@ layout: bayoen-star-ko
                 <li><a href="#Settings">Settings: 환경설정</a></li>
                 <li><a href="#Mode">Mode: 점수판 모드 설정</a></li>
             </ul>
-        </li>
+        </li> -->
     </ul>
 </div>
 
-## 목차
+<!-- ## 목차
 - [크로마키 설정](#ChromaKey)
     1. [**바요엔-스타**에서 크로마키 설정](#ChromaKey1)
-    2. [송출프로그램에서 크로마키 설정](#ChromaKey2)
+    2. [송출프로그램에서 크로마키 설정](#ChromaKey2) -->
 
 ----
 

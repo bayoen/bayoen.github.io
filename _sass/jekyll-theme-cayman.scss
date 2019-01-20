@@ -100,15 +100,8 @@ a {
   }
 
   @include small {
-    display: block;
-    width: 100%;
-    padding: 0.75rem;
+    padding: 0.6rem 0.9rem;
     font-size: 0.9rem;
-
-    + .btn {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
   }
 
   @include tiny {
@@ -156,15 +149,8 @@ a {
   }
 
   @include small {
-    display: block;
-    width: 100%;
-    padding: 0.75rem;
+    padding: 0.6rem 0.9rem;
     font-size: 0.9rem;
-
-    + .in-btn {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
   }
 
   @include tiny {
@@ -220,20 +206,8 @@ a {
   }
 
   @include small {
-    display: block;
-    width: 100%;
-    padding: 0.75rem;
+    padding: 0.6rem 0.9rem;
     font-size: 0.9rem;
-
-    + .in-btn {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
-
-    + .in-glow-btn {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
   }
 
   @include tiny {
@@ -306,7 +280,7 @@ a {
   }
 
   @include small {
-    padding: 1rem 1rem 0.1rem;
+    padding: 1rem 2rem 0.1rem;
   }
 
   @include tyny {
@@ -328,7 +302,7 @@ a {
   }
 
   @include small {
-    font-size: 1.75rem;
+    font-size: 2.25rem;
   }
 
   @include tiny() {
@@ -350,7 +324,7 @@ a {
   }
 
   @include small {
-    font-size: 1rem;
+    font-size: 1.15rem;
   }
 
   @include tiny() {
@@ -379,8 +353,9 @@ a {
   }
 
   @include small {
-    position: static;
-    padding: 0 0.9rem 0.1rem 0.9rem;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    padding: 0.9rem 0 0 0;
   }
 
   @include tiny {
@@ -403,7 +378,7 @@ a {
   }
 
   @include small {
-    display: none;
+    display: inline;
   }
 
   @include tiny {
@@ -421,7 +396,7 @@ a {
   }
 
   @include small {
-    display: inline;
+    display: none;
   }
 
   @include tiny {
@@ -484,8 +459,8 @@ a {
   }
 
   @include small {
-    padding: 2rem 1rem;
-    font-size: 1rem;
+    padding: 2rem 4rem;
+    font-size: 1.1rem;
   }
 
   @include tiny {
@@ -691,9 +666,12 @@ div.toc {
   }
 
   @include small {
-    position: static;
-    border-style: none;
-    border-width: 0px;
+    position: fixed;
+    border-style: solid;
+    border-width: 1px;
+    top: 18rem;
+    left: 2rem;
+    max-width: 20%;
   }
 
   @include tiny {
@@ -729,9 +707,12 @@ div.toc-sub {
   }
 
   @include small {
-    position: static;
-    border-style: none;
-    border-width: 0px;
+    position: fixed;
+    border-style: solid;
+    border-width: 1px;
+    top: 18rem;
+    left: 2rem;
+    max-width: 20%;
   }
 
   @include tiny {
@@ -761,7 +742,7 @@ div.toc-sub {
   }
 
   @include small {
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
 
   @include tiny {

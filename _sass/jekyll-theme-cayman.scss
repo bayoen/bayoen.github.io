@@ -94,7 +94,7 @@ a {
 
   @include small {
     display: block;
-    width: 95%;
+    width: 100%;
     padding: 0.75rem;
     font-size: 0.9rem;
 
@@ -138,16 +138,13 @@ a {
 
   @include small {
     display: block;
-    width: 90%;
+    width: 100%;
     padding: 0.75rem;
     font-size: 0.9rem;
-    text-align: center;
-    margin-left: 0.4rem;
-    margin-right: 0.4rem;
 
     + .in-btn {
       margin-top: 1rem;
-      // margin-left: 0;
+      margin-left: 0;
     }
   }
 }
@@ -193,7 +190,7 @@ a {
 
   @include small {
     display: block;
-    width: 90%;
+    width: 100%;
     padding: 0.75rem;
     font-size: 0.9rem;
 

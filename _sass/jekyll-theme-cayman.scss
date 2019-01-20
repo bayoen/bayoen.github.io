@@ -629,6 +629,7 @@ div.toc-sub {
     border-width: 1px;
     top: 27.5rem;
     left: 2rem;
+    max-width: 30%;
   }
 
   @include small {

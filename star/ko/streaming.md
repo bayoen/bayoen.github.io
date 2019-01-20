@@ -248,13 +248,17 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 
 ## 커스텀 설정
 
+나만의 송출용 스킨은 가능할까요? 물론 가능합니다! **바요엔-스타**에서 텍스트 형태로 점수를 실시간 출력을 하고, 그 파일을 송출 프로그램으로 읽어서 표시할 수 있습니다. 커스텀 스킨은 송출 프로그램으로 구성하시고 점수는 '텍스트 파일 읽기' 기능으로 불러오시면 됩니다.
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-export-list.png" class="shadow-box" alt="bayoen-star-export-list"/>
+    <br/><span>출력파일들의 목록</span>
+</p>
+
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/>
-    <!-- <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/> -->
+    <br/><span>커스텀 스킨을 만들어서 적용한 사례입니다</span>
 </p>
-**'bayoen-star'** also supports several tools for streamming with Puyo Puyo Tetris.
-
-- 텍스트출력: 점수판 대신 직접 인터페이스를 구성하고 싶을 때 유용한 기능입니다. 송출프로그램에서 텍스트파일 (\*.txt) 파일을 불러올 수 있습니다. '**메인창 > Menu > Settings > MAIN > Export Texts**'을 체크하면 오른쪽의 '**Folder**' 경로에 파일이 저장됩니다.
 
 
 <p align="center">

@@ -1,7 +1,7 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url('https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css');
+// @import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
 @mixin large {
@@ -17,7 +17,13 @@
 }
 
 @mixin small {
-  @media screen and (max-width: #{$medium-breakpoint}) {
+  @media screen and (min-width: #{$small-breakpoint}) and (max-width: #{$medium-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin tiny {
+  @media screen and (max-width: #{$small-breakpoint}) {
     @content;
   }
 }
@@ -104,6 +110,18 @@ a {
       margin-left: 0;
     }
   }
+
+  @include tiny {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .btn {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
 }
 
 .in-btn {
@@ -138,6 +156,18 @@ a {
   }
 
   @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .in-btn {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
+
+  @include tiny {
     display: block;
     width: 100%;
     padding: 0.75rem;
@@ -190,6 +220,23 @@ a {
   }
 
   @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .in-btn {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+
+    + .in-glow-btn {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
+
+  @include tiny {
     display: block;
     width: 100%;
     padding: 0.75rem;
@@ -261,6 +308,10 @@ a {
   @include small {
     padding: 1rem 1rem 0.1rem;
   }
+
+  @include tyny {
+    padding: 1rem 1rem 0.1rem;
+  }
 }
 
 .project-name {
@@ -279,6 +330,10 @@ a {
   @include small {
     font-size: 1.75rem;
   }
+
+  @include tiny() {
+    font-size: 1.75rem;
+  }
 }
 
 .project-tagline {
@@ -295,6 +350,10 @@ a {
   }
 
   @include small {
+    font-size: 1rem;
+  }
+
+  @include tiny() {
     font-size: 1rem;
   }
 }
@@ -323,6 +382,11 @@ a {
     position: static;
     padding: 0 0.9rem 0.1rem 0.9rem;
   }
+
+  @include tiny {
+    position: static;
+    padding: 0 0.9rem 0.1rem 0.9rem;
+  }
 }
 
 .language-header {
@@ -341,6 +405,10 @@ a {
   @include small {
     display: none;
   }
+
+  @include tiny {
+    display: none;
+  }
 }
 
 .language-footer {
@@ -353,6 +421,10 @@ a {
   }
 
   @include small {
+    display: inline;
+  }
+
+  @include tiny {
     display: inline;
   }
 }
@@ -412,6 +484,11 @@ a {
   }
 
   @include small {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+  }
+
+  @include tiny {
     padding: 2rem 1rem;
     font-size: 1rem;
   }
@@ -604,13 +681,22 @@ div.toc {
     max-width: 20%;
   }
 
+  @include medium {
+    position: fixed;
+    border-style: solid;
+    border-width: 1px;
+    top: 18rem;
+    left: 2rem;
+    max-width: 20%;
+  }
+
   @include small {
     position: static;
     border-style: none;
     border-width: 0px;
   }
 
-  @include small {
+  @include tiny {
     position: static;
     border-style: none;   
     border-width: 0px;
@@ -633,13 +719,22 @@ div.toc-sub {
     max-width: 20%;
   }
 
+  @include medium {
+    position: fixed;
+    border-style: solid;
+    border-width: 1px;
+    top: 18rem;
+    left: 2rem;
+    max-width: 20%;
+  }
+
   @include small {
     position: static;
     border-style: none;
     border-width: 0px;
   }
 
-  @include small {
+  @include tiny {
     position: static;
     border-style: none;   
     border-width: 0px;
@@ -666,6 +761,10 @@ div.toc-sub {
   }
 
   @include small {
+    font-size: 0.9rem;
+  }
+
+  @include tiny {
     font-size: 0.9rem;
   }
 }

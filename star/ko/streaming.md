@@ -33,11 +33,7 @@ layout: bayoen-star-ko
         </li>
         <li><a href="#Detail">기타 세부 설정</a>
             <ul>
-                <li>항상 위에</li>
-                <li>자동 숨기기</li>
-                <li>텍스트 출력</li>
-                <li>점수판 크기 조절</li>
-                <li>크로마 키 설정</li>
+                <li>항상 위에, 자동 숨기기, 텍스트 출력, 점수판 크기 조절, 크로마 키 설정</li>
             </ul>
         </li>
         <li><a href="#Custom">커스텀 설정</a></li>

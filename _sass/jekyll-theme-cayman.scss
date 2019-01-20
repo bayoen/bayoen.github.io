@@ -4,8 +4,14 @@
 // @import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
+@mixin huge {
+  @media screen and (min-width: #{$huge-breakpoint}) {
+    @content;
+  }
+}
+
 @mixin large {
-  @media screen and (min-width: #{$large-breakpoint}) {
+  @media screen and (min-width: #{$large-breakpoint}) and (max-width: #{$huge-breakpoint}) {
     @content;
   }
 }
@@ -17,13 +23,7 @@
 }
 
 @mixin small {
-  @media screen and (min-width: #{$small-breakpoint}) and (max-width: #{$medium-breakpoint}) {
-    @content;
-  }
-}
-
-@mixin tiny {
-  @media screen and (max-width: #{$small-breakpoint}) {
+  @media screen and (max-width: #{$medium-breakpoint}) {
     @content;
   }
 }
@@ -90,8 +90,13 @@ a {
     margin-left: 1rem;
   }
 
-  @include large {
+  @include huge {
     padding: 0.75rem 1rem;
+  }
+
+  @include large {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
   }
 
   @include medium {
@@ -100,11 +105,6 @@ a {
   }
 
   @include small {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem;
-  }
-
-  @include tiny {
     display: block;
     width: 100%;
     padding: 0.75rem;
@@ -139,8 +139,13 @@ a {
     margin-left: 1rem;
   }
 
-  @include large {
+  @include huge {
     padding: 0.75rem 1rem;
+  }
+
+  @include large {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
   }
 
   @include medium {
@@ -149,11 +154,6 @@ a {
   }
 
   @include small {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem;
-  }
-
-  @include tiny {
     display: block;
     width: 100%;
     padding: 0.75rem;
@@ -196,8 +196,13 @@ a {
     margin-left: 1rem;
   }
 
-  @include large {
+  @include huge {
     padding: 0.75rem 1rem;
+  }
+
+  @include large {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
   }
 
   @include medium {
@@ -206,11 +211,6 @@ a {
   }
 
   @include small {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem;
-  }
-
-  @include tiny {
     display: block;
     width: 100%;
     padding: 0.75rem;
@@ -271,8 +271,12 @@ a {
   background-image: linear-gradient(90deg, $header-bg-color-secondary, $header-bg-color);
   opacity: 0.95;
 
-  @include large {
+  @include huge {
     padding: 2rem 4rem 0.1rem;
+  }
+
+  @include large {
+    padding: 1rem 2rem 0.1rem;
   }
 
   @include medium {
@@ -280,10 +284,6 @@ a {
   }
 
   @include small {
-    padding: 1rem 2rem 0.1rem;
-  }
-
-  @include tiny {
     padding: 1rem 1rem 0.1rem;
   }
 }
@@ -293,19 +293,19 @@ a {
   margin-top: 0;
   margin-bottom: 0.1rem;
 
-  @include large {
+  @include huge {
     font-size: 3.25rem;
+  }
+
+  @include large {
+    font-size: 2.25rem;
   }
 
   @include medium {
     font-size: 2.25rem;
   }
 
-  @include small {
-    font-size: 2.25rem;
-  }
-
-  @include tiny() {
+  @include small() {
     font-size: 1.75rem;
   }
 }
@@ -315,19 +315,19 @@ a {
   font-weight: normal;
   opacity: 0.7;
 
-  @include large {
+  @include huge {
     font-size: 1.25rem;
+  }
+
+  @include large {
+    font-size: 1.15rem;
   }
 
   @include medium {
     font-size: 1.15rem;
   }
 
-  @include small {
-    font-size: 1.15rem;
-  }
-
-  @include tiny() {
+  @include small() {
     font-size: 1rem;
   }
 }
@@ -340,10 +340,16 @@ a {
   top: 0;
   opacity: 0.95;
 
-  @include large {
+  @include huge {
     position: -webkit-sticky; /* Safari */
     position: sticky;
     padding: 0.9rem 0 0 0;    
+  }
+
+  @include large {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    padding: 0.9rem 0 0 0;
   }
 
   @include medium {
@@ -353,12 +359,6 @@ a {
   }
 
   @include small {
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    padding: 0.9rem 0 0 0;
-  }
-
-  @include tiny {
     position: static;
     padding: 0 0.9rem 0.1rem 0.9rem;
   }
@@ -369,37 +369,37 @@ a {
   top: 10px;
   right: 15px;
 
+  @include huge {
+    display: inline;
+  }
+
   @include large {
     display: inline;
   }
 
   @include medium {
-    display: inline;
-  }
-
-  @include small {
     display: none;
   }
 
-  @include tiny {
+  @include small {
     display: none;
   }
 }
 
 .language-footer {
+  @include huge {
+    display: none;
+  }
+
   @include large {
     display: none;
   }
 
   @include medium {
-    display: none;
-  }
-
-  @include small {
     display: inline;
   }
 
-  @include tiny {
+  @include small {
     display: inline;
   }
 }
@@ -446,10 +446,15 @@ a {
     margin-top: 0;
   }
 
-  @include large {
+  @include huge {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
+    font-size: 1.1rem;
+  }
+
+  @include large {
+    padding: 2rem 4rem;
     font-size: 1.1rem;
   }
 
@@ -459,11 +464,6 @@ a {
   }
 
   @include small {
-    padding: 2rem 4rem;
-    font-size: 1.1rem;
-  }
-
-  @include tiny {
     padding: 2rem 1rem;
     font-size: 1rem;
   }
@@ -647,13 +647,19 @@ div.toc {
   border-radius: 0.3rem;
   border-color: rgba(15, 120, 120, 0.4); 
 
-  @include large {
+  @include huge {
     position: fixed;
     border-style: solid;
     border-width: 1px;
     top: 18rem;
     left: 2rem;
     max-width: 20%;
+  }
+
+  @include large {
+    position: static;
+    border-style: none;   
+    border-width: 0px;
   }
 
   @include medium {
@@ -663,12 +669,6 @@ div.toc {
   }
 
   @include small {
-    position: static;
-    border-style: none;   
-    border-width: 0px;
-  }
-
-  @include tiny {
     position: static;
     border-style: none;   
     border-width: 0px;
@@ -682,13 +682,19 @@ div.toc-sub {
   border-radius: 0.3rem;
   border-color: rgba(15, 120, 120, 0.4); 
 
-  @include large {
+  @include huge {
     position: fixed;
     border-style: solid;
     border-width: 1px;
     top: 27.5rem;
     left: 2rem;
     max-width: 20%;
+  }
+
+  @include large {
+    position: static;
+    border-style: none;   
+    border-width: 0px;
   }
 
   @include medium {
@@ -698,12 +704,6 @@ div.toc-sub {
   }
 
   @include small {
-    position: static;
-    border-style: none;   
-    border-width: 0px;
-  }
-
-  @include tiny {
     position: static;
     border-style: none;   
     border-width: 0px;
@@ -721,6 +721,10 @@ div.toc-sub {
   padding-top: 2rem;
   border-top: solid 1px $hr-border-color;
 
+  @include huge {
+    font-size: 1rem;
+  }
+
   @include large {
     font-size: 1rem;
   }
@@ -730,10 +734,6 @@ div.toc-sub {
   }
 
   @include small {
-    font-size: 1rem;
-  }
-
-  @include tiny {
     font-size: 0.9rem;
   }
 }

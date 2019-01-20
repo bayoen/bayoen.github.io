@@ -23,7 +23,12 @@ layout: bayoen-star-ko
         <li><a href="#ChromaKey">크로마키 설정</a>
             <ul>
                 <li><a href="#ChromaKey1">**바요엔-스타**에서 크로마키 설정</a></li>
-                <li><a href="#ChromaKey2">송출프로그램에서 크로마키 설정</a></li>
+                <li><a href="#ChromaKey2">송출프로그램에서 크로마키 설정</a>
+                    <ul>
+                        <li><a href="#OBSChroma">OBS 캡처 및 크로마키 설정</a></li>
+                        <li><a href="#XSplitChroma">XSplit 캡처 및 크로마키 설정</a></li>
+                    </ul>
+                </li>
             </ul>
         </li>
         <!-- <li><a href="#Function"><strong>바요엔-스타</strong> 기능동작</a></li>
@@ -140,6 +145,13 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
 
 OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 됩니다!
 
+<a name="OBSChroma"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
 - OBS (Open Broadcaster Software) 캡쳐 및 크로마키 설정
     1. 메인화면을 송출창에 추가합니다.<br/>
         - **소스 목록 > 윈도우 캡쳐 > 윈도우 '[bayoen-star.exe]: bayoen-star'**
@@ -157,6 +169,14 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
     <img src="{{ site.lang_url }}/res/obs-chromakey-example-2.png" class="box" width="48%" alt="obs-chromakey-example-2"/>
     <br/><span><strong>OBS</strong> 캡처 및 크로마키 설정 적용</span>
     <br/><span>오버레이가 아닌 메인 창을 캡처하셔야 합니다!</span>
+</p>
+
+
+<a name="XSplitChroma"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
 </p>
 
 - XSplit 캡처 및 크로마키 설정

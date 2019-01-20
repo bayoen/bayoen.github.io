@@ -55,7 +55,7 @@ _혹시 빠진 분들이 있으면 알려주세요. 그리고 여기에 남겨�
 </p>
 
 <p align="center">
-   <img src="/bayoen-star/dailycarbuncle_kirbuncle.png" width="30%" alt="bayoen~"/>
+   <img src="{{ site.lang_url }}/res/tumblr_inline_pa4kt3sMfh1rg6qfd_1280.png" width="30%" alt="bayoen~"/>
 </p>
 
 <p align="center">

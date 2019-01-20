@@ -600,6 +600,7 @@ div.toc {
     border-width: 1px;
     top: 18rem;
     left: 2rem;
+    max-width: 30%;
   }
 
   @include small {

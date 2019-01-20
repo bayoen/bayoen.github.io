@@ -249,10 +249,8 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 ## 커스텀 설정
 
 <p align="center">
-    <!-- <img src="/bayoen-star/bayoen-star-example-goal-total-none.png" width="70%" alt="bayoen-star-example"/><br/> -->
-    <img src="/bayoen-star/bayoen-star-example-chroma.png" width="70%" alt="bayoen-star-example-chroma"/><br/>
-    <img src="/bayoen-star/bayoen-star-example-goal-first-blue.png" width="70%" alt="bayoen-star-example-goal-first-blue"/><br/>
-    <!-- <img src="/bayoen-star/bayoen-star-example-ingame.png" width="70%" alt="bayoen-star-example-ingame"/> -->
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/>
+    <!-- <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/> -->
 </p>
 **'bayoen-star'** also supports several tools for streamming with Puyo Puyo Tetris.
 

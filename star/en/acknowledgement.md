@@ -23,8 +23,8 @@ _We do not modify any memories and ruin any balance of the game_
 ## Fonts
 _Fonts we used are not embedded into the client and we complied with the font usage policy and license_
 ### Logo Font of 'bayoen-launcher'
-- Korean and English: **210 동화책(Donghawchek)** (http://www.design210.com/cloud/item.detail?idx=95&smenu=f)
-- Japanese: **mini-わくわく(wakuwaku)** (http://mini-design.jp/font/mini-wakuwaku.html)
+- Korean and English: **210 동화책(Donghawchek)** ([http://www.design210.com/cloud/item.detail?idx=95&smenu=f](http://www.design210.com/cloud/item.detail?idx=95&smenu=f))
+- Japanese: **mini-わくわく(wakuwaku)** ([http://mini-design.jp/font/mini-wakuwaku.html](http://mini-design.jp/font/mini-wakuwaku.html))
 
 ## Special Thanks
 _Alphabetically, people who advised, tested, gave ideas to bayoen_

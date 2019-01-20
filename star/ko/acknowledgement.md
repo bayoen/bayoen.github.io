@@ -40,7 +40,7 @@ _조언해주시고, 테스트 해 주시고, 아이디어를 제공해 주신 �
 - **Minifuns** ~ 미니빤스 in twitch ([https://www.twitch.tv/minifuns0927](https://www.twitch.tv/minifuns0927))
 - **Nesswit** ~ 네쓰윗 in twitch ([https://www.twitch.tv/nesswit](https://www.twitch.tv/nesswit))
 - **Puyota** ~ 뿌요타 in twitch ([http://www.twitch.tv/puyota_kr](http://www.twitch.tv/puyota_kr))
-- **RnNe** ~ 른네 in twitch ([https://www.twitch.tv/yce5074](https://www.twitch.tv/yce5074))
+- **RnNe** ~ 른네 in twitch ([https://www.twitch.tv/rnne](https://www.twitch.tv/rnne))
 - **Tikong** ~ 티콩 in Discord (티콩#7583)
 - 그리고 Studio.R4iny 커뮤티니 분들
 

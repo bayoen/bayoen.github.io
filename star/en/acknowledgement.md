@@ -40,7 +40,7 @@ _Alphabetically, people who advised, tested, gave ideas to bayoen_
 - **Minifuns** ~ 미니빤스 in twitch ([https://www.twitch.tv/minifuns0927](https://www.twitch.tv/minifuns0927))
 - **Nesswit** ~ 네쓰윗 in twitch ([https://www.twitch.tv/nesswit](https://www.twitch.tv/nesswit))
 - **Puyota** ~ 뿌요타 in twitch ([http://www.twitch.tv/puyota_kr](http://www.twitch.tv/puyota_kr))
-- **RnNe** ~ 른네 in twitch ([https://www.twitch.tv/yce5074](https://www.twitch.tv/yce5074))
+- **RnNe** ~ 른네 in twitch ([https://www.twitch.tv/rnne](https://www.twitch.tv/rnne))
 - **Tikong** ~ 티콩 in Discord (티콩#7583)
 - and Studio.R4iny community
 

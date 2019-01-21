@@ -2,9 +2,9 @@
 layout: bayoen-star-en
 ---
 
-# Instruction
+# Guide
 
-Let us give you instruction for *bayoen-star**. If you hurry, check 'Simply...?', or look out 'More Details!'
+Let us give you instruction for **bayoen-star**. If you hurry, check 'Simply...?', or look out 'More Details!'
 
 ----
 

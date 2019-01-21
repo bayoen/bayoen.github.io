@@ -641,11 +641,12 @@ a {
   }
 }
 
-div.box {
+div.box3 {
   word-wrap: break-word;
   text-align: center;
+  flex: 31%;
   
-  + div.box {
+  + div.box3 {
     margin-left: 1rem;
   }
 }

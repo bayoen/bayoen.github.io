@@ -644,6 +644,10 @@ a {
 div.box {
   word-wrap: break-word;
   text-align: center;
+  
+  + div.box {
+    margin-left: 1rem;
+  }
 }
 
 div.toc {

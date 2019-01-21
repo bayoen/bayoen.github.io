@@ -645,6 +645,16 @@ div.box {
   display: flex;  
 }
 
+div.column2 {
+  word-wrap: break-word;
+  text-align: center;
+  flex: 48%;
+  
+  + div.column2 {
+    padding-left: 1rem;
+  }
+}
+
 div.column3 {
   word-wrap: break-word;
   text-align: center;

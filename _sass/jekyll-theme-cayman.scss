@@ -649,7 +649,7 @@ div.box {
 div.column2 {
   word-wrap: break-word;
   text-align: center;
-  flex: 45rem;
+  flex: 20rem;
   
   + div.column2 {
     padding-left: 1rem;
@@ -659,7 +659,7 @@ div.column2 {
 div.column3 {
   word-wrap: break-word;
   text-align: center;  
-  flex: 36rem;
+  flex: 10rem;
   
   + div.column3 {
     padding-left: 1rem;

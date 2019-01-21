@@ -641,6 +641,10 @@ a {
   }
 }
 
+div.box {
+  word-wrap: break-word;
+}
+
 div.toc {
   min-width: 10rem;
   padding: 0.5rem 1.0rem 0rem 0.8rem;

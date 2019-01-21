@@ -14,10 +14,6 @@ layout: bayoen-star-ko
     </ul>
 </div>
 
-<!-- ## 목차
-- [간단하게](#Abstract)
-- [자세하게](#Details)   -->
-
 ----
 
 <a name="Abstract"> </a>
@@ -152,23 +148,13 @@ layout: bayoen-star-ko
                 <li><a href="#Mode">Mode: 점수판 모드 설정</a></li>
             </ul>
         </li>
+        <li><a href="#Troubleshooting">문제해결</a>
+            <ul>
+                <li><strong>바요엔-스타</strong> 초기화</li>
+            </ul>
+        </li>        
     </ul>
 </div>
-
-<!-- ### 세부목차
-- [메인화면](#Main)
-    - [화면구성](#Components)
-    - [점수판 심볼](#Symbol)    
-- [**바요엔-스타** 기능동작](#Function)
-- [Menu: 메뉴](#Menu)
-    - Reset: 점수 초기화
-    - [Goal: 목표점수 설정](#Goal)
-    - [Overlay: 점수판 오버레이](#Overlay)
-    - [Settings: 환경설정](#Settings)
-    - [Mode: 점수판 모드 설정](#Mode)
-- [단축키](#Hotkey)
-- [방송설정](#Streaming) -->
-
 
 ----
 
@@ -509,6 +495,25 @@ _인터넷 방송을 하시나요? 그럼 [**'방송설정'**]({{ site.lang_url 
 </p>
 
 <a name="Streaming"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## 방송설정
+
+찾으시는 분들이 많아 따로 항목을 만들었습니다!
+
+방송송출용 설정에 대한 내용은 [여기]({{ site.lang_url }}/ko/streaming.html)서 봐주세요.
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Troubleshooting"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>

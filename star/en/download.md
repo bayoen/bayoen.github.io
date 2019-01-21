@@ -28,10 +28,10 @@ layout: bayoen-star-en
 
 Download, unzip and run!
 
-1. Get **bayoen-star-{{ site.latest_version }}.zip** via download link.
-2. Unzip **bayoen-star-{{ site.latest_version }}.zip** to proper path.
-3. Run **bayoen-star.exe** from unzipped path. It's done!
-4. For more details, see **[Instruction]({{ site.lang_url }}/en/instruction.html)**!
+1. Get **'bayoen-star-{{ site.latest_version }}.zip'** via download link.
+2. Unzip **'bayoen-star-{{ site.latest_version }}.zip'** to proper path.
+3. Run **'bayoen-star.exe'** from unzipped path. It's done!
+4. For more details, see **'[Instruction]({{ site.lang_url }}/en/guide.html)'**!
 
 <p align="center">
 .<br/><br/>

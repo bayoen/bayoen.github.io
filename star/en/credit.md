@@ -2,7 +2,7 @@
 layout: bayoen-star-en
 ---
 
-# Acknowledgement
+# Credit
 
 ## Team bayoen
 - **Mayu Laierlence** (https://github.com/minacle)

@@ -107,18 +107,20 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
 </p>
 
 <p align="center">
-    <div class="box">
-        <img src="{{ site.lang_url }}/res/bayoen-star-example-chroma.png" class="shadow-box" width="30%" alt="bayoen-star-example-chroma"/>
-        <br/><span><strong>자홍색</strong> 크로마키</span>
-    </div>
-    <div class="box">
-        <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-green.png" class="shadow-box" width="30%" alt="bayoen-star-example-goal-first-green"/>
-        <br/><span><strong>초록색</strong> 크로마키</span>
-    </div>
-    <div class="box">
-        <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-blue.png" class="shadow-box" width="30%" alt="bayoen-star-example-goal-first-blue"/>
-        <br/><span><strong>파란색</strong> 크로마키</span>
-    </div>
+    <span>
+        <div class="box">
+            <img src="{{ site.lang_url }}/res/bayoen-star-example-chroma.png" class="shadow-box" width="30%" alt="bayoen-star-example-chroma"/>
+            <br/><span><strong>자홍색</strong> 크로마키</span>
+        </div>
+        <div class="box">
+            <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-green.png" class="shadow-box" width="30%" alt="bayoen-star-example-goal-first-green"/>
+            <br/><span><strong>초록색</strong> 크로마키</span>
+        </div>
+        <div class="box">
+            <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-first-blue.png" class="shadow-box" width="30%" alt="bayoen-star-example-goal-first-blue"/>
+            <br/><span><strong>파란색</strong> 크로마키</span>
+        </div>
+    </span>
 </p>
 
 

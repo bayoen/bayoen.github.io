@@ -4,11 +4,11 @@ layout: bayoen-star-en
 
 # For Streaming
 
-인터넷 방송인을 위한 **바요엔-스타** 송출설정을 알려드립니다.
+Let us introduce a **bayoen-star** setting for streamer.
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
-    <br/><span><strong>인터넷 방송화면 캡처 #1:</strong> <strong>바요엔-스타</strong> 메인창 캡처</span>
+    <br/><span><strong>Streaming Capture #1:</strong> <strong>bayoen-star</strong> Mainwindow Capture</span>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ layout: bayoen-star-en
 </p>
 
 <div class="toc">
-    <h2>목차</h2>
+    <h2>Content</h2>
     <ul>
         <li><a href="#ChromaKey">크로마키 설정</a>
             <ul>

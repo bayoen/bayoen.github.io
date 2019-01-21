@@ -106,7 +106,7 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
     </table>
 </p>
 
-<div>
+<div style="float: left;">
     <div class="box">
         <img src="{{ site.lang_url }}/res/bayoen-star-example-chroma.png" class="shadow-box" alt="bayoen-star-example-chroma"/>
         <br/><span><strong>자홍색</strong> 크로마키</span>

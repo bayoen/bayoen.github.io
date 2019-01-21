@@ -8,7 +8,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
-    <br/><span><strong>인터넷 방송화면 캡처 #1:</strong><strong>바요엔-스타</strong> </span>
+    <br/><span><strong>인터넷 방송화면 캡처 #1:</strong><strong>바요엔-스타</strong> 메인창 캡처</span>
 </p>
 
 <p align="center">
@@ -231,6 +231,11 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
         <img src="{{ site.lang_url }}/res/bayoen-star-example-setting-fit.gif" class="box" alt="bayoen-star-example-setting-fit"/>
         <br/><span>점수판 크기조절</span>
     </p>
+
+    <p align="center">
+        <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
+        <br/><span><strong>인터넷 방송화면 캡처 #2:</strong><strong>바요엔-스타</strong> 점수판 크기 조절</span>
+    </p>
 1. **크로마키 설정**: 여러가지 크로마키를 설정할 수 있습니다. 자세한 내용은 [크로마키 설정](#ChromaKey)을 살펴보세요!
 
 <p align="center">
@@ -257,7 +262,7 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/>
-    <br/><span>커스텀 스킨을 만들어서 적용한 사례입니다</span>
+    <br/><span><strong>인터넷 방송화면 캡처 #3:</strong><strong>바요엔-스타</strong> 커스텀 점수판 캡처</span>
 </p>
 
 

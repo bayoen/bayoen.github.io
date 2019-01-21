@@ -641,13 +641,17 @@ a {
   }
 }
 
-div.box3 {
+div.box {
+  display: flex;  
+}
+
+div.column3 {
   word-wrap: break-word;
   text-align: center;
   flex: 31%;
   
-  + div.box3 {
-    margin-left: 1rem;
+  + div.column3 {
+    padding-left: 1rem;
   }
 }
 

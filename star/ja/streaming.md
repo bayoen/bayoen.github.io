@@ -1,5 +1,5 @@
 ---
-layout: bayoen-star-ko
+layout: bayoen-star-ja
 ---
 
 # 방송설정

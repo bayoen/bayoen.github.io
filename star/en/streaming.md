@@ -1,5 +1,5 @@
 ---
-layout: bayoen-star-ko
+layout: bayoen-star-en
 ---
 
 # 放送設定

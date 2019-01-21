@@ -22,7 +22,7 @@ _게임의 메모리나 밸런스에 영향을 주지 않습니다_
 
 ## 글꼴
 _Fonts we used are not embedded into the client and we complied with the font usage policy and license_
-### Logo Font of 'bayoen-launcher'
+### 로고 폰트
 - 한글 및 영어: **210 동화책(Donghawchek)** ([http://www.design210.com/cloud/item.detail?idx=95&smenu=f](http://www.design210.com/cloud/item.detail?idx=95&smenu=f))
 - 일본어: **mini-わくわく(wakuwaku)** ([http://mini-design.jp/font/mini-wakuwaku.html](http://mini-design.jp/font/mini-wakuwaku.html))
 

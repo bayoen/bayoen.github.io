@@ -269,12 +269,12 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-with-friend"/>
-    <br/><span><strong>대회용:<strong> 별 15 선승 경기</span>
+    <br/><span><strong>대회용:</strong> 별 15 선승 경기</span>
 </p>
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-c.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-league"/>
-    <br/><span><strong>퍼즐리그:<strong> 승/패 집계 10번 이기기</span>
+    <br/><span><strong>퍼즐리그:</strong> 승/패 집계 10번 이기기</span>
 </p>
 
 <p align="center">

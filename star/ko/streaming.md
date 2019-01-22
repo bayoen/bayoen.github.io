@@ -26,6 +26,7 @@ layout: bayoen-star-ko
             </ul>
         </li>
         <li><a href="#Custom">커스텀 설정</a></li>
+        <li><a href="#Example">인터넷 방송화면 예시</a></li>
     </ul>
 </div>
 
@@ -44,17 +45,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-stream-ingame"/>
-    <br/><span><strong>인터넷 방송화면 캡처 #1:</strong> <strong>바요엔-스타</strong> 캡처 예시</span>
-</p>
-
-<p align="center">
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-with-friend"/>
-    <br/><span><strong>인터넷 방송화면 캡처 #2:</strong> <strong>바요엔-스타</strong> 친선전 설정 예시</span>
-</p>
-
-<p align="center">
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-c.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-league"/>
-    <br/><span><strong>인터넷 방송화면 캡처 #3:</strong> <strong>바요엔-스타</strong> 퍼즐리그 설정 예시</span>
+    <br/><span><strong>바요엔-스타</strong> 인터넷 방송화면 캡처 예시</span>
 </p>
 
 <p align="center">
@@ -257,6 +248,38 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/>
     <br/><span><strong>인터넷 방송화면 캡처 #5:</strong> <strong>바요엔-스타</strong> 커스텀 점수판 캡처</span>
+</p>
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Example"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## 인터넷 방송화면 예시
+
+방송에서 사용할 수 있는 예시들을 소개합니다.
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-with-friend"/>
+    <br/><span><strong>대회용:<strong> 별 15 선승 경기</span>
+</p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-c.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-league"/>
+    <br/><span><strong>퍼즐리그:<strong> 승/패 집계 10번 이기기</span>
+</p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/>
+    <br/><span><strong>커스텀:</strong> 나만의 점수판!</span>
 </p>
 
 

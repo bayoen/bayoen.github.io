@@ -211,15 +211,15 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 
     _더 자세한 내용은 [커스텀 설정](#Custom)을 살펴보세요!_
 1. **점수판 크기조절**: 체크하면 점수판의 크기를 최대크기로 고정합니다. **바요엔-스타**의 점수판이 작아서 **뿌요뿌요 테트리스**의 점수판을 온전히 가리지 못할 때 유용합니다. 
-
+    
     <p align="center">
         <img src="{{ site.lang_url }}/res/bayoen-star-example-setting-fit.gif" class="shadow-box" alt="bayoen-star-example-setting-fit"/>
         <br/><span>점수판 크기조절</span>
     </p>
-
+    
     <p align="center">
         <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
-        <br/><span>바요엔-스타</strong> 점수판 크기 조절, 인터넷 방송화면</span>
+        <br/><span><strong>바요엔-스타</strong> 점수판 크기 조절, 인터넷 방송화면</span>
     </p>
 1. **크로마키 설정**: 여러가지 크로마키를 설정할 수 있습니다. 자세한 내용은 [크로마키 설정](#ChromaKey)을 살펴보세요!
 

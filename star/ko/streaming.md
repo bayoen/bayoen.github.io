@@ -214,9 +214,9 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
     
     <p align="center">
         <img src="{{ site.lang_url }}/res/bayoen-star-example-setting-fit.gif" class="shadow-box" alt="bayoen-star-example-setting-fit"/>
-        <br/><span>점수판 크기조절</span>
+        <br/><span>점수판 크기 조절/비교</span>
     </p>
-    
+
     <p align="center">
         <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
         <br/><span><strong>바요엔-스타</strong> 점수판 크기 조절, 인터넷 방송화면</span>

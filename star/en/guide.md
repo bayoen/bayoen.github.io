@@ -41,7 +41,7 @@ And also, there is [**demo video**](https://www.youtube.com/playlist?list=PLK_vO
 </p>
 
 <p align="center">
-    <br/><span>Following is mainwindow of <strong>bayoen-star</strong>:</span>
+    <br/><span>A mainwindow of <strong>bayoen-star</strong> is following:</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-instuction-main-en.png" class="box" alt="bayoen-star-initial"/>
     <br/><span>It's so intuitive for everybody (also from developers)</span>
 </p>

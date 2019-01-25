@@ -69,7 +69,7 @@ And also, there is [**demo video**](https://www.youtube.com/playlist?list=PLK_vO
     <span><strong>bayoen-star</strong>'s scoreboard show us such things!</span>    
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-en.png" class="box" alt="bayoen-star-and-crown"/>
     <img src="{{ site.lang_url }}/res/bayoen-star-menu-mode-selected.png" class="box" alt="bayoen-star-menu-mode-selected"/>
-    <br/><span>You can change scoremoard mode to display types of score you want</span>
+    <br/><span>You can change scoreboard mode to display types of score you want</span>
     <br/><span>Feel free for checking out other functionals!</span>
     <br/><span>You should close <strong>bayoen-star</strong> directly in tray icon</span>
 </p>

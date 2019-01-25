@@ -82,12 +82,12 @@ And also, there is [**demo video**](https://www.youtube.com/playlist?list=PLK_vO
 </p>
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-9.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-9.png" class="shadow-box" alt="bayoen-star-example-ingame-league-1"/>
     <br/><span>And also, in puzzle league....</span>
 </p>
 
 <p align="center">
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-10.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-10.png" class="shadow-box" alt="bayoen-star-example-ingame-league-2"/>
     <br/><span>you can enjoy whole matches XD</span>
 </p>
 
@@ -129,7 +129,32 @@ And also, there is [**demo video**](https://www.youtube.com/playlist?list=PLK_vO
 
 Shall we be more specific? We listed all functinoals of **bayoen-star**. Please check one by one!
 
-----
+<div class="toc-sub">
+    <h2>세부목차</h2>
+    <ul>
+        <li><a href="#Main">메인화면</a>
+            <ul>
+                <li><a href="#Components">화면구성</a></li>
+                <li><a href="#Symbol">점수판 심볼</a></li>
+            </ul>
+        </li>
+        <li><a href="#Function"><strong>바요엔-스타</strong> 기능동작</a></li>
+        <li><a href="#Menu">Menu: 메뉴</a>
+            <ul>
+                <li>Reset: 점수 초기화</li>
+                <li><a href="#Goal">Goal: 목표점수 설정</a></li>
+                <li><a href="#Overlay">Overlay: 점수판 오버레이</a></li>
+                <li><a href="#Settings">Settings: 환경설정</a></li>
+                <li><a href="#Mode">Mode: 점수판 모드 설정</a></li>
+            </ul>
+        </li>
+        <li><a href="#Troubleshooting">문제해결</a>
+            <ul>
+                <li><strong>바요엔-스타</strong> 전체 초기화</li>
+            </ul>
+        </li>        
+    </ul>
+</div>
 
 ### Detail Contents
 - [Main Window](#Main)

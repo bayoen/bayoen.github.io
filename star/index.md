@@ -6,11 +6,11 @@ layout: bayoen-star-lang
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
-    <br/><span>counting stars</span>
+    <br/><span>counting stars ~ ♪</span>
 </p>
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="shadow-box" alt="bayoen-star-example-goal-total"/>
-    <br/><span>a match with 20 games</span>
+    <br/><span>a match with 20 stars, player 1 won with 12 stars!</span>
 </p>
 
 <p align="center">

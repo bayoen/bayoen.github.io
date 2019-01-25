@@ -9,14 +9,14 @@ layout: bayoen-star-ko
 <div class="toc">
     <h2>목차</h2>
     <ul>
-        <li><a href="#Abstract">간단하게</a></li>
+        <li><a href="#Summary">간단하게</a></li>
         <li><a href="#Details">자세하게</a></li>
     </ul>
 </div>
 
 ----
 
-<a name="Abstract"> </a>
+<a name="Summary"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>

@@ -4,24 +4,26 @@ layout: bayoen-star-en
 
 # Guide
 
-Let us give you instruction for **bayoen-star**. If you hurry, check 'Simply...?', or look out 'More Details!'
+Let us give you instruction for **bayoen-star**. If you hurry, check 'Summary,' or look out 'More Details!'
+
+<div class="toc">
+    <h2>Contents</h2>
+    <ul>
+        <li><a href="#Summary">Summary</a></li>
+        <li><a href="#Details">More Details</a></li>
+    </ul>
+</div>
 
 ----
 
-## Contents
-- [Simply...?](#Abstract)
-- [More Details](#Details)  
-
-----
-
-<a name="Abstract"> </a>
+<a name="Summary"> </a>
 <p align="center">
 .<br/><br/>
 .<br/><br/>
 .
 </p>
 
-## Simply...? Abstract
+## Summary
 
 Using **bayoen-star** is such a piece of cake! To do everything you want, just press few buttons! (from developers)
 

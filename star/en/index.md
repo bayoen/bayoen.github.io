@@ -30,7 +30,7 @@ layout: bayoen-star-en
 **'bayoen-star'** counts game scores in 1:1 match.
 Try this in Free Play!
 It's easy to use and has useful functionals like **'First to #.'**
-For details, check out **[Guide]({{ site.lang_url }}/en/guide.html)**.
+For details, check out [**Guide**]({{ site.lang_url }}/en/guide.html).
 
 <p align="center">
 .<br/><br/>

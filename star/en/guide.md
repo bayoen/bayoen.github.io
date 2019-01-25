@@ -32,6 +32,8 @@ Using **bayoen-star** is such a piece of cake! To do everything you want, just p
 3. Check out the **bayoen-star** getting scores
 4. Profit!
 
+And also, there is [**demo video**](https://www.youtube.com/playlist?list=PLK_vOCD9v3gUABMGU1R_VNhv5_s-LctnE)!
+
 <p align="center">
 .<br/><br/>
 .<br/><br/>

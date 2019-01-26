@@ -70,7 +70,7 @@ And also, there is [**demo video**](https://www.youtube.com/playlist?list=PLK_vO
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-and-crown-en.png" class="box" alt="bayoen-star-and-crown"/>
     <img src="{{ site.lang_url }}/res/bayoen-star-menu-mode-selected.png" class="box" alt="bayoen-star-menu-mode-selected"/>
     <br/><span>You can change scoreboard mode to display types of score you want</span>
-    <br/><span>Feel free for checking out other functionals!</span>
+    <br/><span>Feel free for checking out other functions!</span>
     <br/><span>You should close <strong>bayoen-star</strong> directly in tray icon</span>
 </p>
 
@@ -239,7 +239,7 @@ _The scores of **bayoen-star** are imaginary. It doesn't affect real scores or b
 .
 </p>
 
-### **bayoen-star** Functionals
+### **bayoen-star** Functions
 
 - Detect: **bayoen-star**는 **Puyo Puyo Tetris** 프로그램을 감지하여 동작합니다. **Puyo Puyo Tetris**가 꺼진 상태면 대기합니다.
 

@@ -249,7 +249,7 @@ _The scores of **bayoen-star** are imaginary. It doesn't affect real scores or b
     - Scores: **data.json** at the path of **bayoen-star**
     - Settings: **pref.json** at the path of **bayoen-star**
 
-- Exit: **bayoen-star**의 메인 창을 닫으면 시스템 트레이로 최소화 됩니다. **bayoen-star**를 완전히 종료하려면 시스템 트레이 아이콘을 우클릭해서 종료버튼을 눌러주세요!
+- Exit: When you close the main window of **bayoen-star**, it is minimized into system tray instead of closing. To exit **bayoen-star** completely, select 'Exit' of the icon of system tray!
 
 - Memory: (중요) **bayoen-star**는 컴퓨터 메모리 후킹으로 동작하기 때문에, 두 가지 이슈가 있습니다:
     - **Puyo Puyo Tetris**의 동작이 느려질까 걱정할 수 있습니다.

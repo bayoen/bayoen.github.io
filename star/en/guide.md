@@ -290,9 +290,9 @@ Here is the menu of **bayoen-star**
 
 1. **Reset Scoreboard**: Reset 'Star+' and 'Crown' and refresh scoreboard.
 2. **Ser/Reset Goals**: Set a goal and display its result with counted scores. See ['Goal'](#Goal).
-3. **Scoreboard Overlay**: 게임화면 위에 띄울 수 있는 투명한 점수판을 띄웁니다. See ['Overlay'](#Overlay).
-4. **Change Settings**: 외형 및 점수를 변경하고, 파일 입출력 여부도 설정할 수 있습니다. 자세한 내용은 [Settings](#Settings)을 봐주세요.
-5. **Scoreboard Mode**: 점수판의 외형을 바꿀 수 있습니다. 자세한 내용은 [Mode](#Mode)을 봐주세요.
+3. **Scoreboard Overlay**: Overlay a new scoreboard with transparent background. See ['Overlay'](#Overlay).
+4. **Change Settings**: Change the appearance and scores and set whether or not to export files. See [Settings](#Settings).
+5. **Scoreboard Mode**: Change the type of scoreboard. See [Mode](#Mode).
 
 <p align="center">
 .<br/><br/>
@@ -307,7 +307,7 @@ Here is the menu of **bayoen-star**
 .
 </p>
 
-#### Goal: 목표점수 설정
+#### Goal 'Target Score to Win'
 
 목표를 정하여 여러 게임동안 점수를 집계하고 승/패를 알려줍니다. 언제나 사용할 수 있고, 특히 친선전이나 대회에서 유용합니다.
 

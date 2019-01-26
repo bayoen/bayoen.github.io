@@ -194,7 +194,7 @@ The main window contains this!
 3. [Menu](#Menu): You can control **bayoen-star** via a menu. For more details, see descriptions below!
 4. [Goal](#Goal): It summerizes serial games such as friendly matches and competitions and also notifies who wins and losses. In menu, you can set and reset a goal. For more details, see descriptions below!
 
-Score is tallied for  and . You can turn it on and off from the menu. For more information, please see the goal settings below!
+Score is tallied for **'Star+'** and **'Crown'** . You can turn it on and off from the menu. For more information, please see the goal settings below!
 
 <p align="center">
 .<br/><br/>

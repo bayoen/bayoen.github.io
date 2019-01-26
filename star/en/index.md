@@ -45,7 +45,7 @@ For details, check out [**Guide**]({{ site.lang_url }}/en/guide.html).
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="shadow-box" alt="bayoen-star-example-mode-2-fit"/>
-    <br/><span>First-to-10-games match 'Right side won with getting first 10 crowns!'</span>
+    <br/><span>First-to-10-games match 'Right side won with getting 10 crowns first!'</span>
     <br/><span><strong>Crown</strong> is a game score from full-star score</span>
 </p>
 
@@ -68,7 +68,7 @@ For details, check out [**Guide**]({{ site.lang_url }}/en/guide.html).
 </p>
 
 
-bayoen-star uses memory hooking. But it never affact any game balance!
+bayoen-star uses memory hooking. But it never affacts any game balance!
 bayoen-star do not modify memories inside of Puyo Puyo Tetris.
 
 _Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This project has no any commercial, it's just fan-made. All secondary copyrights be belong to SEGA! If SEGA order us to close this project, we sadly shall do so._

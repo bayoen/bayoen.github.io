@@ -4,7 +4,7 @@ layout: bayoen-star-en
 
 # Guide
 
-Let us give you instruction for **bayoen-star**. If you hurry, check 'Summary,' or look out 'More Details!'
+Let us give you instruction for **bayoen-star**. If you hurry, check 'Summary,' or look at 'More Details!'
 
 <div class="toc">
     <h2>Contents</h2>

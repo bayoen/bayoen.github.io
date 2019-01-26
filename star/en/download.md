@@ -42,7 +42,7 @@ Download, unzip and run!
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-initial.png" class="shadow-box" alt="bayoen-star-initial"/>
     <br/><span>In the first place, <strong>bayoen-star</strong> is look like this</span>
-    <br/><span>Look around of it!</span>
+    <br/><span>Take a look!</span>
 </p>
 
 <p align="center">

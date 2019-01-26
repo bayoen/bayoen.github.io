@@ -243,9 +243,11 @@ _The scores of **bayoen-star** are imaginary. It doesn't affect real scores or b
 
 - Detect: **bayoen-star** works only when **Puyo Puyo Tetris** is running. If **Puyo Puyo Tetris** is offline, **bayoen-star** sleeps.
 
-- Count: **bayoen-star**는 **Puyo Puyo Tetris** 게임 플레이 중, 별이 오르는 순간의 점수변동을 계산하여 점수판에 갱신합니다.
+- Count: In **Puyo Puyo Tetris** game playing, when someone gets a star, **bayoen-star** refreshes the scoreboard.
 
-- Save: **bayoen-star**에서는 게임데이터와 설정을 실시간 저장합니다. **bayoen-star**가 강제종료 되더라도 일부정보를 복구할 수 있습니다.
+- Save: **bayoen-star** save scores and settings in real-time. Even if **bayoen-star** get broken, some information could be recovered.
+    - Scores: **data.json** at the path of **bayoen-star**
+    - Settings: **pref.json** at the path of **bayoen-star**
 
 - Exit: **bayoen-star**의 메인 창을 닫으면 시스템 트레이로 최소화 됩니다. **bayoen-star**를 완전히 종료하려면 시스템 트레이 아이콘을 우클릭해서 종료버튼을 눌러주세요!
 

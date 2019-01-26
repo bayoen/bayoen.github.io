@@ -241,7 +241,7 @@ _The scores of **bayoen-star** are imaginary. It doesn't affect real scores or b
 
 ### **bayoen-star** Functions
 
-- Detect: **bayoen-star**는 **Puyo Puyo Tetris** 프로그램을 감지하여 동작합니다. **Puyo Puyo Tetris**가 꺼진 상태면 대기합니다.
+- Detect: **bayoen-star** works only when **Puyo Puyo Tetris** is running. If **Puyo Puyo Tetris** is offline, **bayoen-star** sleeps.
 
 - Count: **bayoen-star**는 **Puyo Puyo Tetris** 게임 플레이 중, 별이 오르는 순간의 점수변동을 계산하여 점수판에 갱신합니다.
 

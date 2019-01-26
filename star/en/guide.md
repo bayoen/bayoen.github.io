@@ -209,7 +209,7 @@ Score is tallied for  and . You can turn it on and off from the menu. For more i
 .
 </p>
 
-#### Symbols of Main Window
+#### Symbols of Scoreboard
 
 Here are three symbol on the scoreboard. It's pretty because we extract them from **Puyo Puyo Tetris**!
 

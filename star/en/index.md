@@ -18,7 +18,7 @@ layout: bayoen-star-en
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example.png" class="shadow-box" alt="bayoen-star-example"/>
     <br/><span><strong>bayoen-star</strong> is counting stars</span>
-    <br/><span>When you win a single set, you gat a star</span>
+    <br/><span>When you win a single set, you get a star</span>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ layout: bayoen-star-en
 
 **'bayoen-star'** counts game scores in 1:1 match.
 Try this in Free Play!
-It's easy to use and has useful functionals like **'First to #.'**
+It's easy to use and has useful functions like **'First to #.'**
 For details, check out [**Guide**]({{ site.lang_url }}/en/guide.html).
 
 <p align="center">

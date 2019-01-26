@@ -224,7 +224,7 @@ Here are three symbol on the scoreboard. It's pretty because we extract them fro
 
 You can change counted scores in [Menu](#Menu), [Settings](#Settings).
 
-_***bayoen-star**의 점수는 가상 점수입니다. 뿌요뿌요 테트리스 내부의 점수 및 밸런스에는 아무런 영향을 주지 않아요!_
+_The scores of **bayoen-star** are imaginary. It doesn't affect real scores or balance of **Puyo Puyo Tetris**!_
 
 <p align="center">
 .<br/><br/>
@@ -239,17 +239,17 @@ _***bayoen-star**의 점수는 가상 점수입니다. 뿌요뿌요 테트리스
 .
 </p>
 
-### **bayoen-star** 기능동작
+### **bayoen-star** Functionals
 
-- 감지: **bayoen-star**는 **Puyo Puyo Tetris** 프로그램을 감지하여 동작합니다. **Puyo Puyo Tetris**가 꺼진 상태면 대기합니다.
+- Detect: **bayoen-star**는 **Puyo Puyo Tetris** 프로그램을 감지하여 동작합니다. **Puyo Puyo Tetris**가 꺼진 상태면 대기합니다.
 
-- 갱신: **bayoen-star**는 **Puyo Puyo Tetris** 게임 플레이 중, 별이 오르는 순간의 점수변동을 계산하여 점수판에 갱신합니다.
+- Count: **bayoen-star**는 **Puyo Puyo Tetris** 게임 플레이 중, 별이 오르는 순간의 점수변동을 계산하여 점수판에 갱신합니다.
 
-- 저장: **bayoen-star**에서는 게임데이터와 설정을 실시간 저장합니다. **bayoen-star**가 강제종료 되더라도 일부정보를 복구할 수 있습니다.
+- Save: **bayoen-star**에서는 게임데이터와 설정을 실시간 저장합니다. **bayoen-star**가 강제종료 되더라도 일부정보를 복구할 수 있습니다.
 
-- 종료: **bayoen-star**의 메인 창을 닫으면 시스템 트레이로 최소화 됩니다. **bayoen-star**를 완전히 종료하려면 시스템 트레이 아이콘을 우클릭해서 종료버튼을 눌러주세요!
+- Exit: **bayoen-star**의 메인 창을 닫으면 시스템 트레이로 최소화 됩니다. **bayoen-star**를 완전히 종료하려면 시스템 트레이 아이콘을 우클릭해서 종료버튼을 눌러주세요!
 
-- 메모리: (중요) **bayoen-star**는 컴퓨터 메모리 후킹으로 동작하기 때문에, 두 가지 이슈가 있습니다:
+- Memory: (중요) **bayoen-star**는 컴퓨터 메모리 후킹으로 동작하기 때문에, 두 가지 이슈가 있습니다:
     - **Puyo Puyo Tetris**의 동작이 느려질까 걱정할 수 있습니다.
         - **bayoen-star**는 상당히 가볍게 만들어진 프로그램입니다. 따라서 **Puyo Puyo Tetris** 실행의 권장사항을 만족한다면, 방송송출까지 성능저하없이 쓸 수 있을거에요!
         
@@ -258,9 +258,9 @@ _***bayoen-star**의 점수는 가상 점수입니다. 뿌요뿌요 테트리스
         - **bayoen-star**은 메모리 조작을 하지 않고, 메모리 읽기만 수행합니다.
         - **bayoen-star**는 유저가 보는 것과 같이 게임에서 겉으로 드러나는 정보만 읽습니다.
         
-        _단, 유저식별을 위해 Steam ID는 추가로 조회합니다_
+        <!-- _Especially, we trace **Steam ID** for identification_ -->
 
-여러분 **bayoen-star**는 안전합니다! 안심하고 사용해 주세요!
+We made **bayoen-star** with safety!
 
 <p align="center">
 .<br/><br/>

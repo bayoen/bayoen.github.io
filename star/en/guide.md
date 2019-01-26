@@ -252,7 +252,7 @@ _The scores of **bayoen-star** are imaginary. It doesn't affect real scores or b
 
 - Exit: When you close the main window of **bayoen-star**, it is minimized into system tray instead of closing. To exit **bayoen-star** completely, select 'Exit' of the icon of system tray!
 
-- Memory: (중요) **bayoen-star**는 컴퓨터 메모리 후킹으로 동작하기 때문에, 두 가지 이슈가 있습니다:
+- Memory: (important) **bayoen-star** uses memory hooking to counting stars and has two issues:
     - **Puyo Puyo Tetris**의 동작이 느려질까 걱정할 수 있습니다.
         - **bayoen-star**는 상당히 가볍게 만들어진 프로그램입니다. 따라서 **Puyo Puyo Tetris** 실행의 권장사항을 만족한다면, 방송송출까지 성능저하없이 쓸 수 있을거에요!
         

@@ -186,7 +186,7 @@ The main window contains this!
     <br/><span>Main window of <strong>bayoen-star</strong></span>
 </p>
 
-1. Scoreboard: The left and right side of screen indicate player 1 and player 2 respectively. There are three [symbols](#Symbol)과, five [modes](#Mode). The interval of all scores between 0 and 9999. otherwise... we are totally sorry.
+1. Scoreboard: The left and right side of screen indicate player 1 and player 2 respectively. There are three [symbols](#Symbol) and five [modes](#Mode). The interval of all scores between 0 and 9999. otherwise... we are totally sorry.
 2. Game Status: Shows the status of **Puyo Puyo Tetris**. There are three things:
     - **Offline**: **Puyo Puyo Tetris** is offline. Turn on **Puyo Puyo Tetris** and play games to turn on the counter.
     - **Ready**: **Puyo Puyo Tetris** is turned-on. **bayoen-star** is ready. Play games to turn on the counter.
@@ -195,12 +195,6 @@ The main window contains this!
 4. [Goal](#Goal): It summerizes serial games such as friendly matches and competitions and also notifies who wins and losses. In menu, you can set and reset a goal. For more details, see descriptions below!
 
 Score is tallied for  and . You can turn it on and off from the menu. For more information, please see the goal settings below!
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
 
 <p align="center">
 .<br/><br/>
@@ -221,14 +215,14 @@ Here are three symbol on the scoreboard. It's pretty because we extract them fro
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-en.png" class="box" alt="bayoen-star-and-crown"/>
-    <br/><span><strong>바요엔-스타</strong>의 세 가지 심볼</span>
+    <br/><span>Three symbols of <strong>bayoen-star</strong></span>
 </p>
 
-- 스타: 별모양으로, 현재 별 개수입니다. 게임의 별 개수와 같습니다.
-- 스타+: 별모양에 더하기가 있고, 누적 별 개수입니다.
-- 크라운: 왕관모양으로, 이긴 게임의 수입니다. 누적 게임 스코어라고 생각하시면 됩니다.
+- Star: Star shape, show current stars in game
+- Star+: Star and plus shape, it counts stars
+- Crown: Crown shape, it counts games
 
-누적된 점수는 [초기화](#Menu), [환경설정](#Settings)에서 변경할 수 있습니다.
+You can change counted scores in [Menu](#Menu), [Settings](#Settings).
 
 _***bayoen-star**의 점수는 가상 점수입니다. 뿌요뿌요 테트리스 내부의 점수 및 밸런스에는 아무런 영향을 주지 않아요!_
 

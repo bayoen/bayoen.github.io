@@ -288,11 +288,11 @@ Here is the menu of **bayoen-star**
     <br/><span><strong>bayoen-star</strong>'s menu</span>
 </p>
 
-1. **점수초기화**: '스타+'와 '크라운'을 0으로 초기화 합니다. 점수판도 바로 갱신됩니다.
-2. **목표점수설정**: 목표를 정하여 여러 게임동안 점수를 집계하고 승/패를 알려줍니다. 자세한 내용은 ['Goal: 목표점수 설정'](#Goal)을 봐주세요.
-3. **점수판 오버레이**: 게임화면 위에 띄울 수 있는 투명한 점수판을 띄웁니다. 자세한 내용은 ['Overlay: 점수판 오버레이'](#Overlay)을 봐주세요.
-4. **환경설정**: 외형 및 점수를 변경하고, 파일 입출력 여부도 설정할 수 있습니다. 자세한 내용은 [Settings: 환경설정](#Settings)을 봐주세요.
-5. **점수판 모드**: 점수판의 외형을 바꿀 수 있습니다. 자세한 내용은 [Mode: 점수판 모드 설정](#Mode)을 봐주세요.
+1. **Reset Scoreboard**: Reset 'Star+' and 'Crown' and refresh scoreboard.
+2. **Ser/Reset Goals**: 목표를 정하여 여러 게임동안 점수를 집계하고 승/패를 알려줍니다. See ['Goal'](#Goal).
+3. **Scoreboard Overlay**: 게임화면 위에 띄울 수 있는 투명한 점수판을 띄웁니다. See ['Overlay'](#Overlay).
+4. **Change Settings**: 외형 및 점수를 변경하고, 파일 입출력 여부도 설정할 수 있습니다. 자세한 내용은 [Settings](#Settings)을 봐주세요.
+5. **Scoreboard Mode**: 점수판의 외형을 바꿀 수 있습니다. 자세한 내용은 [Mode](#Mode)을 봐주세요.
 
 <p align="center">
 .<br/><br/>

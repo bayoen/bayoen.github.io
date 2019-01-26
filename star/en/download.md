@@ -6,7 +6,7 @@ layout: bayoen-star-en
 
 ## Download Link
 <br/>You can download **bayoen-star** from following links:
-<br/><i>*For adding new stuff, please use the latest <strong>'v{{ site.latest_version }}'</strong></i>
+<br/><i>*Please use the latest version<strong>'v{{ site.latest_version }}'</strong>, we add new stuffs.</i>
 
 <p align="center">
     <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star-{{ site.latest_version }}.zip" class="in-glow-btn"><strong>1. Latest</strong></a>

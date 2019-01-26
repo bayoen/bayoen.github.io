@@ -249,6 +249,7 @@ _The scores of **bayoen-star** are imaginary. It doesn't affect real scores or b
     - Scores: **data.json** at the path of **bayoen-star**
     - Settings: **pref.json** at the path of **bayoen-star**
 
+
 - Exit: When you close the main window of **bayoen-star**, it is minimized into system tray instead of closing. To exit **bayoen-star** completely, select 'Exit' of the icon of system tray!
 
 - Memory: (중요) **bayoen-star**는 컴퓨터 메모리 후킹으로 동작하기 때문에, 두 가지 이슈가 있습니다:

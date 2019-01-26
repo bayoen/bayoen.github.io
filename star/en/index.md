@@ -105,7 +105,7 @@ _Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This p
 
 <p align="center">
    <img src="{{ site.lang_url }}/res/dailycarbuncle_kirbuncle.png" class="box" width="30%" alt="bayoen~"/>
-    <br/><span>Every figure is getting bigger when pressed!</span>
+    <br/><span>All figures are getting bigger when pressed!</span>
 </p>
 
 <p align="center">

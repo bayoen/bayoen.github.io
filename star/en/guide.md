@@ -253,13 +253,13 @@ _The scores of **bayoen-star** are imaginary. It doesn't affect real scores or b
 - Exit: When you close the main window of **bayoen-star**, it is minimized into system tray instead of closing. To exit **bayoen-star** completely, select 'Exit' of the icon of system tray!
 
 - Memory: (important) **bayoen-star** uses memory hooking to counting stars and has two issues:
-    - **Puyo Puyo Tetris**의 동작이 느려질까 걱정할 수 있습니다.
-        - **bayoen-star**는 상당히 가볍게 만들어진 프로그램입니다. 따라서 **Puyo Puyo Tetris** 실행의 권장사항을 만족한다면, 방송송출까지 성능저하없이 쓸 수 있을거에요!
+    - Wouldn't **Puyo Puyo Tetris** slow down?
+        - We made **bayoen-star** pretty light. So, if you achieved requirement for running **Puyo Puyo Tetris**, you can even stream it without any delay!
         
-        _지나치게 느리다면 <a href="https://github.com/bayoen/bayoen-star-exe/issues" target="_blank"><strong>신고/건의</strong></a>에 신고해주세요!_
-    - **Puyo Puyo Tetris**의 내부 메모리를 조회해서 보안에 대해서 걱정할 수 있습니다.
-        - **bayoen-star**은 메모리 조작을 하지 않고, 메모리 읽기만 수행합니다.
-        - **bayoen-star**는 유저가 보는 것과 같이 게임에서 겉으로 드러나는 정보만 읽습니다.
+        _If it's very slow, please report via <a href="https://github.com/bayoen/bayoen-star-exe/issues" target="_blank"><strong>Issue/Idea</strong></a>!_
+    - Is **Puyo Puyo Tetris** safe under memory hacking?
+        - **bayoen-star** does not modify any memories, ONLY READS IT.
+        - **bayoen-star** reads information which we can directly figure out.
         
         <!-- _Especially, we trace **Steam ID** for identification_ -->
 

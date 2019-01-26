@@ -455,12 +455,12 @@ _환경설정 중 '*'가 있는 항목은 방송설정을 위한 것이니, 더 
 
 기본값은 **'Game & Star+'** 입니다. 모드 변경으로 점수만 깔끔하게 볼 수 있습니다.
 
-0. ~~**'Star'** 스타: 이 점수는 **Puyo Puyo Tetris**에서 기본지원 합니다!~~
-1. **'Star+'** 스타+: 별을 세어서 보여줍니다.
-2. **'Game'** 크라운: 이긴 게임을 세어줍니다.
-3. **'Game & Star'** 크라운과 스타: 이긴 게임을 세고, 현재 별을 보여줍니다.
-4. **'Game & Star+'** 크라운과 스타+: 이긴 게임과 별 모두 세어줍니다. (기본값입니다!)
-5. **'Star & Star+'** 스타와 스타+: 별을 세고, 현재별을 보여줍니다.
+0. ~~**'Star'**: This is a basic score of **Puyo Puyo Tetris**!~~
+1. **'Star+'**: Counts and shows stars.
+2. **'Game'** : Counts and shows games.
+3. **'Game & Star'**: 이긴 게임을 세고, 현재 별을 보여줍니다.
+4. **'Game & Star+'**: 이긴 게임과 별 모두 세어줍니다. (it's default!)
+5. **'Star & Star+'**: 별을 세고, 현재별을 보여줍니다.
 
 **'Star+'** 모드나 **'Game'** 모드의 크기가 작으면 [환경설정](#Settings)에서 키울 수도 있습니다. 텍스트 출력으로 커스텀할 수도 있어요!
 
@@ -496,9 +496,9 @@ Hotkey... is still on progress...
 
 ## 방송설정
 
-There were someone seeking this, we split the article!
+Many people ask this, so we split the article!
 
-방송송출용 설정에 대한 내용은 [Here]({{ site.lang_url }}/en/streaming.html)서 봐주세요.
+See [Here]({{ site.lang_url }}/en/streaming.html) for streaming setting.
 
 <p align="center">
 .<br/><br/>

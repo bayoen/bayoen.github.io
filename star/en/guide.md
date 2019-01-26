@@ -248,7 +248,7 @@ _The scores of **bayoen-star** are imaginary. It doesn't affect real scores or b
 - Save: **bayoen-star** save scores and settings in real-time. Even if **bayoen-star** get broken, some information could be recovered.
     - Scores: **data.json** at the path of **bayoen-star**
     - Settings: **pref.json** at the path of **bayoen-star**
-
+<br/>
 
 - Exit: When you close the main window of **bayoen-star**, it is minimized into system tray instead of closing. To exit **bayoen-star** completely, select 'Exit' of the icon of system tray!
 

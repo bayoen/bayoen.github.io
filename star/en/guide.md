@@ -279,13 +279,13 @@ We made **bayoen-star** with safety!
 .
 </p>
 
-### Menu: 메뉴
+### Menu
 
-**bayoen-star** 메뉴의 구성입니다
+Here is the menu of **bayoen-star**
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-ko.png" class="box" alt="bayoen-star-instuction-menu-selected"/>
-    <br/><span><strong>바요엔-스타</strong>의 메뉴</span>
+    <img src="{{ site.lang_url }}/res/bayoen-star-instuction-menu-selected-en.png" class="box" alt="bayoen-star-instuction-menu-selected"/>
+    <br/><span><strong>bayoen-star</strong>'s menu</span>
 </p>
 
 1. **점수초기화**: '스타+'와 '크라운'을 0으로 초기화 합니다. 점수판도 바로 갱신됩니다.
@@ -450,7 +450,7 @@ _환경설정 중 '*'가 있는 항목은 방송설정을 위한 것이니, 더 
 <p align="center">    
     <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown"/>
     <img src="{{ site.lang_url }}/res/bayoen-star-menu-mode-selected.png" class="box" alt="bayoen-star-menu-mode-selected"/>
-    <br/><span><strong>바요엔-스타</strong>의 점수판 모드 설정</span>    
+    <br/><span><strong>bayoen-star</strong>의 점수판 모드 설정</span>    
 </p>
 
 기본값은 **'Game & Star+'** 입니다. 모드 변경으로 점수만 깔끔하게 볼 수 있습니다.

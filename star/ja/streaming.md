@@ -6,17 +6,6 @@ layout: bayoen-star-ja
 
 Let us introduce a **bayoen-star** setting for streamer.
 
-<p align="center">
-    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
-    <br/><span><strong>Streaming Capture #1:</strong> <strong>bayoen-star</strong> Mainwindow Capture</span>
-</p>
-
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
-
 <div class="toc">
     <h2>Contents</h2>
     <ul>

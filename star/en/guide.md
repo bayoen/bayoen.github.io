@@ -331,17 +331,14 @@ Set a goal and display its result with counted scores. You can enable it anytime
 2. **'Remove'**: Remove all goals and hide it from scoreboard.
 
 <p align="center">
-    <span>목표설정이 완료되면 이런 식으로 표시됩니다</span>
-</p>
-
-<p align="center">
+    <span>When goal setting is done, it looks like this:</span>
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-mode-2-fit.png" class="box" alt="bayoen-star-example-mode-2-fit"/>
-    <br/><span><strong>왕관 10선승 (First, Crown, 10 Scores)</strong></span>
+    <br/><span><strong>Crown FT10 (First, Crown, 10 Scores)</strong></span>
 </p>
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-goal-total-none.png" class="box" alt="bayoen-star-example-goal-total-none"/>
-    <br/><span><strong>별 20점 다선승 (Total, Star+, 20 Scores)</strong></span>    
+    <br/><span><strong>Star 20 Total (Total, Star+, 20 Scores)</strong></span>    
 </p>
 
 <p align="center">

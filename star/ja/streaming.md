@@ -18,7 +18,7 @@ Let us introduce a **bayoen-star** setting for streamer.
 </p>
 
 <div class="toc">
-    <h2>Content</h2>
+    <h2>Contents</h2>
     <ul>
         <li><a href="#ChromaKey">Chroma Key Setting</a>
             <ol>

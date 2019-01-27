@@ -372,7 +372,7 @@ Set a goal and display its result with counted scores. You can enable it anytime
     - **'Reset'**: Reset all scores. To avoid misclick, it strictly operates under 'Shift + Click'!
     - **'Close'**: Close **Overlay**
 
-_Overlay we just introduced is not for **Streaming**! If you'd like to use our works in your stream, see [**'streaming'**]({{ site.lang_url }}/en/streaming.html)!_
+_Overlay we just introduced is not for **Streaming**! If you'd like to use our works in your stream, see [**'Streaming'**]({{ site.lang_url }}/en/streaming.html)!_
 
 <p align="center">
 .<br/><br/>
@@ -382,7 +382,7 @@ _Overlay we just introduced is not for **Streaming**! If you'd like to use our w
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-arcade.png" class="shadow-box" alt="bayoen-star-example-ingame-arcade"/>
-    <br/><span>이렇게 <strong>오버레이</strong>를 띄울 수 있어요!</span>
+    <br/><span>Now we can <strong>Overlay</strong>!</span>
 </p>
 
 <p align="center">
@@ -404,13 +404,13 @@ _Overlay we just introduced is not for **Streaming**! If you'd like to use our w
 .
 </p>
 
-#### Settings: 환경설정
+#### Settings 'Control Panel'
 
-환경설정 화면입니다. **bayoen-star**의 외형 및 점수를 변경하고, 파일 입출력 여부도 설정할 수 있습니다.
+This is setting window of **bayoen-star**. You can change the appearance and scores and set whether or not to export files.
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-settings-ko.png" class="box" alt="bayoen-star-settings-ko"/>
-    <br/><span><strong>환경설정</strong> 화면</span>
+    <img src="{{ site.lang_url }}/res/bayoen-star-settings-en.png" class="box" alt="bayoen-star-settings-ko"/>
+    <br/><span><strong>Setting</strong> window</span>
 </p>
 
 **A. 주요설정**
@@ -441,26 +441,26 @@ _환경설정 중 '*'가 있는 항목은 방송설정을 위한 것이니, 더 
 .
 </p>
 
-#### Mode: 점수판 모드 설정
+#### Mode 'Displaying Type of Scoreboard'
 
-점수판의 외형을 바꿀 수 있습니다. 모드 설정은 가능한 모든 점수판 형태를 지원합니다.
+You can change the type of appearance of the scoreboard. We provide all possible modes of scoreboard.
 
 <p align="center">    
-    <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-ko.png" class="box" alt="bayoen-star-and-crown"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-and-crown-en.png" class="box" alt="bayoen-star-and-crown"/>
     <img src="{{ site.lang_url }}/res/bayoen-star-menu-mode-selected.png" class="box" alt="bayoen-star-menu-mode-selected"/>
-    <br/><span><strong>bayoen-star</strong>의 점수판 모드 설정</span>    
+    <br/><span><strong>bayoen-star</strong> Mode Setting</span>    
 </p>
 
-기본값은 **'Game & Star+'** 입니다. 모드 변경으로 점수만 깔끔하게 볼 수 있습니다.
+The default is **'Game & Star+'**. The mode can be changed anytime and looks simple.
 
 0. ~~**'Star'**: This is a basic score of **Puyo Puyo Tetris**!~~
-1. **'Star+'**: Counts and shows stars.
-2. **'Game'** : Counts and shows games.
-3. **'Game & Star'**: 이긴 게임을 세고, 현재 별을 보여줍니다.
-4. **'Game & Star+'**: 이긴 게임과 별 모두 세어줍니다. (it's default!)
-5. **'Star & Star+'**: 별을 세고, 현재별을 보여줍니다.
+1. **'Star+'**: Shows counted stars.
+2. **'Game'** : Shows counted games.
+3. **'Game & Star'**: Counts and shows games, show current stars.
+4. **'Game & Star+'**: Counts and shows both games and stars. (it's default!)
+5. **'Star & Star+'**: Counts and shows stars, show current stars.
 
-**'Star+'** 모드나 **'Game'** 모드의 크기가 작으면 [환경설정](#Settings)에서 키울 수도 있습니다. 텍스트 출력으로 커스텀할 수도 있어요!
+In **'Star+'** and **'Game'** mode, you can make the scoreboard full-size so that it covers original scoreboard. See [Settings](#Settings). You can also export data as text file to customize your own scoreboard!
 
 <p align="center">
 .<br/><br/>
@@ -475,9 +475,13 @@ _환경설정 중 '*'가 있는 항목은 방송설정을 위한 것이니, 더 
 .
 </p>
 
-## 단축키
+## Hotkey
 
-Hotkey... is still on progress...
+Hotkeys are few and simple.
+
+- Menu Hotkey: Press **'m'** in main window to open menu
+- Reset Hotkey: Press  **'r'** in menu to reset scores without dialog
+- Overlay Hotkey: Press **'o'** in menu to enable overlay
 
 <p align="center">
 .<br/><br/>

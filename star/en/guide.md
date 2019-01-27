@@ -356,21 +356,21 @@ Set a goal and display its result with counted scores. You can enable it anytime
 
 #### Overlay 'Scoreboard over **Puyo Puyo Tetris**'
 
-**bayoen-star**은 게임화면 위에 띄울 수 없습니다... 대신, 투명한 **오버레이** 점수판을 띄울 수 있습니다!
+**bayoen-star** is not able to be overlaid over the game screen... Instead, you can add another scoreboard **overlay** with transparent background!
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-overlay-menu.png" class="box" alt="bayoen-star-overlay-menu"/>
-    <br/><span><strong>오버레이</strong> 화면 및 보조메뉴</span>
+    <br/><span><strong>Overlay</strong> Screen and Sub-menu</span>
 </p>
 
-**오버레이**는 기존 점수판을 복제한 것으로, 여러기능이 있습니다!
+**Overlay** is a duplicated scoreboard, and has several functions!
 
-- **이동**: 마우스로 **오버레이**를 드래그하면 위치를 옮길 수 있습니다
-- **크기조절**: 마우스를 **오버레이** 위로 올린 상태에서, **마우스 휠**로 크기를 줄이거나 키울 수 있습니다
-- **보조메뉴**: **오버레이**를 마우스 우클릭하면 보조메뉴가 나옵니다
-    - **'Fixed'** 고정하기: **오버레이**를 고정시킵니다. 고정된 상태면 이동 및 크기조절을 할 수 없습니다. 고정된 상태라면, **Puyo Puyo Tetris**의 창이 움직이면 똑같이 오버레이도 따라갑니다!
-    - **'Reset'** 초기화: 점수를 초기화 합니다. 실수로 누르는 것을 방지하게 위해 '시프트'키를 누른상태에서 눌러야 동작합니다!
-    - **'Close'** 닫기: **오버레이**를 닫습니다
+- **Drag Move**: You can mode **Overlay** using mouse drag
+- **Change Size**: You can do mouse-wheeling to change the size of **Overlay**
+- **Sub-menu**: Left-mouse-click shows pupup menu of **Overlay**
+    - **'Fixed'**: Fix **Overlay** on the screen. When fixed, it can not be moved or resized. And it also follows **Puyo Puyo Tetris** window.
+    - **'Reset'**: Reset all scores. To avoid misclick, it strictly operates under 'Shift + Click'!
+    - **'Close'**: Close **Overlay**
 
 _여기서 소개드린 오버레이는 **송출용 오버레이**가 아닙니다! 방송에서 오버레이를 사용하고 싶으시면 [**'방송설정'**]({{ site.lang_url }}/ko/streaming.html)을 봐주세요!_
 

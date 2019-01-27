@@ -20,6 +20,7 @@ Let us introduce a **bayoen-star** setting for streamer.
 <div class="toc">
     <h2>Contents</h2>
     <ul>
+        <li><a href="#Example">Streaming Examples</a></li>    
         <li><a href="#ChromaKey">Chroma Key Setting</a>
             <ol>
                 <li><a href="#StarChromaKey">Chroma Key in <strong>bayoen-star</strong></a></li>
@@ -41,6 +42,51 @@ Let us introduce a **bayoen-star** setting for streamer.
 </div>
 
 ----
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Example"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## Streaming Examples
+
+The followings are example for **bayoen-star** streaming setting.
+
+<p align="center">
+    <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-stream-ingame"/>
+    <br/><span><strong>For Streaming:</strong> The Simplest Setting</span>
+</p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-with-friend"/>
+    <br/><span><strong>For Tournament:</strong> First to 15 Stars Match</span>
+</p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-c.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-league"/>
+    <br/><span><strong>For Puzzle League:</strong> Result Counting for 10 Wins</span>
+</p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/>
+    <br/><span><strong>Custom:</strong> My Own Scoreboard!</span>
+</p>
+
+Do you want to decorate like this? Just follow easy introduction below!
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
 
 <a name="ChromaKey"> </a>
 <p align="center">

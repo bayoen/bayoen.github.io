@@ -9,6 +9,7 @@ layout: bayoen-star-ko
 <div class="toc">
     <h2>목차</h2>
     <ul>
+        <li><a href="#Example">인터넷 방송화면 예시</a></li>
         <li><a href="#ChromaKey">크로마키 설정</a>
             <ol>
                 <li><a href="#StarChromaKey"><strong>바요엔-스타</strong>에서 크로마키 설정</a></li>
@@ -25,8 +26,7 @@ layout: bayoen-star-ko
                 <li>항상 위에, 자동 숨기기, 텍스트 출력, 점수판 크기 조절, 크로마 키 설정</li>
             </ul>
         </li>
-        <li><a href="#Custom">커스텀 설정</a></li>
-        <li><a href="#Example">인터넷 방송화면 예시</a></li>
+        <li><a href="#Custom">커스텀 설정</a></li>        
     </ul>
 </div>
 
@@ -43,10 +43,38 @@ layout: bayoen-star-ko
 .
 </p>
 
+<a name="Example"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## 인터넷 방송화면 예시
+
+방송에서 사용할 수 있는 예시들을 소개합니다.
+
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-a.png" class="shadow-box" alt="bayoen-star-example-stream-ingame"/>
-    <br/><span><strong>바요엔-스타</strong> 인터넷 방송화면 예시</span>
+    <br/><span><strong>방송용:</strong> 제일 간단한 형태</span>
 </p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-with-friend"/>
+    <br/><span><strong>대회용:</strong> 별 15 선승 경기</span>
+</p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-c.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-league"/>
+    <br/><span><strong>퍼즐리그:</strong> 승/패 집계 10번 이기기</span>
+</p>
+
+<p align="center">
+    <img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/>
+    <br/><span><strong>커스텀:</strong> 나만의 점수판!</span>
+</p>
+
+이렇게 꾸미고 싶으신가요? 아래 설명을 따라하시면 쉽게 할 수 있어요!
 
 <p align="center">
 .<br/><br/>
@@ -256,31 +284,7 @@ OBS나 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 .
 </p>
 
-<a name="Example"> </a>
-<p align="center">
-.<br/><br/>
-.<br/><br/>
-.
-</p>
 
-## 인터넷 방송화면 예시
-
-방송에서 사용할 수 있는 예시들을 소개합니다.
-
-<p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-with-friend"/>
-    <br/><span><strong>대회용:</strong> 별 15 선승 경기</span>
-</p>
-
-<p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-c.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-league"/>
-    <br/><span><strong>퍼즐리그:</strong> 승/패 집계 10번 이기기</span>
-</p>
-
-<p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/>
-    <br/><span><strong>커스텀:</strong> 나만의 점수판!</span>
-</p>
 
 
 <p align="center">

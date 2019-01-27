@@ -309,11 +309,11 @@ Here is the menu of **bayoen-star**
 
 #### Goal 'Target Score to Win'
 
-목표를 정하여 여러 게임동안 점수를 집계하고 승/패를 알려줍니다. 언제나 사용할 수 있고, 특히 친선전이나 대회에서 유용합니다.
+Set a goal and display its result with counted scores. You can enable it anytime, it is very useful for friendly match and tournament.
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-menu-goal.png" class="box" alt="bayoen-star-menu-goal"/>
-    <br/><span>목표점수설정 메뉴</span>
+    <br/><span>Menu of Goal</span>
 </p>
 
 1. **'Set'** 목표설정: 목표설정화면을 불러옵니다. 설정이 완료되면 점수판 위에 목표가 표시됩니다.

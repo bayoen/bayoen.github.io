@@ -182,7 +182,7 @@ If you are using OBS or XSplit, see the guide below!
 Here is specific information of setting guide.
 
 <p align="center">
-    <img src="{{ site.lang_url }}/res/bayoen-star-settings-streaming-ko.png" class="box" alt="bayoen-star-settings-streaming"/>
+    <img src="{{ site.lang_url }}/res/bayoen-star-settings-streaming-en.png" class="box" alt="bayoen-star-settings-streaming"/>
     <br/><span><strong>bayoen-star</strong> Menu for Internet Streaming</span>
 </p>
 

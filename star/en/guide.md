@@ -415,10 +415,10 @@ This is setting window of **bayoen-star**. You can change the appearance and sco
 
 **A. Main Settings**
 1. **Top Flag**: If checked, Set **bayoen-star** top most
-2. **Auto Hide**: If checked, hide scoreboard when you are not in game (**'Working'** status)
-3. **Export Text**: If checked, export score data into text file
-4. **Size Adjustment**: If checked, maximize the size of scoreboard
-5. **Chroma Key**: Set/clear chroma key color for your internet stream
+1. **Auto Hide**: If checked, hide scoreboard when you are not in game (**'Working'** status)
+1. **Export Text**: If checked, export score data into text file
+1. **Size Adjustment**: If checked, maximize the size of scoreboard
+1. **Chroma Key**: Set/clear chroma key color for your internet stream
 
 **B. Score Monitor**
 - **'Star+', 'Crown'** Score: You can edit **'Star+'** and **'Crown'**. 'Star' score is read only!

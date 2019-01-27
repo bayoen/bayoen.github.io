@@ -372,7 +372,7 @@ Set a goal and display its result with counted scores. You can enable it anytime
     - **'Reset'**: Reset all scores. To avoid misclick, it strictly operates under 'Shift + Click'!
     - **'Close'**: Close **Overlay**
 
-_여기서 소개드린 오버레이는 **송출용 오버레이**가 아닙니다! 방송에서 오버레이를 사용하고 싶으시면 [**'방송설정'**]({{ site.lang_url }}/ko/streaming.html)을 봐주세요!_
+_Overlay we just introduced is not for **Streaming**! If you'd like to use our works in your stream, see [**'streaming'**]({{ site.lang_url }}/en/streaming.html)!_
 
 <p align="center">
 .<br/><br/>

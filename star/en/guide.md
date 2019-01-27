@@ -413,20 +413,20 @@ This is setting window of **bayoen-star**. You can change the appearance and sco
     <br/><span><strong>Setting</strong> window</span>
 </p>
 
-**A. 주요설정**
-1. **항상 위에**: 체크하면 **bayoen-star**를 항상 위로 둡니다
-2. **자동 숨기기***: 체크하면 게임 중이 아닐 때 (**'Working'** 상태), 점수판을 숨깁니다
-3. **텍스트 출력***: 체크하면 텍스트 파일로 결과를 출력합니다
-4. **점수판 크기조절***: 체크하면 점수판의 크기를 최대크기로 고정합니다.
-5. **크로마키 설정***: 여러가지 크로마키를 설정할 수 있습니다
+**A. Main Settings**
+1. **Top Flag**: If checked, Set **bayoen-star** top most
+2. **Auto Hide**: If checked, hide scoreboard when you are not in game (**'Working'** status)
+3. **Export Text**: If checked, export score data into text file
+4. **Size Adjustment**: If checked, maximize the size of scoreboard
+5. **Chroma Key**: Set/clear chroma key color for your internet stream
 
-**B. 점수 모니터**
-- **'Star+', 'Crown'** 점수: **'스타+'**와 **'크라운'**을 수정할 수 있습니다. '스타'는 읽기전용입니다!
-- **'Win Count'**: 게임을 이기기 위한 별 개수 입니다. 읽기전용입니다!
-- **'Load'** 불러오기(갱신): 강제로 현재 **'스타+'**와 **'크라운'** 점수를 갱신합니다.
-- **'Save'** 저장: **'스타+'**와 **'크라운'** 점수를 현재 값으로 저장합니다.
+**B. Score Monitor**
+- **'Star+', 'Crown'** Score: You can edit **'Star+'** and **'Crown'**. 'Star' score is read only!
+- **'Win Count'**: Required star score to win a single game. It's read only!
+- **'Load'** (refresh): Refresh scores of **'Star+'** and **'Crown'** in score monitor.
+- **'Save'**: Save current scores of **'Star+'** and **'Crown'**.
 
-_환경설정 중 '*'가 있는 항목은 방송설정을 위한 것이니, 더 자세한 내용은 [**'방송설정'**]({{ site.lang_url }}/ko/streaming.html)을 확인해 주세요!_
+_Do you stream **Puyo Puyo Tetris**? so look at [**'Streaming'**]({{ site.lang_url }}/ko/streaming.html) as well!_
 
 <p align="center">
 .<br/><br/>
@@ -496,7 +496,7 @@ Hotkeys are few and simple.
 .
 </p>
 
-## 방송설정
+## Streaming
 
 Many people ask this, so we split the article!
 

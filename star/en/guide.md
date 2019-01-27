@@ -316,18 +316,19 @@ Set a goal and display its result with counted scores. You can enable it anytime
     <br/><span>Menu of Goal</span>
 </p>
 
-1. **'Set'** 목표설정: 목표설정화면을 불러옵니다. 설정이 완료되면 점수판 위에 목표가 표시됩니다.
-2. **'Remove'** 목표제거: 설정된 목표를 지웁니다. 점수판에서 목표를 숨깁니다
+1. **'Set'**: Open 'Set Goal' screen. If a goal setting is done, show the goal above the scoreboard.
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-menu-goal-set.png" class="box" alt="bayoen-star-menu-goal-set"/>
-    <br/><span>목표설정화면</span>
+    <br/><span>Setting</span>
 </p>
 
-- **'Type'** 타입: 현재 지원하는 목표는 두 가지 입니다.
-    - **FIRST #**: #선승 입니다! #점을 먼저 얻으면 이깁니다.
-    - **TOTAL #**: #점다선승입니다! 선수들의 점수합이 #점이 됐을때 점수가 높은 사람이 이깁니다.
-- **'Counter'** 카운터: 목표점수는 '스타+' 혹은 '크라운'으로 설정할 수 있습니다. 값은 0부터 9999까지 설정할 수 있습니다!
+- **'Type'**: We present two type of goals
+    - **FIRST #**: 'First to **#score**' match! The player who get **#score#** first won.
+    - **TOTAL #**: A match with total **#score**! The plaer who get more scores overall **#score** match.
+- **'Counter'**: You can set 'Star+' counter or 'Crown' counter. Possible interval of the goal is from 0 to 9999!
+
+2. **'Remove'**: Remove all goals and hide it from scoreboard.
 
 <p align="center">
     <span>목표설정이 완료되면 이런 식으로 표시됩니다</span>

@@ -1,5 +1,5 @@
 ---
-layout: bayoen-star-en
+layout: bayoen-star-ja
 ---
 
 # Credit

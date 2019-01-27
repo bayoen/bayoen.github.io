@@ -62,9 +62,9 @@ _Reading this section is enough for streaming. If you need more details, see oth
 .
 </p>
 
-### 1. **bayoen-star**에서 Chroma Key 설정
+### 1. Chroma Key in **bayoen-star**
 
-먼저 **bayoen-star**에서 Chroma Key 설정을 합니다. 'Menu > Settings'에서 chroma key 설정 하시면 됩니다.
+First, set chroma key in **bayoen-star**. Select chroma key in 'Menu > Settings'.
 
 <p align="center">
     <br/><img src="{{ site.lang_url }}/res/bayoen-star-settings-chromakey-selected.png" class="box" alt="bayoen-star-settings-chromakey-selected"/>
@@ -98,18 +98,18 @@ _Reading this section is enough for streaming. If you need more details, see oth
 .
 </p>
 
-### 2. 송출프로그램에서 Chroma Key 설정
+### 2. Chroma Key in Streaming App.
 
-송출프로그램에서 Chroma Key 설정하는 법을 순서대로 알려드립니다.
+Let us introduce how to set chroma key in your streaming application:
 
-1. **'bayoen-star' (bayoen-star.exe)** 창을 캡처합니다.
-1. 캡처한 창을 **bayoen-star**와 같은 색의 Chroma Key로 설정합니다.
-1. 캡처한 창의 제목표시줄을 잘라줍니다. 30픽셀만 잘라주세요!
+1. Capture **'bayoen-star' (bayoen-star.exe)** window
+1. Set chroma key of **bayoen-star** and the captured window with the same color
+1. Crop the title bar of the captured window about 30 pixels!
 
-    _위쪽 영역을 더 자르게 되면 점수판이 잘리게 됩니다. 이 외의 다른 꾸미기는 자유롭게 해주세요!_
-1. 끝났습니다!
+    _If you crop more than 30 pixels, the scoreboard can be cropped. feel free to change anything except that_
+1. Done!
 
-OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 됩니다!
+If you are using OBS or XSplit, see the guide below!
 
 <a name="OBSChromaKey"> </a>
 <p align="center">
@@ -119,23 +119,23 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 </p>
 
 - OBS (Open Broadcaster Software) Capture and Chroma Key
-    1. 메인화면을 송출창에 추가합니다.<br/>
-        - **소스 목록 > 윈도우 캡쳐 > 윈도우 '[bayoen-star.exe]: bayoen-star'**
-    1. **'bayoen-star-캡처'**나 마음에 드는 이름으로 바꿔줍니다.
-    1. **'bayoen-star-캡처'**에 Chroma Key를 설정합니다.<br/>
-        - **우클릭 > 필터 > + > 크로마 키 > 키 색상 형식 > 'bayoen-star'의 Chroma Key와 같은 색**
-        - OBS에서는 **자홍색(magenta)**을 권장합니다
-    1. **'bayoen-star-캡처'**의 제목표시줄을 잘라줍니다.<br/>
-        - **우클릭 > 변환 > 변환 편집 > 자르기 > 위 > 30 픽셀**
-    1. 끝났습니다! **'bayoen-star-캡처'**를 원하는 크기로 원하는 곳에 두면 됩니다!
+    1. Add the main window in OBS.<br/>
+        - **Sources > Window Capture > Window '[bayoen-star.exe]: bayoen-star'**
+    1. Rename it with **'bayoen-star-capture'** or your favorite.
+    1. Set chroma key **'bayoen-star-capture'**.<br/>
+        - **Right-click > Filter > Add '+' > Chroma Key > Key Color Type > The same color of Chroma Key of 'bayoen-star'**
+        - OBS recommends **Magenta**.
+    1. Crop title bar of **'bayoen-star-capture'**.<br/>
+        - **Right-click > Transform > Edit Transform > Crop > Top > 30 Pixels**
+    1. It's done! Place **'bayoen-star-capture'** anywhere with any size!
 
-    _*OBS 윈도우 캡쳐에서 '윈도우 일치 우선순위'는 '창 제목이 일치해야 합니다'로 해주시는게 좋습니다!_
+    _*Tip: In OBS window capture, you need to select 'Window title must match' for 'Window Match Priority'!_
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/obs-chromakey-example-1.png" class="shadow-box" width="48%" alt="obs-chromakey-example-1"/>
     <img src="{{ site.lang_url }}/res/obs-chromakey-example-2.png" class="shadow-box" width="48%" alt="obs-chromakey-example-2"/>
-    <br/><span><strong>OBS</strong> 캡처 및 Chroma Key 설정 적용</span>
-    <br/><span>오버레이가 아닌 메인 창을 캡처하셔야 합니다!</span>
+    <br/><span><strong>OBS</strong> Capture and Chroma Key Setting</span>
+    <br/><span>You have to capture the main window not overlay!</span>
 </p>
 
 
@@ -147,21 +147,21 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 </p>
 
 - XSplit Capture and Chroma Key
-    1. 메인화면을 송출창에 추가합니다.<br/>
-        - **소스 추가 > Screen 캡쳐 > 윈도우 캡쳐 'bayoen-star' (bayoen-star.exe)**
-    1. **'bayoen-star-캡처'**나 마음에 드는 이름으로 바꿔줍니다.
-    1. **'bayoen-star-캡처'**에 Chroma Key를 설정합니다.<br/>
-        - **설정 > 색 > 키 > Chroma Key > 'bayoen-star'의 Chroma Key와 같은 색**
-        - XSplit에서는 **초록색(Green), 파란색(Blue)**을 권장합니다
-    1. **'bayoen-star-캡처'**의 제목표시줄을 잘라줍니다.<br/>
-        - **설정 > 레이아웃 > 사진/삽화의 불필요한 부분 다듬기 > 상단 > 39 포인트**
-    1. 끝났습니다! **'bayoen-star-캡처'**를 원하는 크기로 원하는 곳에 두면 됩니다!
+    1. Add the main window in XSplit.<br/>
+        - **Add source > Screen capture > Window Capture 'bayoen-star (bayoen-star.exe)'**
+    1. Rename it with **'bayoen-star-capture'** or your favorite.
+    1. Set chroma key **'bayoen-star-capture'**.<br/>
+        - **Settings > Color > Keying > Chroma Key > The same color of Chroma Key of 'bayoen-star'**
+        - XSplit recommends **Green, Blue**
+    1. Crop title bar of **'bayoen-star-capture'**.<br/>
+        - **Settings > Layout > Cropping > Top > 39 Point (30 Pixels)**
+    1. It's done! Place **'bayoen-star-capture'** anywhere with any size!
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/xsplit-chromakey-example-1.png" class="shadow-box" width="48%" alt="xsplit-chromakey-example-1"/>
     <img src="{{ site.lang_url }}/res/xsplit-chromakey-example-2.png" class="shadow-box" width="48%" alt="xsplit-chromakey-example-2"/>
-    <br/><span><strong>XSplit</strong> 캡처 및 Chroma Key 적용</span>
-    <br/><span>오버레이가 아닌 메인 창을 캡처하셔야 합니다!</span>
+    <br/><span><strong>XSplit</strong> Capture and Chroma Key Setting</span>
+    <br/><span>You have to capture the main window not overlay!</span>
 </p>
 
 <p align="center">
@@ -177,38 +177,38 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 .
 </p>
 
-## 기타 세부 설정
+## Detail Setting
 
-사용법에서 설명드렸던 내용을 좀 더 자세히 소개해드립니다.
+Here is specific information of setting guide.
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-settings-streaming-ko.png" class="box" alt="bayoen-star-settings-streaming"/>
-    <br/><span>인터넷 방송을 위한 <strong>bayoen-star</strong>의 메뉴</span>
+    <br/><span><strong>bayoen-star</strong> Menu for Internet Streaming</span>
 </p>
 
-1. **항상 위에**: 체크하면 **bayoen-star**를 항상 위로 둡니다. 송출 중에 조작하기 편하게 항상 위에 띄울 수 있습니다.
-1. **자동 숨기기**: 체크하면 **Puyo Puyo Tetris**가 꺼져 있을 때 (**'Offline'** 상태), 점수판을 숨깁니다. 송출 중에 Chroma Key 설정이 돼있다면, **Puyo Puyo Tetris**가 꺼져 있을 때, 자연스럽게 점수판을 숨겨줍니다.
-1. **텍스트 출력**: 체크하면 텍스트 파일에 각 데이터를 숫자로 출력합니다. 데이터가 필요하신 분 혹은 커스텀 점수판이 필요한 분에게 유용합니다.
-    - **bayoen-star** 경로의 **'export'**에 **UTF-8** 형식으로 출력합니다.
+1. **Top Flag**: If checked, Set **bayoen-star** top most. It help to control easily in streaming.
+1. **Auto Hide**: If checked, hide scoreboard when you are not in game (**'Working'** status). In your stream, It hides scoreboard when **Puyo Puyo Tetris** is offline.
+1. **Export Text**: If checked, export score data into text file. It helps who need score data or would like to make a custom scoreboard.
+    - It export files in **'export'** directory of **bayoen-star**'s path with **UTF-8** format.
 
     <p align="center">
         <img src="{{ site.lang_url }}/res/bayoen-star-export-list.png" class="shadow-box" alt="bayoen-star-export-list"/>
-        <br/><span>출력파일들의 목록</span>
+        <br/><span>List of exporting file</span>
     </p>
 
-    _더 자세한 내용은 [커스텀 설정](#Custom)을 살펴보세요!_
-1. **점수판 크기조절**: 체크하면 점수판의 크기를 최대크기로 고정합니다. **bayoen-star**의 점수판이 작아서 **Puyo Puyo Tetris**의 점수판을 온전히 가리지 못할 때 유용합니다. 
+    _See [**'Custom Setting'**](#Custom) for more details!_
+1. **Size Adjustment**: If checked, maximize the size of scoreboard. It is useful when the scoreboard of **bayoen-star** does not fit the scoreboard of **Puyo Puyo Tetris**. 
 
     <p align="center">
         <img src="{{ site.lang_url }}/res/bayoen-star-example-setting-fit.gif" class="shadow-box" alt="bayoen-star-example-setting-fit"/>
-        <br/><span>점수판 크기조절</span>
+        <br/><span>Size Adjustment of Scoreboard</span>
     </p>
 
     <p align="center">
         <br/><img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-ingame-league"/>
-        <br/><span><strong>인터넷 방송화면 캡처 #2:</strong> <strong>bayoen-star</strong> 점수판 크기 조절</span>
+        <br/><span><strong>Streaming Capture #2:</strong> <strong>bayoen-star</strong> Size Adjustment of Scoreboard</span>
     </p>
-1. **Chroma Key 설정**: 여러가지 Chroma Key를 설정할 수 있습니다. 자세한 내용은 [Chroma Key 설정](#ChromaKey)을 살펴보세요!
+1. **Chroma Key**: Set/clear chroma key color for your internet stream. See [Chroma Key Setting](#ChromaKey)!
 
 <p align="center">
 .<br/><br/>
@@ -223,18 +223,18 @@ OBS와 XSplit를 사용하고 계시다면 아래의 설명에 따라하시면 �
 .
 </p>
 
-## 커스텀 설정
+## Custom Setting
 
-나만의 송출용 스킨은 가능할까요? 물론 가능합니다! **bayoen-star**에서 텍스트 형태로 점수를 실시간 출력을 하고, 그 파일을 송출 프로그램으로 읽어서 표시할 수 있습니다. 커스텀 스킨은 송출 프로그램으로 구성하시고 점수는 '텍스트 파일 읽기' 기능으로 불러오시면 됩니다.
+Can I make my own skin for streaming? Yes, we can! **bayoen-star** can export score data with text file in real-time, the stream application can read it and display the scores. You should make a custom skin using the stream app. and show scores using 'Read from file' function.
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-export-list.png" class="shadow-box" alt="bayoen-star-export-list"/>
-    <br/><span>출력파일들의 목록</span>
+    <br/><span>List of exporting file</span>
 </p>
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-custom.png" class="box" alt="bayoen-star-example-custom"/>
-    <br/><span><strong>인터넷 방송화면 캡처 #3:</strong> <strong>bayoen-star</strong> 커스텀 점수판 캡처</span>
+    <br/><span><strong>Streaming Capture #3:</strong> <strong>bayoen-star</strong> Custom Scoreboard Capture</span>
 </p>
 
 

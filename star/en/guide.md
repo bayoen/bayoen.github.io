@@ -354,7 +354,7 @@ Set a goal and display its result with counted scores. You can enable it anytime
 .
 </p>
 
-#### Overlay: 점수판 오버레이
+#### Overlay 'Scoreboard over **Puyo Puyo Tetris**'
 
 **bayoen-star**은 게임화면 위에 띄울 수 없습니다... 대신, 투명한 **오버레이** 점수판을 띄울 수 있습니다!
 

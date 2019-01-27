@@ -10,7 +10,7 @@ layout: bayoen-star-ko
     <h2>목차</h2>
     <ul>
         <li><a href="#ChromaKey">크로마키 설정</a>
-            <ul>
+            <ol>
                 <li><a href="#StarChromaKey"><strong>바요엔-스타</strong>에서 크로마키 설정</a></li>
                 <li><a href="#StreamChromaKey">송출프로그램에서 크로마키 설정</a>
                     <ul>
@@ -18,7 +18,7 @@ layout: bayoen-star-ko
                         <li><a href="#XSplitChromaKey">XSplit 캡처 및 크로마키 설정</a></li>
                     </ul>
                 </li>
-            </ul>
+            </ol>
         </li>
         <li><a href="#Detail">기타 세부 설정</a>
             <ul>

@@ -500,7 +500,7 @@ Hotkeys are few and simple.
 
 Many people ask this, so we split the article!
 
-See [Here]({{ site.lang_url }}/en/streaming.html) for streaming setting.
+See [**Here**]({{ site.lang_url }}/en/streaming.html) for streaming setting.
 
 <p align="center">
 .<br/><br/>

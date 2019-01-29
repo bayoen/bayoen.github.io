@@ -61,7 +61,7 @@ layout: bayoen-star-ko
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-with-friend"/>
-    <br/><span><strong>대회용:</strong> 별 15 선승 경기</span>
+    <br/><span><strong>대회용, 친선전용:</strong> 별 15 선승 경기</span>
 </p>
 
 <p align="center">

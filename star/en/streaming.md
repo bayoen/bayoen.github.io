@@ -56,7 +56,7 @@ The followings are example for **bayoen-star** streaming setting.
 
 <p align="center">
     <img src="{{ site.lang_url }}/res/bayoen-star-example-ingame-league-b.png" class="shadow-box" alt="bayoen-star-example-stream-ingame-with-friend"/>
-    <br/><span><strong>For Tournament:</strong> First to 15 Stars Match</span>
+    <br/><span><strong>For Tournament, Friendly Match:</strong> First to 15 Stars Match</span>
 </p>
 
 <p align="center">

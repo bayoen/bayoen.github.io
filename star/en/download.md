@@ -15,7 +15,7 @@ layout: bayoen-star-en
 </p>
 
 1. Latest: You can get the latest version of **bayoen-star**.    
-2. Releases: It's a list of all **bayoen-star** releases. Take any version you want!
+2. Releases: It's a list of all **bayoen-star** releases. If you want previous version, see here!
 3. Source Code: **bayoen-star** is open-sourced project. If you need the code, feel free to download it and please commit any contributions!
 
 <p align="center">

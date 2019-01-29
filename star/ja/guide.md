@@ -150,7 +150,7 @@ Shall we be more specific? We listed all functinoals of **bayoen-star**. Please 
         </li>
         <li><a href="#Troubleshooting">Trouble Shooting</a>
             <ul>
-                <li><strong>bayoen-star</strong> all reset</li>
+                <li><strong>bayoen-star</strong> All Reset</li>
             </ul>
         </li>        
     </ul>
@@ -415,10 +415,10 @@ This is setting window of **bayoen-star**. You can change the appearance and sco
 
 **A. Main Settings**
 1. **Top Flag**: If checked, Set **bayoen-star** top most
-2. **Auto Hide**: If checked, hide scoreboard when you are not in game (**'Working'** status)
-3. **Export Text**: If checked, export score data into text file
-4. **Size Adjustment**: If checked, maximize the size of scoreboard
-5. **Chroma Key**: Set/clear chroma key color for your internet stream
+1. **Auto Hide**: If checked, hide scoreboard when you are not in game (**'Working'** status)
+1. **Export Text**: If checked, export score data into text file
+1. **Size Adjustment**: If checked, maximize the size of scoreboard
+1. **Chroma Key**: Set/clear chroma key color for your internet stream
 
 **B. Score Monitor**
 - **'Star+', 'Crown'** Score: You can edit **'Star+'** and **'Crown'**. 'Star' score is read only!
@@ -501,6 +501,37 @@ Hotkeys are few and simple.
 Many people ask this, so we split the article!
 
 See [**Here**]({{ site.lang_url }}/en/streaming.html) for streaming setting.
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="Troubleshooting"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+# Trouble Shooting
+
+## **bayoen-star** All Reset
+
+- Can't find overlay!
+- The scoreboard is broken!
+- Something wrong!
+
+Then, reset **bayoen-star** completely!
+
+1. First, turn off **bayoen-star**
+1. Delete **data.json** and **pref.json**, if they're exist
+1. turn on **bayoen-star**
+1. Done!
+
+_All Reset function will be added on next update_
+
 
 <p align="center">
 .<br/><br/>

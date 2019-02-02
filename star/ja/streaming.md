@@ -151,6 +151,7 @@ If you are using OBS or XSplit, see the guide below!
 </p>
 
 - OBS (Open Broadcaster Software) Capture and Chroma Key
+<br/><br/>        
     1. Add the main window in OBS.<br/>
         - **Sources > Window Capture > Window '[bayoen-star.exe]: bayoen-star'**
         <br/><br/>
@@ -183,6 +184,7 @@ If you are using OBS or XSplit, see the guide below!
 </p>
 
 - XSplit Capture and Chroma Key
+<br/><br/>
     1. Add the main window in XSplit.<br/>
         - **Add source > Screen capture > Window Capture 'bayoen-star (bayoen-star.exe)'**
         <br/><br/>

@@ -9,13 +9,13 @@ layout: bayoen-star-en
 <br/><i>*Please use auto-update for the latest version<strong>'v{{ site.latest_version }}'</strong>, we are adding new things.</i>
 
 <p align="center">
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star.zip" class="in-glow-btn"><strong>1. Latest</strong></a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star-{{ site.latest_kernel }}.zip" class="in-glow-btn"><strong>1. Latest</strong></a>
     <a href="https://github.com/bayoen/bayoen-star-exe/releases" target="_blank" class="in-btn">2. Releases*</a>
     <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">3. Source Code*</a>
 </p>
 
-1. Latest: You can get the latest version of **bayoen-star**.    
-2. Releases: It's a list of all **bayoen-star** releases. If you want previous version, see here!
+1. Latest: You can get the latest version of **bayoen-star**. After v0.1, autoupdates are supported!
+2. Releases: It's a list of all **bayoen-star** releases.
 3. Source Code: **bayoen-star** is open-sourced project. If you need the code, feel free to download it and please commit any contributions!
 
 <p align="center">
@@ -28,8 +28,8 @@ layout: bayoen-star-en
 
 Download, unzip and run!
 
-1. Get **'bayoen-star.zip'** via download link.
-2. Unzip **'bayoen-star.zip'** to proper path.
+1. Get **'bayoen-star-{{ site.latest_kernel }}.zip'** via download link.
+2. Unzip **'bayoen-star-{{ site.latest_kernel }}.zip'** to proper path.
 3. Run **'bayoen-star.exe'** from unzipped path. It's done!
 4. For more details, see **'[Guide]({{ site.lang_url }}/en/guide.html)'**!
 

@@ -30,7 +30,7 @@ Please select **'English'** above!
 
 **'bayoen-star'** is counting star tool for **Puyo Puyo Tetris** as sub-project of ['bayoen']({{ site.home_url }}).
 
-We're trying to translate the script into various languages! If you'd like to help us with your unique language, please come [Discord](https://discord.gg/rxW5UKx) and call **@SemiR4in#0001**.
+We're trying to translate the script into various languages! If you'd like to help us with your unique language, please come [Discord](https://discord.gg/rxW5UKx) and find **@SemiR4in#0001**.
 
 <p align="center">
 .<br/><br/>

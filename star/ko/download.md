@@ -6,7 +6,7 @@ layout: bayoen-star-ko
 
 ## 다운로드 링크
 <br/> **바요엔-스타**는 아래 링크에서 다운로드하시면 됩니다.
-<br/><i>*항상 최신버전 ('v{{ site.latest_version }}')을 유지해 주세요! 새 기능이 종종 추가됩니다.</i>
+<br/><i>*최신버전을 위해 자동업데이트를 ('v{{ site.latest_version }}')을 유지해 주세요! 종종 새 기능을 추가하고 있습니다.</i>
 
 <p align="center">
     <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star.zip" class="in-glow-btn"><strong>1. 최신버전</strong></a>
@@ -28,8 +28,8 @@ layout: bayoen-star-ko
 
 다운로드, 압축풀기, 실행!
 
-1. 다운로드 링크를 클릭해서 바요엔-스타 **'bayoen-star-{{ site.latest_version }}.zip'**을 내려받습니다.
-2. 압축파일 **'bayoen-star-{{ site.latest_version }}.zip'**을 적당한 경로에 압축을 풀어줍니다.
+1. 다운로드 링크를 클릭해서 바요엔-스타 **'bayoen-star.zip'**을 내려받습니다.
+2. 압축파일 **'bayoen-star.zip'**을 적당한 경로에 압축을 풀어줍니다.
 3. 압축해제한 폴더에서 **'bayoen-star.exe'**를 실행합니다. 끝입니다!
 4. 자세한 내용은 **'[사용법]({{ site.lang_url }}/ko/guide.html)'**을 확인해 주세요!
 

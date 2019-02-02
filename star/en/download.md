@@ -6,7 +6,7 @@ layout: bayoen-star-en
 
 ## Download Link
 <br/>You can download **bayoen-star** from following links:
-<br/><i>*Please use the latest version<strong>'v{{ site.latest_version }}'</strong>, we are adding new things.</i>
+<br/><i>*Please use auto-update for the latest version<strong>'v{{ site.latest_version }}'</strong>, we are adding new things.</i>
 
 <p align="center">
     <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star.zip" class="in-glow-btn"><strong>1. Latest</strong></a>
@@ -28,8 +28,8 @@ layout: bayoen-star-en
 
 Download, unzip and run!
 
-1. Get **'bayoen-star-{{ site.latest_version }}.zip'** via download link.
-2. Unzip **'bayoen-star-{{ site.latest_version }}.zip'** to proper path.
+1. Get **'bayoen-star.zip'** via download link.
+2. Unzip **'bayoen-star.zip'** to proper path.
 3. Run **'bayoen-star.exe'** from unzipped path. It's done!
 4. For more details, see **'[Guide]({{ site.lang_url }}/en/guide.html)'**!
 

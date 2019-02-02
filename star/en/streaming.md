@@ -153,7 +153,7 @@ If you are using OBS or XSplit, see the guide below!
 - OBS (Open Broadcaster Software) Capture and Chroma Key
     1. Add the main window in OBS.<br/>
         - **Sources > Window Capture > Window '[bayoen-star.exe]: bayoen-star'**
-
+        <br/><br/>
 
     1. Rename it with **'bayoen-star-capture'** or your favorite.
 
@@ -161,7 +161,7 @@ If you are using OBS or XSplit, see the guide below!
     1. Set chroma key **'bayoen-star-capture'**.<br/>
         - **Right-click > Filter > Add '+' > Chroma Key > Key Color Type > The same color of Chroma Key of 'bayoen-star'**
         - OBS recommends **Magenta**.
-
+        <br/><br/>
 
     1. It's done! Place **'bayoen-star-capture'** anywhere with any size!
 
@@ -185,15 +185,15 @@ If you are using OBS or XSplit, see the guide below!
 - XSplit Capture and Chroma Key
     1. Add the main window in XSplit.<br/>
         - **Add source > Screen capture > Window Capture 'bayoen-star (bayoen-star.exe)'**
+        <br/><br/>
 
-        
     1. Rename it with **'bayoen-star-capture'** or your favorite.
 
 
     1. Set chroma key **'bayoen-star-capture'**.<br/>
         - **Settings > Color > Keying > Chroma Key > The same color of Chroma Key of 'bayoen-star'**
         - XSplit recommends **Green, Blue**
-
+        <br/><br/>
 
     1. It's done! Place **'bayoen-star-capture'** anywhere with any size!
 

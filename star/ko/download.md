@@ -6,7 +6,7 @@ layout: bayoen-star-ko
 
 ## 다운로드 링크
 <br/> **바요엔-스타**는 아래 링크에서 다운로드하시면 됩니다.
-<br/><i>*최신버전을 위해 자동업데이트를 ('v{{ site.latest_version }}')을 유지해 주세요! 종종 새 기능을 추가하고 있습니다.</i>
+<br/><i>*최신버전('v{{ site.latest_version }}')을 위해 자동업데이트를 유지해 주세요! 종종 새 기능을 추가하고 있습니다.</i>
 
 <p align="center">
     <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star.zip" class="in-glow-btn"><strong>1. 최신버전</strong></a>

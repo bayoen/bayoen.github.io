@@ -160,8 +160,6 @@ If you are using OBS or XSplit, see the guide below!
     1. Set chroma key **'bayoen-star-capture'**.<br/>
         - **Right-click > Filter > Add '+' > Chroma Key > Key Color Type > The same color of Chroma Key of 'bayoen-star'**
         - OBS recommends **Magenta**.
-    <!-- 1. Crop title bar of **'bayoen-star-capture'**.<br/>
-        - **Right-click > Transform > Edit Transform > Crop > Top > 30 Pixels** -->
     1. It's done! Place **'bayoen-star-capture'** anywhere with any size!
 
     _*Tip: In OBS window capture, you need to select 'Window title must match' for 'Window Match Priority'!_
@@ -188,8 +186,6 @@ If you are using OBS or XSplit, see the guide below!
     1. Set chroma key **'bayoen-star-capture'**.<br/>
         - **Settings > Color > Keying > Chroma Key > The same color of Chroma Key of 'bayoen-star'**
         - XSplit recommends **Green, Blue**
-    <!-- 1. Crop title bar of **'bayoen-star-capture'**.<br/>
-        - **Settings > Layout > Cropping > Top > 39 Point (30 Pixels)** -->
     1. It's done! Place **'bayoen-star-capture'** anywhere with any size!
 
 <p align="center">

@@ -139,9 +139,6 @@ Let us introduce how to set chroma key in your streaming application:
 
 1. Capture **'bayoen-star' (bayoen-star.exe)** window
 1. Set chroma key of **bayoen-star** and the captured window with the same color
-<!-- 1. Crop the title bar of the captured window about 30 pixels!
-
-    _If you crop more than 30 pixels, the scoreboard can be cropped. feel free to change anything except that_ -->
 1. Done!
 
 If you are using OBS or XSplit, see the guide below!
@@ -160,8 +157,6 @@ If you are using OBS or XSplit, see the guide below!
     1. Set chroma key **'bayoen-star-capture'**.<br/>
         - **Right-click > Filter > Add '+' > Chroma Key > Key Color Type > The same color of Chroma Key of 'bayoen-star'**
         - OBS recommends **Magenta**.
-    <!-- 1. Crop title bar of **'bayoen-star-capture'**.<br/>
-        - **Right-click > Transform > Edit Transform > Crop > Top > 30 Pixels** -->
     1. It's done! Place **'bayoen-star-capture'** anywhere with any size!
 
     _*Tip: In OBS window capture, you need to select 'Window title must match' for 'Window Match Priority'!_

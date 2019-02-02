@@ -9,7 +9,7 @@ layout: bayoen-star-en
 <br/><i>*Please use the latest version<strong>'v{{ site.latest_version }}'</strong>, we are adding new things.</i>
 
 <p align="center">
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star-{{ site.latest_version }}.zip" class="in-glow-btn"><strong>1. Latest</strong></a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star.zip" class="in-glow-btn"><strong>1. Latest</strong></a>
     <a href="https://github.com/bayoen/bayoen-star-exe/releases" target="_blank" class="in-btn">2. Releases*</a>
     <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">3. Source Code*</a>
 </p>

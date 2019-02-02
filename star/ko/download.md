@@ -9,7 +9,7 @@ layout: bayoen-star-ko
 <br/><i>*항상 최신버전 ('v{{ site.latest_version }}')을 유지해 주세요! 새 기능이 종종 추가됩니다.</i>
 
 <p align="center">
-    <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star-{{ site.latest_version }}.zip" class="in-glow-btn"><strong>1. 최신버전</strong></a>
+    <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star.zip" class="in-glow-btn"><strong>1. 최신버전</strong></a>
     <a href="https://github.com/bayoen/bayoen-star-exe/releases" target="_blank" class="in-btn">2. 릴리즈*</a>
     <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">3. 소스코드*</a>
 </p>

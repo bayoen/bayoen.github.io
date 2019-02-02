@@ -9,7 +9,7 @@ layout: bayoen-star-ja
 <br/><i>*機能追加/バグ修正のために常に最新バージョンを維持してください! 最新バージョンは<strong>'v{{ site.latest_version }}'</strong>です</i>
 
 <p align="center">
-        <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star-{{ site.latest_version }}.zip" class="in-glow-btn"><strong>1. 最新バージョン</strong></a>
+        <a href="https://github.com/bayoen/bayoen-star-exe/releases/download/{{ site.latest_version }}/bayoen-star.zip" class="in-glow-btn"><strong>1. 最新バージョン</strong></a>
     <a href="https://github.com/bayoen/bayoen-star-exe/releases" target="_blank" class="in-btn">2. リリース*</a>
     <a href="https://github.com/bayoen/bayoen-star-exe" target="_blank" class="in-btn">3. ソースコード*</a>
 </p>

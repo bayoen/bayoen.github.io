@@ -22,7 +22,7 @@ layout: bayoen-star-lang
 <!-- **바요엔-스타**는 **뿌요뿌요 테트리스**의 별카운터 프로그램으로, ['바요엔']({{ site.home_url }})의 세부프로젝트입니다.<br/>
 위의 **'한국어'**를 눌러주세요!
 
-**'bayoen-star'** is counting star tool for **Puyo Puyo Tetris** as sub-project of ['bayoen']({{ site.home_url }}).<br/>
+**'bayoen-star'** is a counting star tool for **Puyo Puyo Tetris** as a sub-project of ['bayoen']({{ site.home_url }}).<br/>
 Please select **'English'** above!
 
 **ばよえ〜ん・スター**は**ぷよぷよテトリス**のスターカウンタープログラムで, ['ばよえ〜ん']({{ site.home_url }})の細部プロジェクトです。<br/>

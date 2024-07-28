@@ -7,6 +7,7 @@ layout: bayoen-star-ja
 ## Team bayoen
 - **Mayu Laierlence** (https://github.com/minacle)
 - **SemiRain** (https://github.com/SemiR4in)
+  - maintenance: **jyje** (https://github.com/jyje)
 
 ## Useful Packages
 - WPF UX: **mahapps.metro** (https://mahapps.com/, https://github.com/MahApps/MahApps.Metro)
@@ -18,7 +19,7 @@ _We do not modify any memories and ruin any balance of the game_
 ## Images and Icons
 - Data mining from Puyo Puyo Tetris
 - **Get your Gu's** (https://dailycarbuncle.tumblr.com/)
-- **icons8** (https://icons8.com/icon/30623/globe, https://icons8.com/icon/55741/south-korea, https://icons8.com/icon/30539/usa, https://icons8.com/icon/30510/japan)
+- **icons8** (https://icons8.com/icon/30623/home, https://icons8.com/icon/55741/south-korea, https://icons8.com/icon/30539/usa, https://icons8.com/icon/30510/japan)
 
 ## Fonts
 _Fonts we used are not embedded into the client and we complied with the font usage policy and license_

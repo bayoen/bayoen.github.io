@@ -7,6 +7,7 @@ layout: bayoen-star-ko
 ## 팀 바요엔
 - **Mayu Laierlence** (https://github.com/minacle)
 - **SemiRain** (https://github.com/SemiR4in)
+  - maintenance: **jyje** (https://github.com/jyje)
 
 ## 사용한 패키지들
 - WPF UX: **mahapps.metro** (https://mahapps.com/, https://github.com/MahApps/MahApps.Metro)
@@ -18,7 +19,7 @@ _게임의 메모리나 밸런스에 영향을 주지 않습니다_
 ## 이미지와 아이콘
 - **뿌요뿌요 테트리스** 데이터 추출
 - **Get your Gu's** ([https://dailycarbuncle.tumblr.com/](https://dailycarbuncle.tumblr.com/))
-- **icons8** (https://icons8.com/icon/30623/globe, https://icons8.com/icon/55741/south-korea, https://icons8.com/icon/30539/usa, https://icons8.com/icon/30510/japan)
+- **icons8** (https://icons8.com/icon/30623/home, https://icons8.com/icon/55741/south-korea, https://icons8.com/icon/30539/usa, https://icons8.com/icon/30510/japan)
 
 ## 글꼴
 _Fonts we used are not embedded into the client and we complied with the font usage policy and license_

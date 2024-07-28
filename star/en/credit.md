@@ -7,6 +7,7 @@ layout: bayoen-star-en
 ## Team bayoen
 - **Mayu Laierlence** (https://github.com/minacle)
 - **SemiRain** (https://github.com/SemiR4in)
+  - maintenance: **jyje** (https://github.com/jyje)
 
 ## Useful Packages
 - WPF UX: **mahapps.metro** (https://mahapps.com/, https://github.com/MahApps/MahApps.Metro)

@@ -7,6 +7,7 @@ layout: bayoen-star-ko
 ## 팀 바요엔
 - **Mayu Laierlence** (https://github.com/minacle)
 - **SemiRain** (https://github.com/SemiR4in)
+  - maintenance: **jyje** (https://github.com/jyje)
 
 ## 사용한 패키지들
 - WPF UX: **mahapps.metro** (https://mahapps.com/, https://github.com/MahApps/MahApps.Metro)

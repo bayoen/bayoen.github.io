@@ -10,17 +10,26 @@ layout: bayoen-star-ko
     <h2>목차</h2>
     <ul>
         <li><a href="#Example">인터넷 방송화면 예시</a></li>
-        <li><a href="#ChromaKey">크로마키 설정</a>
+        <li><a href="#DisplayCapture"><strong>디스플레이 캡처</strong>일 때(<strong>컴퓨터 2대</strong>)</a>
             <ol>
-                <li><a href="#StarChromaKey"><strong>바요엔-스타</strong>에서 크로마키 설정</a></li>
-                <li><a href="#StreamChromaKey">송출프로그램에서 크로마키 설정</a>
-                    <ul>
-                        <li><a href="#OBSChromaKey">OBS 캡처 및 크로마키 설정</a></li>
-                        <li><a href="#XSplitChromaKey">XSplit 캡처 및 크로마키 설정</a></li>
-                    </ul>
-                </li>
+                <li>오버레이 띄우기</li>
             </ol>
         </li>
+        <li><a href="#WindowCapture"><strong>윈도우 캡처</strong>일 때 (<strong>컴퓨터 1대</strong>)</a>
+            <ol>
+                <li><a href="#ChromaKey">크로마키 설정</a>
+                    <ol>
+                        <li><a href="#StarChromaKey"><strong>바요엔-스타</strong>에서 크로마키 설정</a></li>
+                        <li><a href="#StreamChromaKey">송출프로그램에서 크로마키 설정</a>
+                            <ul>
+                                <li><a href="#OBSChromaKey">OBS 캡처 및 크로마키 설정</a></li>
+                                <li><a href="#XSplitChromaKey">XSplit 캡처 및 크로마키 설정</a></li>
+                            </ul>
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </li>        
         <li><a href="#Detail">기타 세부 설정</a>
             <ul>
                 <li>항상 위에, 자동 숨기기, 텍스트 출력, 점수판 크기 조절, 크로마 키 설정</li>
@@ -29,11 +38,6 @@ layout: bayoen-star-ko
         <li><a href="#Custom">커스텀 설정</a></li>        
     </ul>
 </div>
-
-<!-- ## 목차
-- [크로마키 설정](#ChromaKey)
-    1. [**바요엔-스타**에서 크로마키 설정](#StarChromaKey)
-    2. [송출프로그램에서 크로마키 설정](#StreamChromaKey) -->
 
 ----
 
@@ -82,6 +86,36 @@ layout: bayoen-star-ko
 .
 </p>
 
+<a name="DisplayCapture"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## **디스플레이 캡처**일 때(**컴퓨터 2대**)
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+<a name="WindowCapture"> </a>
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
+
+## **윈도우 캡처**일 때(**컴퓨터 1대**)
+
+
+<p align="center">
+.<br/><br/>
+.<br/><br/>
+.
+</p>
 
 <a name="ChromaKey"> </a>
 <p align="center">
@@ -90,7 +124,7 @@ layout: bayoen-star-ko
 .
 </p>
 
-## 크로마키 설정
+### 크로마키 설정
 
 **바요엔-스타**를 방송용으로 쓸 때, **'오버레이'**가 아니라 **메인창**을 캡처해야 합니다. '나는 오버레이로 보고, 시청자들은 캡처된 메인창으로 본다'라고 생각하시면 됩니다!
 
@@ -103,7 +137,7 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
 .
 </p>
 
-### 1. **바요엔-스타**에서 크로마키 설정
+#### 1. **바요엔-스타**에서 크로마키 설정
 
 먼저 **바요엔-스타**에서 크로마키 설정을 합니다. '메뉴(Menu) > 설정(Settings)'에서 크로마키(Chroma Key) 설정 하시면 됩니다.
 
@@ -139,7 +173,7 @@ _이 설정만 적용하셔도 충분히 송출용으로 쓸 수 있습니다. �
 .
 </p>
 
-### 2. 송출프로그램에서 크로마키 설정
+#### 2. 송출프로그램에서 크로마키 설정
 
 송출프로그램에서 크로마키 설정하는 법을 순서대로 알려드립니다.
 

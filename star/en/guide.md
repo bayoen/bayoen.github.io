@@ -7,7 +7,7 @@ layout: bayoen-star-en
 Let us give you instructions for **bayoen-star**. If you are in hurry, check 'Summary,' or look at 'More Details!'
 
 <div class="toc">
-    <h2>Contents</h2>
+    <h2>Content</h2>
     <ul>
         <li><a href="#Summary">Summary</a></li>
         <li><a href="#Details">More Details</a></li>
@@ -127,10 +127,10 @@ And also, there is [**demo video**](https://www.youtube.com/playlist?list=PLK_vO
 
 ## More Details
 
-Shall we be more specific? We listed all functinoals of **bayoen-star**. Please check one by one!
+Shall we be more specific? We listed all functions of **bayoen-star**. Please check one by one!
 
 <div class="toc-sub">
-    <h2>Detail Contents</h2>
+    <h2>Detail Content</h2>
     <ul>
         <li><a href="#Main">Main Window</a>
             <ul>
@@ -325,7 +325,7 @@ Set a goal and display its result with counted scores. You can enable it anytime
 
 - **'Type'**: We present two type of goals
     - **FIRST #**: 'First to **#score**' match! The player who get **#score#** first won.
-    - **TOTAL #**: A match with total **#score**! The plaer who get more scores overall **#score** match.
+    - **TOTAL #**: A match with total **#score**! The player who get more scores overall **#score** match.
 - **'Counter'**: You can set 'Star+' counter or 'Crown' counter. Possible interval of the goal is from 0 to 9999!
 
 2. **'Remove'**: Remove all goals and hide it from scoreboard.

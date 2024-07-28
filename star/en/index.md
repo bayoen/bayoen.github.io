@@ -73,7 +73,7 @@ bayoen-star do not modify memories inside of Puyo Puyo Tetris.
 
 _Environment for dev. and testing is Windows 10 x64 (.Net Framework 4.5). This project has no any commercial, it's just fan-made. All secondary copyrights be belong to SEGA! If SEGA order us to close this project, we sadly shall do so._
 
-**'bayoen-star'** is sub-project of ['bayoen']({{ site.home_url }}).
+**'bayoen-star'** is sub-project of ['bayoen']({{ site.home_url }}). And it's [**open source**](https://github.com/bayoen)!
 
 <p align="center">
 .<br/><br/>

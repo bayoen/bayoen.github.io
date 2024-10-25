@@ -7,7 +7,7 @@ layout: bayoen-star-ja
 ## Team bayoen
 - **Mayu Laierlence** (https://github.com/minacle)
 - **SemiRain** (https://github.com/SemiR4in)
-  - maintenance: **jyje** (https://github.com/jyje)
+- **jyje** (https://github.com/jyje) (current maintainer)
 
 ## Useful Packages
 - WPF UX: **mahapps.metro** (https://mahapps.com/, https://github.com/MahApps/MahApps.Metro)
@@ -47,7 +47,7 @@ _Alphabetically, people who advised, tested, gave ideas to bayoen_
 
 _If we missed someone, please let us know. And also, if you dislike to be recorded here, please let us know_
 
-contact: the.semirain@gmail.com
+contact: jyjeon@outlook.com
 
 <p align="center">
 .<br/><br/>

@@ -7,7 +7,7 @@ layout: bayoen-star-ko
 ## 팀 바요엔
 - **Mayu Laierlence** (https://github.com/minacle)
 - **SemiRain** (https://github.com/SemiR4in)
-  - maintenance: **jyje** (https://github.com/jyje)
+- **jyje** (https://github.com/jyje) (현재 메인테이너)
 
 ## 사용한 패키지들
 - WPF UX: **mahapps.metro** (https://mahapps.com/, https://github.com/MahApps/MahApps.Metro)
@@ -47,7 +47,7 @@ _조언해주시고, 테스트 해 주시고, 아이디어를 제공해 주신 �
 
 _혹시 빠진 분들이 있으면 알려주세요. 그리고 여기에 남겨지기 싫어하신다면 마찬가지로 알려주세요_
 
-연락처: the.semirain@gmail.com
+연락처: jyjeon@outlook.com
 
 <p align="center">
 .<br/><br/>
